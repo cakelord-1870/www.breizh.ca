@@ -1,0 +1,1158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.breizh.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.breizh.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.breizh.ca/collections/spa-tools.atom"/>
+  <title>Breizh Esthetics &amp; Salon Supply Co.</title>
+  <updated>2017-06-09T12:22:52-07:00</updated>
+  <author>
+    <name>Breizh Esthetics &amp; Salon Supply Co.</name>
+  </author>
+  <entry>
+    <id>https://www.breizh.ca/products/8120540421</id>
+    <published>2017-06-09T12:22:52-07:00</published>
+    <updated>2017-06-09T12:22:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/spa-tools-dannyco-pointed-tip-tweezers"/>
+    <title>Spa Tools - Dannyco Pointed Tip Tweezers</title>
+    <s:type>Tweezer</s:type>
+    <s:vendor>Dannyco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/TSE-2018C.jpg?v=1521759297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dannyco<br>
+        <strong>Type: </strong>Tweezer<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Pointed tip for ingrown hair, new growth, splinters and blackheads</li>
+<li>Smooth action</li>
+<li>Well balanced with easy-grip handle</li>
+<li>Package designed to hang on displays</li>
+</ul>
+<p>Professional implement :</p>
+<ul>
+<li>All parts are made of STAINLESS STEEL</li>
+<li>STERILIZABLE by the most stringent methods</li>
+<li>All cutting edges and points are polished and extremely sharp</li>
+<li>Smooth action at all joints and springs</li>
+<li>Well balanced with easy-grip handles</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8120540421</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>DANNYCO-00001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8120534725</id>
+    <published>2017-06-09T11:51:42-07:00</published>
+    <updated>2017-06-09T11:51:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/spa-tools-dannyco-slanted-tip-tweezer"/>
+    <title>Spa Tools - Dannyco Slanted Tip Tweezer</title>
+    <s:type>Tweezer</s:type>
+    <s:vendor>Dannyco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/TSE-2019C.jpg?v=1521759299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dannyco<br>
+        <strong>Type: </strong>Tweezer<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Slanted tip – all-purpose for removing facial hair, bikini line, and other unwanted hair.</li>
+<li>All parts are made of STAINLESS STEEL</li>
+<li>STERILIZABLE by the most stringent methods</li>
+<li>Points are polished</li>
+<li>Smooth action</li>
+<li>Well balanced with easy-grip handle</li>
+<li>Package designed to hang on displays</li>
+</ul>
+<p>Professional implement :</p>
+<ul>
+<li>All cutting edges and points are polished and extremely sharp</li>
+<li>Smooth action at all joints and springs</li>
+<li>Well balanced with easy-grip handles</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8120534725</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>DANNYCO-00002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8120358213</id>
+    <published>2017-06-09T11:41:18-07:00</published>
+    <updated>2017-06-09T11:41:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/spa-tools-dannyco-straight-head-tweezer"/>
+    <title>Spa Tools - Dannyco Straight Head Tweezer</title>
+    <s:type>Tweezer</s:type>
+    <s:vendor>Dannyco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/TSE-2062C.jpg?v=1521759305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dannyco<br>
+        <strong>Type: </strong>Tweezer<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Straight-head tip for removing fine hair and shaping eyebrows</li>
+<li>All parts are made of STAINLESS STEEL</li>
+<li>STERILIZABLE by the most stringent methods</li>
+<li>Smooth action</li>
+<li>Well balanced with easy-grip handle</li>
+<li>Package designed to hang on displays</li>
+</ul>
+<br><span>Professional implement :</span>
+<ul>
+<li>All cutting edges and points are polished and extremely sharp</li>
+<li>Smooth action at all joints and springs</li>
+<li>Well balanced with easy-grip handles</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8120358213</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.95</s:price>
+      <s:sku>DANNYCO-00003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8120337413</id>
+    <published>2017-06-09T11:34:46-07:00</published>
+    <updated>2017-06-09T11:34:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/spa-tools-dannyco-stainless-steel-footfile-kit"/>
+    <title>Spa Tools - Dannyco Stainless Steel Footfile Kit</title>
+    <s:type>File</s:type>
+    <s:vendor>Dannyco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/SLSSFF4000KITC_PKG.jpg?v=1521759305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dannyco<br>
+        <strong>Type: </strong>File<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Lightweight foot file made of stainless steel</li>
+<li>Sterilizable and sanitizable</li>
+<li>Ergonomic and comfortable handle</li>
+<li>Double sided with wide filing surface</li>
+<li>Includes 40 self-adhesive filing pads:<br>- 20 pads with 60 grit: excellent for removing calluses<br>- 20 pads with 120 grit: perfect for smooth skin</li>
+<li>Adhesive pads are easy to apply and remove</li>
+<li>Disposable and hygienic to prevent cross contamination</li>
+<li>Can be used on dry or wet feet</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8120337413</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku>DANNYCO-00004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8113275141</id>
+    <published>2017-06-08T12:54:05-07:00</published>
+    <updated>2017-06-08T12:54:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/spa-tools-spoon-extractor"/>
+    <title>Spa Tools - Spoon/Extractor</title>
+    <s:type>Extractor</s:type>
+    <s:vendor>Dannyco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/ESE-2052C.jpg?v=1521759369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dannyco<br>
+        <strong>Type: </strong>Extractor<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Two sizes of spoons for extracting, with the smaller side especially good for hard-to-reach areas</li>
+<li>All parts are made of STAINLESS STEEL</li>
+<li>STERILIZABLE by the most stringent methods</li>
+<li>Smooth action</li>
+<li>Well balanced with easy-grip handle</li>
+<li>Package designed to hang on displays</li>
+</ul>
+<p>Professional implement :</p>
+<ul>
+<li>All cutting edges and points are polished and extremely sharp</li>
+<li>Smooth action at all joints and springs</li>
+<li>Well balanced with easy-grip handles</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8113275141</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>DANNYCO-00005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8113255685</id>
+    <published>2017-06-08T12:51:28-07:00</published>
+    <updated>2017-06-08T12:51:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/spa-tools-dannyco-lancet-extractor"/>
+    <title>Spa Tools - Dannyco Lancet Extractor</title>
+    <s:type>Extractor</s:type>
+    <s:vendor>Dannyco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/ESE-2022C.jpg?v=1521759286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dannyco<br>
+        <strong>Type: </strong>Extractor<br>
+        <strong>Price: </strong>
+            21.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Lancet pierces whiteheads</li>
+<li>Ring presses out blackheads</li>
+<li>All parts are made of STAINLESS STEEL</li>
+<li>STERILIZABLE by the most stringent methods</li>
+<li>Points are polished</li>
+<li>Smooth action</li>
+<li>Well balanced with easy-grip handle</li>
+<li>Package designed to hang on displays</li>
+</ul>
+<br><span>Professional implement :</span>
+<ul>
+<li>All parts are made of STAINLESS STEEL</li>
+<li>STERILIZABLE by the most stringent methods</li>
+<li>All cutting edges and points are polished and extremely sharp</li>
+<li>Smooth action at all joints and springs</li>
+<li>Well balanced with easy-grip handles</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8113255685</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.95</s:price>
+      <s:sku>DANNYCO-00006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8113240645</id>
+    <published>2017-06-08T12:42:22-07:00</published>
+    <updated>2017-06-08T12:42:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/spa-tools-dannyco-comedo-extractor"/>
+    <title>Spa Tools - Dannyco Comedo Extractor</title>
+    <s:type>Extractor</s:type>
+    <s:vendor>Dannyco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/ESE-2023C.jpg?v=1521759242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dannyco<br>
+        <strong>Type: </strong>Extractor<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Double loops</li>
+<li>Perfect for removing blackheads and whiteheads</li>
+<li>All parts are made of STAINLESS STEEL</li>
+<li>STERILIZABLE by the most stringent methods</li>
+<li>Smooth action</li>
+<li>Well balanced with easy-grip handle</li>
+<li>Package designed to hang on displays</li>
+</ul>
+<p>Professional implement :</p>
+<ul>
+<li>All cutting edges and points are polished and extremely sharp</li>
+<li>Smooth action at all joints and springs</li>
+<li>Well balanced with easy-grip handles</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8113240645</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>DANNYCO-00007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8113166149</id>
+    <published>2017-06-08T12:40:23-07:00</published>
+    <updated>2017-06-08T12:40:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/spa-tools-dannyco-cuticle-nipper"/>
+    <title>Spa Tools - Dannyco Cuticle Nipper</title>
+    <s:type>Cuticle Nipper</s:type>
+    <s:vendor>Dannyco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/NSE-2001C.jpg?v=1521759252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dannyco<br>
+        <strong>Type: </strong>Cuticle Nipper<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>4" cuticle nipper (5 mm Half jaw)</li>
+<li>Adjustable double springs combined with box joints offer superior precision</li>
+<li>All parts are made of STAINLESS STEEL</li>
+<li>STERILIZABLE by the most stringent methods</li>
+<li>Points are polished</li>
+<li>Smooth action</li>
+<li>Well balanced with easy-grip handle</li>
+<li>Package designed to hang on displays</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8113166149</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku>DANNYCO-00008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8113154053</id>
+    <published>2017-06-08T12:37:33-07:00</published>
+    <updated>2017-06-08T12:37:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/spa-tools-dannico-cuticle-nipper"/>
+    <title>Spa Tools - Dannico Cuticle Nipper</title>
+    <s:type>Cuticle Nipper</s:type>
+    <s:vendor>Dannyco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/NSE2002NC.jpg?v=1521759223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dannyco<br>
+        <strong>Type: </strong>Cuticle Nipper<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>4" cuticle nipper (2.5 mm quarter jaw)</li>
+<li>Adjustable double springs combined with box joints offer superior precision</li>
+<li>All parts are made of STAINLESS STEEL</li>
+<li>STERILIZABLE by the most stringent methods</li>
+<li>Points are polished</li>
+<li>Smooth action</li>
+<li>Well balanced with easy-grip handle</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8113154053</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku>DANNYCO-00009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8112919941</id>
+    <published>2017-06-08T11:59:52-07:00</published>
+    <updated>2017-06-08T11:59:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/spa-tools-cuticle-pusher-remover"/>
+    <title>Spa Tools - Cuticle Pusher/Remover</title>
+    <s:type>Cuticle pusher</s:type>
+    <s:vendor>Dannyco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/PSE-2014C.jpg?v=1521759218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dannyco<br>
+        <strong>Type: </strong>Cuticle pusher<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Flat end removes hard skin</li>
+<li>Curved end will not scratch nail</li>
+<li>All parts are made of STAINLESS STEEL</li>
+<li>STERILIZABLE by the most stringent methods</li>
+<li>Points are polished</li>
+<li>Smooth action</li>
+<li>Well balanced with easy-grip handle</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8112919941</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>DANNYCO-00010</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8112900549</id>
+    <published>2017-06-08T11:56:32-07:00</published>
+    <updated>2017-06-08T11:56:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/spa-tools-dannyco-ingrown-toenail-lifter"/>
+    <title>Spa Tools - Dannyco Ingrown Toenail Lifter</title>
+    <s:type>Ingrown Toenail Lifter</s:type>
+    <s:vendor>Dannyco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/LSE-2077C.jpg?v=1521759282"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dannyco<br>
+        <strong>Type: </strong>Ingrown Toenail Lifter<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Curved end lifts toenail to clean and apply treatments</li>
+<li>Straight end cleans hard-to-reach areas around the toenail</li>
+<li>All parts are made of STAINLESS STEEL</li>
+<li>STERILIZABLE by the most stringent methods</li>
+<li>Smooth action</li>
+<li>Well balanced with easy-grip handle</li>
+<li>Package designed to hang on displays</li>
+</ul>
+<p>Professional implement:</p>
+<ul>
+<li>All cutting edges and points are polished and extremely sharp</li>
+<li>Smooth action at all joints and springs</li>
+<li>Well balanced with easy-grip handles</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8112900549</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>DANNYCO-00011</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8112887813</id>
+    <published>2017-06-08T11:52:27-07:00</published>
+    <updated>2017-06-08T11:52:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/spa-tools-dannyco-cuticle-pusher-pterygium-remover"/>
+    <title>Spa Tools - Dannyco Cuticle Pusher/Pterygium Remover</title>
+    <s:type>Cuticle pusher</s:type>
+    <s:vendor>Dannyco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/PSE-2057C.jpg?v=1521759254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dannyco<br>
+        <strong>Type: </strong>Cuticle pusher<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Blade removes pterygium, the forward growth of the cuticle that adheres to the nail</li>
+<li>Curved end pushes back the cuticle and won't scratch the nail</li>
+<li>All parts are made of STAINLESS STEEL</li>
+<li>STERILIZABLE by the most stringent methods</li>
+<li>Points are polished</li>
+<li>Smooth action</li>
+<li>Well balanced with easy-grip handle</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8112887813</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>DANNYCO-00012</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8112868037</id>
+    <published>2017-06-08T11:50:37-07:00</published>
+    <updated>2017-06-08T11:50:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/spa-tools-dannyco-ingrown-toenail-nipper"/>
+    <title>Spa Tools - Dannyco Ingrown Toenail Nipper</title>
+    <s:type>Nipper</s:type>
+    <s:vendor>Dannyco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/NSE-2007C.jpg?v=1521759282"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dannyco<br>
+        <strong>Type: </strong>Nipper<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>All parts are made of STAINLESS STEEL</li>
+<li>STERILIZABLE by the most stringent methods</li>
+<li>All cutting edges and points are polished and extremely sharp</li>
+<li>Smooth action at all joints and springs</li>
+<li>Well balanced with easy-grip handles</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8112868037</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>DANNYCO-00013</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8112856133</id>
+    <published>2017-06-08T11:44:18-07:00</published>
+    <updated>2017-06-08T11:44:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/spa-tools-dannyco-cuticle-pusher-spoon-nail-cleaner"/>
+    <title>Spa Tools - Dannyco Cuticle Pusher &amp; Spoon Nail Cleaner</title>
+    <s:type>Cuticle pusher</s:type>
+    <s:vendor>Dannyco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/PSE-2016C.jpg?v=1521759252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dannyco<br>
+        <strong>Type: </strong>Cuticle pusher<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Curved end will not scratch nail</li>
+<li>Spoon end cleans dirt from under nail</li>
+<li>All parts are made of STAINLESS STEEL</li>
+<li>STERILIZABLE by the most stringent methods</li>
+<li>Points are polished</li>
+<li>Smooth action</li>
+<li>Well balanced with easy-grip handle</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8112856133</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>DANNYCO-00014</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8112824261</id>
+    <published>2017-06-08T11:34:39-07:00</published>
+    <updated>2017-06-08T11:34:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/spa-tools-dannyco-ingrown-toenail-file"/>
+    <title>Spa Tools - Dannyco Ingrown Toenail File</title>
+    <s:type>Ingrown File</s:type>
+    <s:vendor>Dannyco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/FSE-2017C.jpg?v=1521759275"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dannyco<br>
+        <strong>Type: </strong>Ingrown File<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Double-sided</li>
+<li>All parts are made of STAINLESS STEEL</li>
+<li>STERILIZABLE by the most stringent method</li>
+<li>Smooth action</li>
+<li>Well balanced with easy-grip handle</li>
+<li>Package designed to hang on displays</li>
+</ul>
+<p>Professional implement :</p>
+<ul>
+<li>All cutting edges and points are polished and extremely sharp</li>
+<li>Smooth action at all joints and springs</li>
+<li>Well balanced with easy-grip handles</li>
+<li>Package designed to hang on displays</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8112824261</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>DANNYCO-00015</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8112712901</id>
+    <published>2017-06-08T11:22:29-07:00</published>
+    <updated>2017-06-08T11:22:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/spa-tools-dannyco-finishing-polishing-block"/>
+    <title>Spa Tools - Dannyco Finishing/Polishing Block</title>
+    <s:type>File</s:type>
+    <s:vendor>Dannyco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/HG-BLC.jpg?v=1521759268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dannyco<br>
+        <strong>Type: </strong>File<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Hygienic, high gloss finishing polishing block for manicure and pedicure</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8112712901</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku>DANNYCO-00016</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8112705989</id>
+    <published>2017-06-08T11:17:38-07:00</published>
+    <updated>2017-06-08T11:17:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/spa-tools-dannyco-sanitizable-block"/>
+    <title>Spa Tools - Dannyco Sanitizable Block</title>
+    <s:type>File</s:type>
+    <s:vendor>Dannyco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/SBL-18C.jpg?v=1521759297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dannyco<br>
+        <strong>Type: </strong>File<br>
+        <strong>Price: </strong>
+            2.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Available in:</div>
+<ul>
+<li>Medium - Fine with Grit : 100 / 180 / 180</li>
+<li>Fine - Extra Fine with Grit : 320 / 320 / 320</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8112705989</id>
+      <title>Medium-Fine</title>
+      <s:price currency="CAD">2.10</s:price>
+      <s:sku>DANNYCO-00017</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8112705989</id>
+      <title>Fine-Extra Fine</title>
+      <s:price currency="CAD">2.10</s:price>
+      <s:sku>DANNYCO-00018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8112683781</id>
+    <published>2017-06-08T11:14:41-07:00</published>
+    <updated>2017-06-08T11:14:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/spa-tools-dannyco-three-sided-buffing-block"/>
+    <title>Spa Tools - Dannyco Three-sided Buffing Block</title>
+    <s:type>File</s:type>
+    <s:vendor>Dannyco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/DBL-16C.jpg?v=1521759310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dannyco<br>
+        <strong>Type: </strong>File<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>For a gleaming, natural shine on natural or artificial nails</li>
+<li>SMOOTH with the black side, BUFF with the white side, and POLISH with the gray side</li>
+<li>THREE-sided buffing block</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8112683781</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>DANNYCO-00019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8112675589</id>
+    <published>2017-06-08T11:09:51-07:00</published>
+    <updated>2017-06-08T11:09:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/spa-tools-dannyco-hygienic-white-block"/>
+    <title>Spa Tools - Dannyco Hygienic White Block</title>
+    <s:type>File</s:type>
+    <s:vendor>Dannyco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/DBL-15C.jpg?v=1521759273"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dannyco<br>
+        <strong>Type: </strong>File<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>For a gleaming, natural shine on natural or artificial nails</li>
+<li>Hygienic disposable block</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8112675589</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku>DANNYCO-00020</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8112624645</id>
+    <published>2017-06-08T10:57:36-07:00</published>
+    <updated>2017-06-08T10:57:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/spa-tools-dannyco-wood-core-file"/>
+    <title>Spa Tools - Dannyco Wood Core File</title>
+    <s:type>File</s:type>
+    <s:vendor>Dannyco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/DW-10C.jpg?v=1521759324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dannyco<br>
+        <strong>Type: </strong>File<br>
+        <strong>Price: </strong>
+            0.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>File with wood core.</li>
+<li>Thin and ideal for natural nails in manicures and pedicures</li>
+<li>Grit : 400 / 400</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8112624645</id>
+      <title>Brown</title>
+      <s:price currency="CAD">0.25</s:price>
+      <s:sku>DANNYCO-00021</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8112624645</id>
+      <title>Black</title>
+      <s:price currency="CAD">0.25</s:price>
+      <s:sku>DANNYCO-00022</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8112601285</id>
+    <published>2017-06-08T10:42:49-07:00</published>
+    <updated>2017-06-08T10:42:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/spa-tools-dannyco-colour-coded-chushion-file"/>
+    <title>Spa Tools - Dannyco Colour Coded Chushion File</title>
+    <s:type>File</s:type>
+    <s:vendor>Dannyco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/DP-5C.jpg?v=1521759240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dannyco<br>
+        <strong>Type: </strong>File<br>
+        <strong>Price: </strong>
+            0.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Disposables files with grit variety for manicure and pedicure</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8112601285</id>
+      <title>Blue 80 / 80</title>
+      <s:price currency="CAD">0.89</s:price>
+      <s:sku>DANNYCO-00023</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8112601285</id>
+      <title>Lavender 240 / 240</title>
+      <s:price currency="CAD">0.89</s:price>
+      <s:sku>DANNYCO-00024</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8112601285</id>
+      <title>Red 100 / 100</title>
+      <s:price currency="CAD">0.89</s:price>
+      <s:sku>DANNYCO-00025</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8112601285</id>
+      <title>White 180 / 180</title>
+      <s:price currency="CAD">0.89</s:price>
+      <s:sku>DANNYCO-00026</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8112601285</id>
+      <title>Green 100/180</title>
+      <s:price currency="CAD">0.89</s:price>
+      <s:sku>DANNYCO-00027</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8112475205</id>
+    <published>2017-06-08T10:25:39-07:00</published>
+    <updated>2017-06-08T10:25:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/spa-tools-dannyco-three-sided-extra-chushioned-buffer"/>
+    <title>Spa Tools - Dannyco Three-Sided Extra Chushioned Buffer</title>
+    <s:type>File</s:type>
+    <s:vendor>Dannyco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/DB-14-XLC.jpg?v=1521759314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dannyco<br>
+        <strong>Type: </strong>File<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>For a gleaming, natural shine on natural or artificial nails</li>
+<li>SMOOTH with the black side, BUFF with the white side, and POLISH with the gray side</li>
+<li>THREE-sided EXTRA-CUSHIONED buffer</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8112475205</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku>DANNYCO-00028</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8112422469</id>
+    <published>2017-06-08T10:22:37-07:00</published>
+    <updated>2017-06-08T10:22:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/spa-tools-dannyco-disposable-cushion-file"/>
+    <title>Spa Tools - Dannyco Disposable Cushion File</title>
+    <s:type>File</s:type>
+    <s:vendor>Dannyco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/DP-26C.jpg?v=1521759265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dannyco<br>
+        <strong>Type: </strong>File<br>
+        <strong>Price: </strong>
+            0.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Cushioned blue file</li>
+<li>For artificial or natural nails</li>
+<li>Double-sided: blue coarse side and aqua ultra fine side</li>
+<li>Suitable for manicures or pedicures</li>
+<li>Hygienic</li>
+<li>Durable and economical</li>
+<li>7" long</li>
+<li>Grit : 120 / 320, (coarse &amp; ultra fine)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8112422469</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.89</s:price>
+      <s:sku>DANNYCO-00029</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8112388101</id>
+    <published>2017-06-08T10:16:11-07:00</published>
+    <updated>2017-06-08T10:16:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/spa-tools-dannyco-disposable-boomerang-zebra-file"/>
+    <title>Spa Tools - Dannyco Disposable Boomerang Zebra File</title>
+    <s:type>File</s:type>
+    <s:vendor>Dannyco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/DP-8C.jpg?v=1521759259"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dannyco<br>
+        <strong>Type: </strong>File<br>
+        <strong>Price: </strong>
+            0.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Grit : 180 / 180</li>
+<li>Zebra boomerang file</li>
+<li>Curved to go around the cuticles</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8112388101</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.89</s:price>
+      <s:sku>DANNYCO-00030</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8106534597</id>
+    <published>2017-06-07T15:27:32-07:00</published>
+    <updated>2017-06-07T15:27:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/spa-tools-cuticle-knife"/>
+    <title>Spa Tools -  Cuticle Knife</title>
+    <s:type>Cuticle knife</s:type>
+    <s:vendor>Mertz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/FullSizeRender_1.jpg?v=1521759201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mertz<br>
+        <strong>Type: </strong>Cuticle knife<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cuticle knife.</p>
+<p>Stainless steel with plastic handle</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8106534597</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku>MERTZ-00001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

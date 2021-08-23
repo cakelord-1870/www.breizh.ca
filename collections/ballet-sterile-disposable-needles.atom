@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.breizh.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.breizh.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.breizh.ca/collections/ballet-sterile-disposable-needles.atom"/>
+  <title>Breizh Esthetics &amp; Salon Supply Co.</title>
+  <updated>2015-10-23T17:12:00-07:00</updated>
+  <author>
+    <name>Breizh Esthetics &amp; Salon Supply Co.</name>
+  </author>
+  <entry>
+    <id>https://www.breizh.ca/products/2555134533</id>
+    <published>2015-10-23T17:12:00-07:00</published>
+    <updated>2015-10-23T17:12:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/depilatory-ballet-insulated-electrolysis-needles"/>
+    <title>Depilatory - Ballet Insulated Electrolysis Needles</title>
+    <s:type>Depilatory</s:type>
+    <s:vendor>Ballet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Ballet-Insulated-Electrolysis-Needles-50.jpg?v=1521756624"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ballet<br>
+        <strong>Type: </strong>Depilatory<br>
+        <strong>Price: </strong>
+            76.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/kEY9ZvQfvmA" frameborder="0" allowfullscreen=""></iframe></p>
+<p>The Ballet insulated needle is coated with a medical-grade insulation less than one micron thick. This special coating, developed for use on dental prosthetics, allows smooth insertions and stands up to the longest treatment.</p>
+<p>Security from over-treatment is excellent. The sensitive surface layers of the skin are protected and important reductions of discomfort are possible.</p>
+<p>The insulated needle is suggested for clients with a high sensitivity to the discomfort of electrolysis.</p>
+<p>Sizes available: F2, F3, F4, F5</p>
+<p><strong>Save 5% when you buy 5 or more!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>electrolysis</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2555134533</id>
+      <title>F2</title>
+      <s:price currency="CAD">76.95</s:price>
+      <s:sku>BALLET-00001</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2555134533</id>
+      <title>F2S (Short)</title>
+      <s:price currency="CAD">76.95</s:price>
+      <s:sku>BALLET-00002</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2555134533</id>
+      <title>F3</title>
+      <s:price currency="CAD">76.95</s:price>
+      <s:sku>BALLET-00003</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2555134533</id>
+      <title>F4</title>
+      <s:price currency="CAD">76.95</s:price>
+      <s:sku>BALLET-00004</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2555134533</id>
+      <title>F5</title>
+      <s:price currency="CAD">76.95</s:price>
+      <s:sku>BALLET-00005</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2555065989</id>
+    <published>2015-10-23T17:05:00-07:00</published>
+    <updated>2015-10-23T17:05:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/depilatory-ballet-gold-electrolysis-needles"/>
+    <title>Depilatory - Ballet Gold Electrolysis Needles</title>
+    <s:type>Depilatory</s:type>
+    <s:vendor>Ballet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Ballet-Gold-Electrolysis-Needles-50.jpg?v=1521756621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ballet<br>
+        <strong>Type: </strong>Depilatory<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/kEY9ZvQfvmA" frameborder="0" allowfullscreen=""></iframe></p>
+<p>The Ballet gold needle is with nickel-free, 24 carat gold. Gold has many acknowledged medical uses from acupuncture needles to ear piercing posts, and its benefits are clear in electrolysis.</p>
+<p>Redness and swelling are reduced and the skin rapidly returns to normal ater even the most delicate treatments, particularly red vein and skin tag work.</p>
+<p>The 24ct gold needle responds to the needs of clients who suffer from the allergies and sensitive skin and whose skin reacts negatively to standard stainless steel probes.</p>
+<p>Sizes Available: F2, F3, F4, F5</p>
+<p><strong>Save 5% when you purchase 5 or more!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Electrolysis</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2555065989</id>
+      <title>F2</title>
+      <s:price currency="CAD">69.95</s:price>
+      <s:sku>BALLET-00006</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2555065989</id>
+      <title>F3</title>
+      <s:price currency="CAD">69.95</s:price>
+      <s:sku>BALLET-00007</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2555065989</id>
+      <title>F4</title>
+      <s:price currency="CAD">69.95</s:price>
+      <s:sku>BALLET-00008</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2555065989</id>
+      <title>F5</title>
+      <s:price currency="CAD">69.95</s:price>
+      <s:sku>BALLET-00009</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2554980357</id>
+    <published>2015-10-23T16:53:00-07:00</published>
+    <updated>2015-10-23T16:53:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/depilatory-ballet-stainless-steel-electrolysis-needles"/>
+    <title>Depilatory - Ballet Stainless Steel Electrolysis Needles</title>
+    <s:type>Depilatory</s:type>
+    <s:vendor>Ballet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Ballet-stainless-steel-electrolysis-needles.jpeg?v=1521756629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ballet<br>
+        <strong>Type: </strong>Depilatory<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/kEY9ZvQfvmA" frameborder="0" allowfullscreen=""></iframe></p>
+<p>The Ballet Stainless Steel Needle is the most economical needle in the Ballet range. It is sculpted from 18/8 nickel-chrome Swedish stainless steel - the same as used in fine surgical instruments.</p>
+<p>Micro-polishing is used to achieve Ballet's unique, rounded point. Current intensity can be lowered and insertions are smooth, precise and comfortable.</p>
+<p>Stainless-steel is ideal for clients with strong healthy skin who respond well to electrolysis treatments.</p>
+<p>Sizes available: F2, F3, F4, F5</p>
+<p><strong>Save 5% when you buy 5 or more boxes!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Electrolysis</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2554980357</id>
+      <title>F2</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku>BALLET-00010</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2554980357</id>
+      <title>F3</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku>BALLET-00011</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2554980357</id>
+      <title>F4</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku>BALLET-00012</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2554980357</id>
+      <title>F5</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku>BALLET-00013</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+</feed>

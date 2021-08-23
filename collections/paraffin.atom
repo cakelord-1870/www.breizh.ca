@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.breizh.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.breizh.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.breizh.ca/collections/paraffin.atom"/>
+  <title>Breizh Esthetics &amp; Salon Supply Co.</title>
+  <updated>2015-10-15T23:31:00-07:00</updated>
+  <author>
+    <name>Breizh Esthetics &amp; Salon Supply Co.</name>
+  </author>
+  <entry>
+    <id>https://www.breizh.ca/products/2471132229</id>
+    <published>2015-10-15T23:31:00-07:00</published>
+    <updated>2015-10-15T23:31:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/paraffin-therabath-facial-application-brushes"/>
+    <title>Paraffin - Therabath Facial Application Brushes</title>
+    <s:type>Paraffin</s:type>
+    <s:vendor>Therabath</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/therabath-paraffin-facial-body-brushes.png?v=1521757964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Therabath<br>
+        <strong>Type: </strong>Paraffin<br>
+        <strong>Price: </strong>
+            14.95 - 26.95
+            <a href="https://www.breizh.ca/products/paraffin-therabath-facial-application-brushes">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p align="justify"><span class="style18"><span class="bodytext"><strong>Therabath® Paraffin Application Brushes</strong> are perfect for applying paraffin to large areas such as the back or on the face. Application brushes work well in conjunction with our<a href="http://www.therabathpro.com/products/strips.php">paraffin strips</a>.</span></span></p>
+<ul class="style13">
+<li class="paragraph_text">Natural bristles</li>
+<li class="style10"><span class="paragraph_text">Glossy white handles</span></li>
+<li class="style10"><span class="paragraph_text">Sizes: 1” facial or 2” body</span></li>
+<li class="style10"><span class="paragraph_text">Made in the U.S.A</span></li>
+<li class="style10"><span class="paragraph_text">Available individually or as a set of 2</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>facial</s:tag>
+    <s:tag>Paraffin</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2471132229</id>
+      <title>1&quot; Facial Brush</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>THERABAT-00001</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2471132229</id>
+      <title>2&quot; Body Brush</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>THERABAT-00002</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2471132229</id>
+      <title>1 of Each</title>
+      <s:price currency="CAD">26.95</s:price>
+      <s:sku>THERABAT-00003</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2471058949</id>
+    <published>2015-10-15T23:25:00-07:00</published>
+    <updated>2015-10-15T23:25:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/paraffin-therabath-plastic-liners-for-mitts-boots"/>
+    <title>Therabath - Paraffin  Plastic Liners for Mitts/Boots x100</title>
+    <s:type>Paraffin</s:type>
+    <s:vendor>Therabath</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Therabath-Paraffin-liner-hand.jpg?v=1521759532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Therabath<br>
+        <strong>Type: </strong>Paraffin<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="style5"><iframe width="560" height="315" src="https://www.youtube.com/embed/1h9Ms8Q2sAQ" frameborder="0" allowfullscreen=""></iframe></p>
+<p class="style5">Use plastic liners alone, or, with Therabath insulated mitts or boots. Liners hold in heat for a longer therapeutic treatment and keep mitt/boot lining clean.</p>
+<ul class="style13">
+<li class="style10">100 liners per package</li>
+<li class="style10">Extra large size fits both hands and feet (9" x 15")</li>
+<li class="style10">Perforated at the top for easy use</li>
+<li class="style10">Disposable</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Paraffin</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2471058949</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>THERABAT-00004</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2470966661</id>
+    <published>2015-10-15T23:15:00-07:00</published>
+    <updated>2015-10-15T23:15:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/paraffin-therabath-insulated-boots"/>
+    <title>Therabath - Paraffin Insulated Boots</title>
+    <s:type>Paraffin</s:type>
+    <s:vendor>Therabath</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/therabath-paraffin-insulated-boots.jpeg?v=1521759545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Therabath<br>
+        <strong>Type: </strong>Paraffin<br>
+        <strong>Price: </strong>
+            41.95 - 55.95
+            <a href="https://www.breizh.ca/products/paraffin-therabath-insulated-boots">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="style5"><iframe width="560" height="315" src="https://www.youtube.com/embed/1h9Ms8Q2sAQ" frameborder="0" allowfullscreen=""></iframe></p>
+<p class="style5">Use these insulated boots along with disposable plastic liners to retain the warmth from paraffin treatments, prolonging the heat benefit for increased pain and stiffness relief and softer, smoother skin.</p>
+<ul class="style13">
+<li class="style10">Two per package</li>
+<li class="style10"><span class="style8">Heavyweight plush polyester-velour, cotton-lining</span></li>
+<li class="style10"><span class="style8">Easy-to-use hook/loop closures</span></li>
+<li class="style10">8oz fiberfill insulated for extra comfort and warmth</li>
+<li class="style10">Large size</li>
+<li><span class="style10">Machine washable</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2470966661</id>
+      <title>Boots</title>
+      <s:price currency="CAD">41.95</s:price>
+      <s:sku>THERABAT-00005</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2470966661</id>
+      <title>Boots w/100 Liners</title>
+      <s:price currency="CAD">55.95</s:price>
+      <s:sku>THERABAT-00006</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2470876933</id>
+    <published>2015-10-15T23:08:00-07:00</published>
+    <updated>2015-10-15T23:08:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/paraffin-therabath-plush-mitts"/>
+    <title>Therabath - Paraffin Plush Mitts</title>
+    <s:type>Paraffin</s:type>
+    <s:vendor>Therabath</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/therabath-paraffin-insulated-mitts.png?v=1521759553"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Therabath<br>
+        <strong>Type: </strong>Paraffin<br>
+        <strong>Price: </strong>
+            37.95 - 51.95
+            <a href="https://www.breizh.ca/products/paraffin-therabath-plush-mitts">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="style5"><iframe width="560" height="315" src="https://www.youtube.com/embed/1h9Ms8Q2sAQ" frameborder="0" allowfullscreen=""></iframe></p>
+<p class="style5">Use these insulated mitts along with disposable plastic liners to retain the warmth from paraffin treatments, prolonging the heat benefit for increased pain and stiffness relief and softer, smoother skin.</p>
+<ul class="style13">
+<li class="style10">Made in the U.S.A!</li>
+<li class="style10">Two per package</li>
+<li class="style10">Heavyweight plush material</li>
+<li class="style10">Fiberfill insulation</li>
+<li class="style10">Hook &amp; loop closure</li>
+<li class="style10">Machine washable</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Linens</s:tag>
+    <s:tag>Paraffin</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2470876933</id>
+      <title>Mitts</title>
+      <s:price currency="CAD">37.95</s:price>
+      <s:sku>THERABAT-00007</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2470876933</id>
+      <title>Mitt Kit w/100 liners</title>
+      <s:price currency="CAD">51.95</s:price>
+      <s:sku>THERABAT-00008</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2467409093</id>
+    <published>2015-10-15T16:41:00-07:00</published>
+    <updated>2015-10-15T16:41:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/paraffin-therabath-application-strips"/>
+    <title>Therabath - Paraffin Application Strips</title>
+    <s:type>Paraffin</s:type>
+    <s:vendor>Therabath</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/strips_back.jpeg?v=1521759535"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Therabath<br>
+        <strong>Type: </strong>Paraffin<br>
+        <strong>Price: </strong>
+            3.95 - 29.95
+            <a href="https://www.breizh.ca/products/paraffin-therabath-application-strips">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span class="paragraph_text"><strong><iframe width="560" height="315" src="https://www.youtube.com/embed/1h9Ms8Q2sAQ" frameborder="0" allowfullscreen=""></iframe></strong></span></p>
+<p><span class="paragraph_text"><strong>Paraffin Application Strips</strong> make those hard to dip areas easy! Apply paraffin to large areas such as the back or thigh, or as a joint wrap around elbows or knees. Strips are stretchy, so they conform to most areas. Wax is easily removed along with the strip for easy cleanup! Paraffin not included.</span><span></span></p>
+<p> </p>
+<ul class="style13">
+<li class="style10">Disposable</li>
+<li class="style10">40 per pkg,  8 x 40 pkgs per box</li>
+<li class="style10"><span class="main_head1"><strong></strong></span></li>
+<li class="style10">
+<span class="main_head1"><strong>Use:</strong><br></span><span>To heat the strips you simply dip them in your Therabath and allow the excess to drip off.  To apply them, either lay them across large areas such as the back or wrap them around limbs or joints such as a thigh or knee.  Great for areas that are large or that are difficult or impossible to dip in your bath.</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Paraffin</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2467409093</id>
+      <title>Paraffin strips x 320</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku>THERABAT-00009</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2467409093</id>
+      <title>Paraffin strips x 40</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku>THERABAT-00010</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2467068741</id>
+    <published>2015-10-15T16:19:00-07:00</published>
+    <updated>2015-10-15T16:19:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/paraffin-therabath-paraffin-wax-refills"/>
+    <title>Therabath -  Paraffin Wax Refills</title>
+    <s:type>Paraffin</s:type>
+    <s:vendor>Therabath</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Therabath-paraffin-wax-blooming-lilac.png?v=1521759526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Therabath<br>
+        <strong>Type: </strong>Paraffin<br>
+        <strong>Price: </strong>
+            37.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><iframe width="560" height="315" src="https://www.youtube.com/embed/1h9Ms8Q2sAQ" frameborder="0" allowfullscreen=""></iframe></strong></p>
+<p><strong>Therabath Refill Paraffin Wax leads the market...</strong></p>
+<p class="wax_info_box">Therabath Professional Paraffin Wax remains residue-free, while building thick, pliable layers in an easy-to-remove glove. Our paraffin is soft and pliable eliminating the mess found with dry, brittle paraffin waxes. Use the cooled, pliable ball of wax to effectively exercise the hand during rehabilitation, or enjoy soft, youthful, deeply moisturized, and healthy looking skin!</p>
+<ul>
+<li class="wax_info_box">Made in the U.S.A</li>
+<li class="wax_info_box">contains only FDA Food Grade ingredients</li>
+<li class="wax_info_box">is odorless, colorless and hypoallergenic, then lightly scented and tinted</li>
+<li class="wax_info_box">is expertly blended with all required oils to remain soft and supple, while leaving no oily residue - no need to add additional oil!</li>
+<li class="wax_info_box">is suitable for use in all paraffin baths</li>
+<li class="wax_info_box">is paraben free!</li>
+</ul>
+<p class="wax_info_box">Each 6-lb. (2.72 kg.) refill carton contains six individually wrapped 1-lb. packages. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Paraffin</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2467068741</id>
+      <title>Lilac</title>
+      <s:price currency="CAD">37.95</s:price>
+      <s:sku>THERABAT-00011</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2467068741</id>
+      <title>Grapefruit Tea Tree</title>
+      <s:price currency="CAD">37.95</s:price>
+      <s:sku>THERABAT-00012</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2467068741</id>
+      <title>Peach</title>
+      <s:price currency="CAD">37.95</s:price>
+      <s:sku>THERABAT-00013</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2467068741</id>
+      <title>Lemon</title>
+      <s:price currency="CAD">37.95</s:price>
+      <s:sku>THERABAT-00014</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2467068741</id>
+      <title>Cumcumber Melon Thyme</title>
+      <s:price currency="CAD">37.95</s:price>
+      <s:sku>THERABAT-00015</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2467068741</id>
+      <title>Eucalyptus Rosemary Mint</title>
+      <s:price currency="CAD">37.95</s:price>
+      <s:sku>THERABAT-00016</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2467068741</id>
+      <title>Cranberry Zest</title>
+      <s:price currency="CAD">37.95</s:price>
+      <s:sku>THERABAT-00017</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2467068741</id>
+      <title>Vanilla Cupcake</title>
+      <s:price currency="CAD">37.95</s:price>
+      <s:sku>THERABAT-00018</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2467068741</id>
+      <title>Apple Spice</title>
+      <s:price currency="CAD">37.95</s:price>
+      <s:sku>THERABAT-00019</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2467068741</id>
+      <title>Scent-Free</title>
+      <s:price currency="CAD">37.95</s:price>
+      <s:sku>THERABAT-00020</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2467068741</id>
+      <title>Wintergreen</title>
+      <s:price currency="CAD">37.95</s:price>
+      <s:sku>THERABAT-00021</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2467068741</id>
+      <title>Lavender</title>
+      <s:price currency="CAD">37.95</s:price>
+      <s:sku>THERABAT-00022</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2466769733</id>
+    <published>2015-10-15T15:49:00-07:00</published>
+    <updated>2015-10-15T15:49:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/equipment-therabath-pro-paraffin-bath-heater"/>
+    <title>Equipment - Therabath Pro Paraffin Bath Heater w/6lbs Paraffin</title>
+    <s:type>Equipment</s:type>
+    <s:vendor>Therabath</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Therabath-TB6-Paraffin-Wax-Heater-Bath.jpg?v=1521763682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Therabath<br>
+        <strong>Type: </strong>Equipment<br>
+        <strong>Price: </strong>
+            290.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span class="main_head_sm"><strong><iframe width="560" height="315" src="https://www.youtube.com/embed/1h9Ms8Q2sAQ" frameborder="0" allowfullscreen=""></iframe></strong></span></p>
+<p><span class="main_head_sm"><strong>For Hands, Feet, Face and Body since 1962</strong> </span><br><span class="paragraph_text">For over 90 years paraffin moist heat therapy has been used to relieve pain, inflammation and stiffness caused by arthritis. A form of thermotherapy, paraffin treatments effectively increase blood flow to aid in rehabilitation, or to warm an area of the body prior to other therapies or exercise.</span><span></span></p>
+<p class="paragraph_text">Warm paraffin is also used extensively to soften dry, cracked skin by drawing moisture from within the body to the surface. Hands, feet, face or elbows are left feeling soft and appearing more youthful looking. <br><br>The Therabath Professional Paraffin Bath is USA made to Class II medical device standards, and is still the only Made in the USA CE/ETL listed portable paraffin bath on the market.<br><br>Therabath units are hand-assembled ensuring that each and every one leaves the factory durable, safe, and reliable.</p>
+<table width="618" height="31" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="509">
+<span class="body_text_blk"><strong>ALWAYS SAFE TEMPERATURE RANGE</strong><br></span><span class="paragraph_text">The Therabath Paraffin runs in an "always safe" temperature range and is designed to maintain the desirable therapeutic temperature range of 126 to 130 degrees Fahrenheit. Two internal thermostats ensure that the user will never immerse into wax that is too hot. In addition, the unit safely runs 24 hours per day (we say it's safer than your refrigerator!) so that it is ready to combat pain when the user is</span>!</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body Care</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2466769733</id>
+      <title>White</title>
+      <s:price currency="CAD">290.95</s:price>
+      <s:sku>THERABAT-00023</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2466769733</id>
+      <title>Tan</title>
+      <s:price currency="CAD">290.95</s:price>
+      <s:sku>THERABAT-00024</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

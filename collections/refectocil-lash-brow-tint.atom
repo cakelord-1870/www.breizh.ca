@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.breizh.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.breizh.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.breizh.ca/collections/refectocil-lash-brow-tint.atom"/>
+  <title>Breizh Esthetics &amp; Salon Supply Co.</title>
+  <updated>2018-02-05T10:53:25-08:00</updated>
+  <author>
+    <name>Breizh Esthetics &amp; Salon Supply Co.</name>
+  </author>
+  <entry>
+    <id>https://www.breizh.ca/products/468281327657</id>
+    <published>2018-02-05T10:53:25-08:00</published>
+    <updated>2018-02-05T10:53:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/refectocil-eye-makeup-remover"/>
+    <title>Refectocil - Eye Makeup Remover</title>
+    <s:type></s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/RCil_Saline_Solution.jpg?v=1521758723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Remove the makeup from the clients eyes, safely and gently, with this cleanser suited for all skin types.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/468281327657</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>REFECTOC-00020</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7335808901</id>
+    <published>2017-05-17T22:07:03-07:00</published>
+    <updated>2017-05-17T22:07:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/refectocil-starter-kit"/>
+    <title>Refectocil - Brow &amp; Lash Tint Starter Kit - Become a Lash Artist Today!</title>
+    <s:type>Tint</s:type>
+    <s:vendor>Refectocil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/refectocil-brow-lash-starter-kit-basic-classic.png?v=1521758719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Refectocil<br>
+        <strong>Type: </strong>Tint<br>
+        <strong>Price: </strong>
+            125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/uYImNhIU5HM" frameborder="0" allowfullscreen=""></iframe></p>
+<p>Are you ready to get started on your journey to becoming a Brow &amp; Lash artist? Are you excited to put the final touches on your clients that create the catwalk looks? Then get ready to get busy. Brow &amp; lash tinting are one the most profitable services in the whole beauty industry. Choose your kit below and show the world what you're capable of!</p>
+<p><strong>Refectocil Classic Brow &amp; Lash Starter Kit:</strong></p>
+<p>Ideal for all, who want to create classic styles. The kit contains 6 RefectoCil tints (pure black, graphite, blue black, natural brown, light brown, chestnut), all accessories that are necessary for tinting, as well as the RefectoCil Style Book, that shows how to recreate current catwalk trends.</p>
+<p><strong>Refectocil Creative Brow &amp; Lash Starter Kit:</strong></p>
+<p>We recommend the Starter Kit Creative especially for all who want to achieve creative, type matching eyelash and eyebrow styles.  It contains the 3 standard colours light brown, graphite and pure black, the special colours red and deep blue as well as RefectoCil Blonde Brow, the bleaching paste for eyebrows. Furthermore it includes all accessories necessary for tinting, as well as the RefectoCil Style Book, that shows how to recreate current catwalk trends.</p>
+<p><strong>Refectocil Sensitive Brow &amp; Lash Starter Kit:</strong></p>
+<p><span>For first steps. RefectoCil Starter Kit Sensitive includes all 4 colours and accessories, that are necessary for tinting with RefectoCil Sensitive.  Includes the RefectoCil Style Book, that shows how to recreate current catwalk trends.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brow</s:tag>
+    <s:tag>kit</s:tag>
+    <s:tag>Lash</s:tag>
+    <s:tag>Starter</s:tag>
+    <s:tag>Tint</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7335808901</id>
+      <title>Classic</title>
+      <s:price currency="CAD">125.00</s:price>
+      <s:sku>REFECTOC-00001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7335808901</id>
+      <title>Creative</title>
+      <s:price currency="CAD">125.00</s:price>
+      <s:sku>REFECTOC-00002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7335808901</id>
+      <title>Sensitive</title>
+      <s:price currency="CAD">125.00</s:price>
+      <s:sku>REFECTOC-00003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/3242548485</id>
+    <published>2015-12-14T18:10:00-08:00</published>
+    <updated>2015-12-14T18:10:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/refectocil-tint-remover-100ml"/>
+    <title>Refectocil Brow &amp; Lash Tint Remover - 100ml</title>
+    <s:type>Tint</s:type>
+    <s:vendor>Refectocil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/RCil_Tint_Remover.jpg?v=1521758777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Refectocil<br>
+        <strong>Type: </strong>Tint<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/uYImNhIU5HM" frameborder="0" allowfullscreen=""></iframe></p>
+<p>The soft colour stain remover for the skin!</p>
+<div id="product_description" class="productcontent">
+<p>RefectoCil Tint Remover is a colour stain remover and was developed to quickly and gently remove excess tint spots from the skin, produced when tinting eyelashes and eyebrows.</p>
+<p>Content: 100 ml</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brow</s:tag>
+    <s:tag>Hair</s:tag>
+    <s:tag>Lash</s:tag>
+    <s:tag>Tint</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/3242548485</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>REFECTOC-00004</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/3242340421</id>
+    <published>2015-12-14T16:51:00-08:00</published>
+    <updated>2015-12-14T16:51:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/refectocil-eye-tint-protection-papers"/>
+    <title>Refectocil Eye Tint Protection Papers</title>
+    <s:type>Tint</s:type>
+    <s:vendor>Refectocil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/RCil_Eye_Protection_Papers.jpg?v=1521758792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Refectocil<br>
+        <strong>Type: </strong>Tint<br>
+        <strong>Price: </strong>
+            8.95 - 12.95
+            <a href="https://www.breizh.ca/products/refectocil-eye-tint-protection-papers">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/uYImNhIU5HM" frameborder="0" allowfullscreen=""></iframe></p>
+<p>Protection against staining of the skin!</p>
+<div id="product_description" class="productcontent">
+<p>RefectoCil Eye protection papers protect the lower eyelids of the client against unwanted staining. Available in standard or Extra thickness for added protection.</p>
+<p>Content: 96 units.<br>Sufficient for 48 applications.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brow</s:tag>
+    <s:tag>Eye Care</s:tag>
+    <s:tag>Hair</s:tag>
+    <s:tag>Lash</s:tag>
+    <s:tag>Tint</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/3242340421</id>
+      <title>Standard</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>REFECTOC-00005</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/3242340421</id>
+      <title>Extra</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku>REFECTOC-00006</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/3242324741</id>
+    <published>2015-12-14T16:36:00-08:00</published>
+    <updated>2015-12-14T16:36:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/refectocil-tint-brushes"/>
+    <title>Refectocil Brow &amp; Lash Tint Brushes</title>
+    <s:type>Tint</s:type>
+    <s:vendor>Refectocil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/refectocil-hard-brow-lash-tint-brushes-200x220.png?v=1521758763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Refectocil<br>
+        <strong>Type: </strong>Tint<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/uYImNhIU5HM" frameborder="0" allowfullscreen=""></iframe></p>
+<p>RefectoCil Application sticks for tinting eyelashes and eyebrows are ideal for mixing Refectocil tint with RefectoCil Oxidant liquid or cream into a creamy paste. With the narrow, flexible tip the paste can be applied easily and accurately on to the eyelashes or brows. After use the application stick can be cleaned quickly and easily with water.</p>
+<p>Hardness grade: Please choose from listed options.</p>
+<p><br>Content: 5 units</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brow</s:tag>
+    <s:tag>Lash</s:tag>
+    <s:tag>Tint</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/3242324741</id>
+      <title>Hard</title>
+      <s:price currency="CAD">18.95</s:price>
+      <s:sku>REFECTOC-00007</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/3242324741</id>
+      <title>Soft</title>
+      <s:price currency="CAD">18.95</s:price>
+      <s:sku>REFECTOC-00008</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/3242286533</id>
+    <published>2015-12-14T16:31:00-08:00</published>
+    <updated>2015-12-14T16:31:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/refectocil-brow-lash-tint-cream-oxidant-100ml"/>
+    <title>Refectocil Brow/Lash Tint Cream Oxidant - 100ml</title>
+    <s:type>Tint</s:type>
+    <s:vendor>Refectocil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/RCil_Oxidant_Creme.jpg?v=1521758776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Refectocil<br>
+        <strong>Type: </strong>Tint<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/uYImNhIU5HM" frameborder="0" allowfullscreen=""></iframe></p>
+<p>In addition to the developer RefectoCil Oxidant 3% liquid the new RefectoCil Oxidant 3% cream is now available, a stabilised, cream-based developer for RefectoCil eyelash and eyebrow tints.</p>
+<p><br>Due to its creamy consistency RefectoCil Oxidant 3% cream can conveniently be mixed with the RefectoCil tints to a homogenous paste which can be applied easily to the lashes and eyebrows. The convenient dropping device allows the drops to be dispensed precisely and economically by pressing softly on the plastic body of the bottle. Also, the dispenser guarantees that no impurities can get into the bottle.</p>
+<p><strong>Important note:</strong> Only the use of RefectoCil Oxidant guarantees the widely known perfect tinting results with RefectoCil tints. Therefore use RefectoCil Eyelash and eyebrow tints always with RefectoCil Oxidant 3% liquid or cream.</p>
+<p>Content: 100ml<br>Sufficient for approximately 200 applications.<br>Please read the instructions for use!</p>
+<p><strong>Lashes: for professional use only!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brow</s:tag>
+    <s:tag>Lash</s:tag>
+    <s:tag>Tint</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/3242286533</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>REFECTOC-00009</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/3242277637</id>
+    <published>2015-12-14T16:15:00-08:00</published>
+    <updated>2015-12-14T16:15:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/refectocil-tint-oxidant-liquid-3"/>
+    <title>Refectocil Brow &amp; Lash Tint Oxidant Liquid 3%</title>
+    <s:type></s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/RCil_Oxidant_Liquid.jpg?v=1521758767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/uYImNhIU5HM" frameborder="0" allowfullscreen=""></iframe></p>
+<p>Liquid peroxide for RefectoCil eyelash and eyebrow tints!</p>
+<p>RefectoCil Oxidant 3% liquid is a stabilised developer especially formulated to be used with RefectoCil eyelash and eyebrow tints.</p>
+<p><strong>Important note:</strong> Only the use of RefectoCil Oxidant guarantees the widely known perfect tinting results with RefectoCil tints. Therefore use RefectoCil Eyelash and eyebrow tints always with RefectoCil Oxidant 3% liquid or cream.</p>
+<p>Content: 100 ml<br>Sufficient for approximately 100 applications.<br>Please read the instructions for use.</p>
+<p><strong>Lashes: for professional use only!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/3242277637</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku>REFECTOC-00018</s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/3240855749</id>
+    <published>2015-12-14T11:42:00-08:00</published>
+    <updated>2015-12-14T11:42:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/refectocil-lash-brow-tint"/>
+    <title>Refectocil - Lash &amp; Brow Tint - Custom Color for Your Eyes Only!</title>
+    <s:type>Tint</s:type>
+    <s:vendor>Refectocil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/RCil_No_0_bleaching.jpg?v=1521758754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Refectocil<br>
+        <strong>Type: </strong>Tint<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><iframe width="560" height="315" src="https://www.youtube.com/embed/uYImNhIU5HM" frameborder="0" allowfullscreen=""></iframe></span></p>
+<p><span>The brand RefectoCil has been following two aims from the very start: </span><span id="more-2346"></span><span>for our users – hairstylists, beauticians and make-up artists – we want to be a high-performance partner whom they can trust. Our success story is constant thanks to high quality production, innovation and the best possible range of eyebrow and eyelash tints. We would also like to ensure that the end-customers are even more satisfied with the treatment “bringing out the best in their eyes”.</span></p>
+<p><span>For the clients of our users, we want to put the principle of holistic beauty on the centre stage. It is not only skin and hair but also the eyes which create Expression. Particularly, long, thick and glossy eyelashes accentuate the eye area. Nourished, beautifully formed and emphasised eyebrows frame the face perfectly and are a current “must-have”. Of course RefectoCil would like to give every woman natural beauty, 24-7 completely without using make-up. Lasting up to 6 weeks, the RefectoCil product range is making this dream come true.</span></p>
+<p><span>Available in multiple colors. See options list.</span></p>
+<p><span>Size: 15ml per tube.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brow</s:tag>
+    <s:tag>Hair</s:tag>
+    <s:tag>Lash</s:tag>
+    <s:tag>Tint</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/3240855749</id>
+      <title>Black</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>REFECTOC-00010</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/3240855749</id>
+      <title>Natural Brown</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>REFECTOC-00011</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/3240855749</id>
+      <title>Light Brown</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>REFECTOC-00012</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/3240855749</id>
+      <title>Blonde</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>REFECTOC-00013</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/3240855749</id>
+      <title>Blue</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>REFECTOC-00014</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/3240855749</id>
+      <title>Blue/Black</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>REFECTOC-00015</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/3240855749</id>
+      <title>Graphite</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>REFECTOC-00016</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/3240855749</id>
+      <title>Chestnut</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>REFECTOC-00017</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+</feed>

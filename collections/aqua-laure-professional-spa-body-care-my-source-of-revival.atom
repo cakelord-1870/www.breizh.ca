@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.breizh.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.breizh.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.breizh.ca/collections/aqua-laure-professional-spa-body-care-my-source-of-revival.atom"/>
+  <title>Breizh Esthetics &amp; Salon Supply Co.</title>
+  <updated>2016-08-08T15:14:00-07:00</updated>
+  <author>
+    <name>Breizh Esthetics &amp; Salon Supply Co.</name>
+  </author>
+  <entry>
+    <id>https://www.breizh.ca/products/6063844485</id>
+    <published>2016-08-08T15:14:00-07:00</published>
+    <updated>2016-08-08T15:14:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/aqua-laure-relaxing-mousse-with-clay"/>
+    <title>Aqua Laure - Relaxing Mousse with Clay Body Treatment</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Aqua Laure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/aqua-laure-relaxing-mousse-with-clay.JPG?v=1521756491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aqua Laure<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            152.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/JqboGoRkpmM" frameborder="0" allowfullscreen=""></iframe></p>
+<p>This soft body wrap mousse, slightly perfumed by the essential Oils it contains, has calming properties for body and mind.  It nourishes and hydrates dry and rough skin, Revitalizes dull and withered epidermis, Decongests and invigorates, while calming muscle pains.</p>
+<p>Active Ingredients: Sunflower Oil, Avocado Oil, Apricot Oil, Vitamin B5, Lemon Essential Oil, Rosemary, Orange, Lavender and Peppermint Essential Oils</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6063844485</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">152.95</s:price>
+      <s:sku>AQUALAUR-00001</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6063777989</id>
+    <published>2016-08-08T14:59:00-07:00</published>
+    <updated>2016-08-08T14:59:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/aqua-laure-dead-sea-salts-body"/>
+    <title>Aqua Laure - Dead Sea Salts for Body Treatment</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Aqua Laure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/aqua-laure-dead-sea-salts.JPG?v=1521756451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aqua Laure<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            101.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/JqboGoRkpmM" frameborder="0" allowfullscreen=""></iframe></p>
+<p>Dead Sea Salts have the most unique concentration of mineral salts in the world, contains no less than 26 minerals, offers then the dermatological properties, Purifying, Soothing and Regenerating, which are used in the spas and thalassotherapy Centers.</p>
+<p>Use a pure and non-refined salt to obtain the best quality and best traceability to take advantage of all skin conditions (eczema, psoriasis), body (joint and muschle pains) and spiritual benefits.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6063777989</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">101.95</s:price>
+      <s:sku>AQUALAUR-00002</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6063722181</id>
+    <published>2016-08-08T14:46:00-07:00</published>
+    <updated>2016-08-08T14:46:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/aqua-laure-light-refreshing-gel-body"/>
+    <title>Aqua Laure - Light &amp; Refreshing Gel for Body Treatment</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Aqua Laure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/aqua-laure-light-refreshing-body-gel-with-fucus-algae.JPG?v=1521756475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aqua Laure<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            53.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/JqboGoRkpmM" frameborder="0" allowfullscreen=""></iframe></p>
+<p>Containing Hamamelis and Algae, it relieves discomfort due to circulatory and sensitivity problems.  The synergy of ingredient offers: anti-inflammatory benefits, Stimulates oxygenation, Facilitates toxin elimination, Nourishes, Calms, Drains, Decongests and refreshes.</p>
+<p>As a professional treatment, it is an efficient alternative to desensitize soothe sensitive skin.  It is ideal for care without shower, easy to apply and rinse, suitable for both men and women.</p>
+<p>Used at home, it soothes the sensation of heavy legs, refreshes and reduces oedema provoked by water retention.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6063722181</id>
+      <title>250ml - Retail</title>
+      <s:price currency="CAD">53.95</s:price>
+      <s:sku>AQUALAUR-00003</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6063722181</id>
+      <title>1L - Professional</title>
+      <s:price currency="CAD">53.95</s:price>
+      <s:sku>AQUALAUR-00020</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6063656389</id>
+    <published>2016-08-08T14:25:00-07:00</published>
+    <updated>2016-08-08T14:25:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/aqua-laure-elasticity-stretch-mark-formula-body"/>
+    <title>Aqua Laure - Elasticity Stretch Mark Formula for Body Care</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Aqua Laure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/aqua-laure-elasticity_stretch-mark-body.JPG?v=1521756466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aqua Laure<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            35.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/JqboGoRkpmM" frameborder="0" allowfullscreen=""></iframe></p>
+<p>This rich cream prevents and improves the appearance of Recent and Coloured Stretch Marks.  Healing and regenerative, it reduces the width, depth and stretch marks relief at the beginning of the healing process, while improving skin texture.  Advisable: During the adolescence growth period, when pregnancy begins and after, When gaining/losing weight, as well as certain hormonal imbalances.</p>
+<p>Active Ingredients: Tamanu Oil, Wild Pansy extract, Yogurt Extract, Wheat Germ Oil, Emu Oil, Avocado Oil, Caviar Oil, Carrot Oil, Vitamin A, Shea Butter, Pumpkin Enzyme, Soya Bean Extract, Gingko Biloba Extract, Ginseng Extract, Rosemary Extract, Magnesium Ascorbyl Phosphate, Coenzyme Q10 and Carnitine, Ceramides, Ceramide-2, Marine Elastin, Marine Collagen, Vitamin E &amp; F, Hyaluronic Acid, Orange Essential Oil.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6063656389</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.95</s:price>
+      <s:sku>AQUALAUR-00004</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6063495493</id>
+    <published>2016-08-08T13:44:00-07:00</published>
+    <updated>2016-08-08T13:44:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/aqua-laure-preventive-stretch-mark-oil-body"/>
+    <title>Aqua Laure - Preventive Stretch Mark Oil for Body</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Aqua Laure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/aqua-laure-preventive-stretch-mark-body-oil.JPG?v=1521756487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aqua Laure<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/JqboGoRkpmM" frameborder="0" allowfullscreen=""></iframe></p>
+<p>100% Wheat Germ Oil - is the ideal resource to prevents and minimizes stretch marks before and during pregnancy, a growth period or a gain of weight.  It is very rich in: Vitamins E &amp; K, Carotenoids, Squalene, Essential fatty acids (Linoleic/Onega-6).</p>
+<p>This nourishing oil protects tissues and deterioration and acts as a natural antioxidant and anti-radical. It heals dry, desquamated and irritated skin, regenerates skin and efficiently acts against diffuse redness.</p>
+<p>Active Ingredient: Wheat Germ Oil</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6063495493</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku>AQUALAUR-00005</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6063452613</id>
+    <published>2016-08-08T13:37:00-07:00</published>
+    <updated>2016-08-08T13:37:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/aqua-laure-lipo-massage-device"/>
+    <title>Aqua Laure - Lipo-Massage Device for Body</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Aqua Laure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/aqua-laure-lipo-massage-device.JPG?v=1521756480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aqua Laure<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/JqboGoRkpmM" frameborder="0" allowfullscreen=""></iframe></p>
+<p>The Lipo-Massage is a specialized massage device which must be used daily as  part of a cellulite treatment program at home.</p>
+<p>Comfortable to use, it closely and perfectly fits the body contours to stimulate blood and lymphatic microcirculation.  It accelerates exchanges, Contributes to dissipate cellulite as well as congested zones, invigorates and refines the silhouette.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6063452613</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku>AQUALAUR-00006</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6063420741</id>
+    <published>2016-08-08T13:21:00-07:00</published>
+    <updated>2016-08-08T13:21:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/aqua-laure-deodorant"/>
+    <title>Aqua Laure - Deodorant</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Aqua Laure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/aqua-laure-deodorant-vertu.jpg?v=1521756456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aqua Laure<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/JqboGoRkpmM" frameborder="0" allowfullscreen=""></iframe></p>
+<p>The sweat secreted by apocrine sweat glands located in the armpits results from hormonal and nervous fluctuations. The Aqua Laure Deodorant contains ingredients make armpits inhospitable to bacteria: it attracts and counteracts the smell that are linked to perspiration and it provides a feeling of freshness all day long.  Without Alcohol, especially elaborated to minimize the risks of allergies and reactions, non sticky and does not stain clothes.</p>
+<p>Two Fragrances Available : Tonik (Fruity) or Vertu (Woodsy)</p>
+<p>Active Ingredients: Organic concentrated Olive Powder, Hyssop and Clove Extract, Lichen Extract, Green Tea Extract, Lavender Extract, Rosemary Extract, Thyme Extract, Vitamin E, Concentrated Extract of Citrus Fruits, Allantoin, Bisabolol.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aqua Laure</s:tag>
+    <s:tag>Body Care</s:tag>
+    <s:tag>deodorant</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6063420741</id>
+      <title>Vertu (Woodsy)</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>AQUALAUR-00007</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6063420741</id>
+      <title>Tonik (Fruity)</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>AQUALAUR-00008</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6063304581</id>
+    <published>2016-08-08T12:46:00-07:00</published>
+    <updated>2016-08-08T12:46:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/aqua-laure-natural-extracts-elixir-body"/>
+    <title>Aqua Laure - Natural Extracts Elixir for Body Care</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Aqua Laure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/aqua-laure-extracts_elixir-body-treatment.JPG?v=1521756483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aqua Laure<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            137.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/JqboGoRkpmM" frameborder="0" allowfullscreen=""></iframe></p>
+<p>A unique rare and precious product, two uses for a perfect body escape.  Combined with Dead Sea Salts, it offers a natural exfoliaton, used alone, it has the ideal viscosity for body massage, its texture is silky soft.  This Elixir softens, regenerates, hydrates the delicate skin.</p>
+<p>Active Ingredients: Sunflower Oil, Caviar Oil, Squalane, Shea Butter, Vitamin A, Vitamin F, Vitamin E, Ginseng Extract, Lemon Extract, Avocado Oil, Argan Oil, Jojoba Oil, Meadowfoam Oil, Lavender Essential Oil, Orange Essential Oil.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6063304581</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">137.95</s:price>
+      <s:sku>AQUALAUR-00009</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6062862725</id>
+    <published>2016-08-08T11:44:00-07:00</published>
+    <updated>2016-08-08T11:44:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/aqua-laure-detox-firming-veil-body-lotion"/>
+    <title>Aqua Laure - Detox &amp; Firming Veil Body Lotion</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Aqua Laure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/aqua-laure-detox-and-firming-veil-body-treatment-vertu-tonik.JPG?v=1521756463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aqua Laure<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            32.95 - 89.95
+            <a href="https://www.breizh.ca/products/aqua-laure-detox-firming-veil-body-lotion">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/JqboGoRkpmM" frameborder="0" allowfullscreen=""></iframe></p>
+<p>This modeling formulation has the ability to: Restore metabolism, Reduce body Fat, Redefine the figure, Refine waist, Tone sagged tissues, Improve skin Texture.  The addition of Actigym-TM also called the "Secret Personal Trainer" is an essential ally in weight loss, especially if it use is combined to regular physical  activities.  This slightly perfumed body milk does not leaves any greasy or sticky sensation. It hydrates, refreshes and leaves skin soft to the touch.</p>
+<p>Two fragrances available:  Tonik or Vertu</p>
+<p>Active Ingredients: Actigym-TM (Winner of the Golden Award 2014 in Cosmetics Category), Bio-Chelate, Vitamin A, Marine Elastin, Wheat Germ Extract, Magnesium Ascorbyl Phosphate, Shea Butter, Marine Collagen, Vitamin E, Caviar Oil, Hyaluronic Aid, Leaven of Marine Origin, Orange Essential Oil.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aqua laure</s:tag>
+    <s:tag>Body Care</s:tag>
+    <s:tag>Firming Cream</s:tag>
+    <s:tag>france laure</s:tag>
+    <s:tag>Slimming Cream</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6062862725</id>
+      <title>Cabine (1L) / Vertu</title>
+      <s:price currency="CAD">89.95</s:price>
+      <s:sku>AQUALAUR-00010</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6062862725</id>
+      <title>Cabine (1L) / Tonik</title>
+      <s:price currency="CAD">89.95</s:price>
+      <s:sku>AQUALAUR-00011</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6062862725</id>
+      <title>Retail (250ml) / Vertu</title>
+      <s:price currency="CAD">32.95</s:price>
+      <s:sku>AQUALAUR-00012</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6062862725</id>
+      <title>Retail (250ml) / Tonik</title>
+      <s:price currency="CAD">32.95</s:price>
+      <s:sku>AQUALAUR-00013</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6062805893</id>
+    <published>2016-08-08T11:26:00-07:00</published>
+    <updated>2016-08-08T11:26:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/aqua-laure-multi-care-shower-gel"/>
+    <title>Aqua Laure Body Care - Multi-Care Shower Gel</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Aqua Laure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/aqua-laure-multi-care-shower-gel-vertu.JPG?v=1521756504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aqua Laure<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/JqboGoRkpmM" frameborder="0" allowfullscreen=""></iframe></p>
+<p>Much more than a simple cleansing gel, it produces a rich and smooth lather that exfoliates skin, leaving a protective lipid film for a long term hydration.  Beside its significant vitamin and mineral intake, it contributes to cell renewal and respects skin integrity.  It has: Brightening effect on dark spots, Revives epidermis, Relieves itching linked to dehydration, Leaves skin soft and supple.</p>
+<p>Two fragrances available : Tonik &amp; Vertu</p>
+<p>Active Ingredients: Apple and Oat Amino Acids, Fruits Enzymatic Complex, Lactic Acid-based Moisturizing Complex, Ceramides, Powerful Antioxidant Complex, Beehive Complex, Asian Plant Cocktail, Brightening Complex, Aloe.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aqua Laure</s:tag>
+    <s:tag>Body Care</s:tag>
+    <s:tag>european</s:tag>
+    <s:tag>Exfoliant</s:tag>
+    <s:tag>shower gel</s:tag>
+    <s:tag>skin</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6062805893</id>
+      <title>Vertu (Woodsy)</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>AQUALAUR-00014</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6062805893</id>
+      <title>Tonik (Fruity)</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>AQUALAUR-00015</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6062787077</id>
+    <published>2016-08-08T11:10:00-07:00</published>
+    <updated>2016-08-08T11:10:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/aqua-laure-exfoliating-effervescent-body-gel"/>
+    <title>Aqua Laure - Exfoliating Effervescent Body Gel</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Aqua Laure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/aqua-laure-exfoliating-effervescent-body-gel.JPG?v=1521756471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aqua Laure<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            95.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/JqboGoRkpmM" frameborder="0" allowfullscreen=""></iframe></p>
+<p>Exfoliating Effervescent Gel takes body exfoliation to a whole new level.  The developing foam liberates oxygen and creates a swirling motion, which lifts dead cells.  Tests show that, application there is AN ACTIVATION OF THE MICROCIRCULATION BY 291%, which means a significant input of oxygen to the skin, Capable to improve: Cell renewal, Detoxify, Heal and Fill Lines.  Skin becomes soft again and in addition to feeling clean.</p>
+<p>Active Ingredients: Caviar-Lime Exfoliating Pearls, Eggplant Extract, Beer Extract, Yogurt Extract, Fruit Enzymatic Complex, Fluorinated Perfluorocarbon, Potassium Azeloyl Diglycinate, Encapsulated Salicylic Acid, Lactic Acid-based Moisturizing Complex, Coenzyme Q10 and Carnitine, Calendula Extract, Green Tea Extract.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6062787077</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">95.95</s:price>
+      <s:sku>AQUALAUR-00016</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6062736581</id>
+    <published>2016-08-08T10:17:00-07:00</published>
+    <updated>2016-08-08T10:17:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/aqua-laure-circadian-cryogel"/>
+    <title>Aqua Laure - Circadian CryoGel for Cellulite</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Aqua Laure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/aqua-laure-ciradian-cryogel-body-care.JPG?v=1521756449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aqua Laure<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            38.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/JqboGoRkpmM" frameborder="0" allowfullscreen=""></iframe></p>
+<p>Circadian CryoGel was formulated to provide a slimming effect and smooth the skin surface during the night, the circadian rhythm includes all biological processes which have an oscillation of approximately during 24 hours.  Desired Effects: Silhouette refining with a targeted volume loss, Day and night fat-burning action, which effectively erases unwanted curves on the body (Allows tissues remodelling during a diet). Anti-cellulite care which helps reduce, smooth and soften the appearance of cellulite, Skin firmness and elasticity improvement, even at bust level, blood flow stimulation to soothe arthritis pain and inflammations.  Thanks to all its active ingredients, which adapt themselves to our fat cells biorhythm to better fight them: during the night, it limits the production of nocturnin as well as the formation of new mature adipocytes, and it stimulates the collagen synthesis; during the day, it encourages lipolysis and acts effectively on collagen and elastin production, while preventing their breakdown.</p>
+<p>Active Ingredients: Nocturshape (TM)-Recipient of the In-Cosmetics 2015 Award, Kigelia Africana, Cellu-Plex (Red Clover, Cocoa, Green Tea), Caffeine, Horse Chestnut powder Concentrate, Derma Peptide Tightening, Wakame Bioferment, Yogurt Extract, Cranberry, Papaya and Pineapple enzymes, Esculin, Coenzyme Q10 and Carnitine, Lactic acid-based moisturizing complex, Vitamin-enriched Liposomal Complex, Vitamin B5, Peppermint &amp; Geranium Essential Oils.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body Care</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6062736581</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.95</s:price>
+      <s:sku>AQUALAUR-00017</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6052543557</id>
+    <published>2016-08-05T16:39:00-07:00</published>
+    <updated>2016-08-05T16:39:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/aqua-laure-dermo-performance-body-butter"/>
+    <title>Aqua Laure - Dermo-Performance Body Butter</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Aqua Laure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/aqua-laure-dermo-performance-body-butter.JPG?v=1521756463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aqua Laure<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/JqboGoRkpmM" frameborder="0" allowfullscreen=""></iframe></p>
+<p>Besides accelerating the aging process, dry, rough, chapped and cracked skin provokes discomfort, like itching, tugging and cracking sensations.  This Butter captures humidity in skin, nourishes it and protects it against environmental aggressions.  The active ingredients cocktail prevents dryness, normalizes keratinization and calms sensitive skin to make it softer, smoother and suppler to the touch.</p>
+<p>Active ingredients: Bio-Chelate, Organic Blue Agave Leaven, Hyaluronic Acid, Vitamin A, Wheat Germ Oil, Avocado Oil, Argan Oil, jojoba Oil, Sunflower Oil, Shea Butter,Jojoba, Mimosa and Sunflower Natural waxes. Ginkgo Biloba Extract, Marine Elastin, Marine Collagen, Orange Essential Oil, Magnesium Ascorbyl Phosphate.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6052543557</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku>AQUALAUR-00018</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6051819141</id>
+    <published>2016-08-05T12:01:00-07:00</published>
+    <updated>2016-08-05T12:01:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/aqua-laure-slimming-firming-algae"/>
+    <title>Aqua Laure - Slimming &amp; Firming Algae Body Treatment</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Aqua Laure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/aqua-laure-slimming-firming-algae-body-treatment.JPG?v=1521756504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aqua Laure<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            161.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/JqboGoRkpmM" frameborder="0" allowfullscreen=""></iframe></p>
+<p>This formulation rich in minerals and trace elements has different properties, which, when combined: Reduce the lypolitic active cellulite, stimulate the natural process of fat breakdown, Boost, Remineralize, Revitalize, Firm, Reshape, Detoxify, Stimulate blood circulation.  Trace elements penetrate the skin by cellular exchange (osmosis).  This mechanism reduces the epidermal water loss.</p>
+<p>Active Ingredients: Fucus Vesiculosus, Laminaria, Lithothamnium.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6051819141</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">161.95</s:price>
+      <s:sku>AQUALAUR-00019</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

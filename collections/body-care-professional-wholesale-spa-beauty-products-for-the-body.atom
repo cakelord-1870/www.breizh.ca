@@ -1,0 +1,1133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.breizh.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.breizh.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.breizh.ca/collections/body-care-professional-wholesale-spa-beauty-products-for-the-body.atom"/>
+  <title>Breizh Esthetics &amp; Salon Supply Co.</title>
+  <updated>2019-06-19T10:01:04-07:00</updated>
+  <author>
+    <name>Breizh Esthetics &amp; Salon Supply Co.</name>
+  </author>
+  <entry>
+    <id>https://www.breizh.ca/products/3849848094808</id>
+    <published>2019-06-19T10:01:04-07:00</published>
+    <updated>2019-06-19T10:01:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/footlogix-15-exfoliating-seaweed-scrub"/>
+    <title>Footlogix #15 Exfoliating Seaweed Scrub</title>
+    <s:type></s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The choice of leading Professional world wide.  Seaweed Exfoliating Scrub for the whole body.  Excellent for the foot and legs.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/3849848094808</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>946</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/1340213690456</id>
+    <published>2018-08-09T13:14:17-07:00</published>
+    <updated>2018-08-09T13:14:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/equipro-soladerm-sunless-tanning-body-soladerm"/>
+    <title>Equipro - SOLADERM SUNLESS TANNING - Body Soladerm</title>
+    <s:type>Spa Equipment</s:type>
+    <s:vendor>Equipro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/11700-600.jpg?v=1533845775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Equipro<br>
+        <strong>Type: </strong>Spa Equipment<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="product-spec-list">
+<li>Compact model</li>
+<li>Self-tanner spraying concept with fine mist</li>
+<li>Gentle and effective atomizing of self-tanning long lasting treating lotion</li>
+<li>Adjustable mist</li>
+<li>Spray handle with retractable coiled tube for easy handling</li>
+<li>Sunless tanning technique with fast and easy application</li>
+<li>Includes 1 spray nozzle bottle, 1 spray bottle with lid and 3 liters (100 ounces) of self-tanning long lasting treating lotion</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Equipment</s:tag>
+    <s:tag>spa</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/1340213690456</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>11700</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/1340212150360</id>
+    <published>2018-08-09T13:09:04-07:00</published>
+    <updated>2018-08-09T13:09:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/equipro-vichy-shower-body-vichy-shower"/>
+    <title>Equipro - VICHY SHOWER - Body Vichy shower</title>
+    <s:type>Spa Equipment</s:type>
+    <s:vendor>Equipro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Douche-Vichy-10.jpg?v=1533845607"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Equipro<br>
+        <strong>Type: </strong>Spa Equipment<br>
+        <strong>Price: </strong>
+            18895.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="product-spec-list">
+<li>5 adjustable and independent jets</li>
+<li>Ergonomic conception</li>
+<li>Adjustable hieght form 23'' to 38''</li>
+<li>Safe adjustment of the water temperature</li>
+<li>Antifongicide mattress include</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Equipment</s:tag>
+    <s:tag>spa</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/1340212150360</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18895.00</s:price>
+      <s:sku>15100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/1325545193560</id>
+    <published>2018-07-27T14:18:04-07:00</published>
+    <updated>2018-07-27T14:18:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/equipro-therabath-tub-ii-wax-heaters"/>
+    <title>Equipro - THERABATH TUB II - Wax heaters</title>
+    <s:type>Spa Equipment</s:type>
+    <s:vendor>Equipro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/65100-Therabath-TubeII-1024x739.jpg?v=1532726405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Equipro<br>
+        <strong>Type: </strong>Spa Equipment<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="product-spec-list">
+<li>Heated tub for paraffin</li>
+<li>Ideal to soften the skin</li>
+<li>Included: 6 lbs of paraffin wax</li>
+<li>Choice of: peach, wintergreen, scent free</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spa</s:tag>
+    <s:tag>wax heater</s:tag>
+    <s:tag>wax warmer</s:tag>
+    <s:tag>waxing</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/1325545193560</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>65100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/765186310232</id>
+    <published>2018-06-04T17:05:10-07:00</published>
+    <updated>2018-06-04T17:05:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/herbalind-unscented-hand-cream"/>
+    <title>Herbalind Unscented Hand-Cream</title>
+    <s:type></s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.95 - 12.95
+            <a href="https://www.breizh.ca/products/herbalind-unscented-hand-cream">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/765186310232</id>
+      <title>75ml</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>HERBALIN-00002</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/765186310232</id>
+      <title>200ml</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku>HERBALIN-00003</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/468420427817</id>
+    <published>2018-02-05T13:11:57-08:00</published>
+    <updated>2018-02-05T13:11:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pier-auge-caresse-nourishing-body-balm"/>
+    <title>Pier Auge - Caresse Nourishing Body Balm</title>
+    <s:type></s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Pier_auge_Caress_Rose.png?v=1521758350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            41.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fabulous new body care balm from Pier Auge! Thick buttery texture, fast absorbing, non-greasy, absolutely stunning! Must try!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/468420427817</id>
+      <title>Damask Rose</title>
+      <s:price currency="CAD">41.95</s:price>
+      <s:sku>PIERAUGE-00100</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/468420427817</id>
+      <title>Monoi &amp; Orchid</title>
+      <s:price currency="CAD">41.95</s:price>
+      <s:sku>PIERAUGE-00101</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/468420427817</id>
+      <title>Grapefruit</title>
+      <s:price currency="CAD">41.95</s:price>
+      <s:sku>PIERAUGE-00102</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/468420427817</id>
+      <title>Cotton Flower</title>
+      <s:price currency="CAD">41.95</s:price>
+      <s:sku>PIERAUGE-00103</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/446785454121</id>
+    <published>2018-01-23T09:53:53-08:00</published>
+    <updated>2018-01-23T09:53:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/herbalind-scented-hand-cream"/>
+    <title>Herbalind - Scented Hand Cream</title>
+    <s:type></s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.95 - 12.95
+            <a href="https://www.breizh.ca/products/herbalind-scented-hand-cream">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Possibly the world's best hand cream! Using Vitamin E, AHAs &amp; Glycerin, this cream has an intensely hydrating effect and leaves no greasy residue afterwards.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/446785454121</id>
+      <title>75ml</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>HERBALIN-00004</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/446785454121</id>
+      <title>15ml</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku>HERBALIN-00005</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/446785454121</id>
+      <title>200ml</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku>HERBALIN-00001</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8547174725</id>
+    <published>2017-07-18T10:26:54-07:00</published>
+    <updated>2017-07-18T10:26:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto-5-yogi-body-eau"/>
+    <title>Phyto 5 - Yogi Body Eau</title>
+    <s:type>Body Gel</s:type>
+    <s:vendor>PHYTO 5</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/yogi_water.JPG?v=1521758133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PHYTO 5<br>
+        <strong>Type: </strong>Body Gel<br>
+        <strong>Price: </strong>
+            47.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Apply on the abdomen, the center of our emotions, to keep your emotional state of Serenity in balance. Apply on other parts of the body in need of toning.</p>
+<p>Apply every morning and evening and do not wash away to feel its full benefits:</p>
+<ul>
+<li>Calming</li>
+<li>Toning</li>
+<li>Improving skin appearance</li>
+<li>Smoothing</li>
+<li>Firming</li>
+<li>Hydrating</li>
+<li>Draining</li>
+<li>Astringent</li>
+<li>Nourishing</li>
+</ul>
+<p>200ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8547174725</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.95</s:price>
+      <s:sku>PHYTO5-00001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8547154501</id>
+    <published>2017-07-18T10:23:16-07:00</published>
+    <updated>2017-07-18T10:23:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto5-yogi-body-metal"/>
+    <title>Phyto5 - Yogi Body Metal</title>
+    <s:type>Body Gel</s:type>
+    <s:vendor>PHYTO 5</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/yogi_metal.JPG?v=1521758314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PHYTO 5<br>
+        <strong>Type: </strong>Body Gel<br>
+        <strong>Price: </strong>
+            47.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Apply on the abdomen, the center of our emotions, to keep your emotional state of satisfaction in balance. Apply on other parts of the body to improve skin appearance.</p>
+<p>Apply every morning and evening and do not wash away to feel its full benefits:</p>
+<ul>
+<li>Well-being and beauty of the body</li>
+<li>Satisfaction</li>
+<li>Stimulating and support of venous circulation</li>
+<li>mineralizing</li>
+<li>Toning</li>
+<li>Refreshing</li>
+<li>Nourishing</li>
+</ul>
+<p>200ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8547154501</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.95</s:price>
+      <s:sku>PHYTO5-00002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8547133573</id>
+    <published>2017-07-18T10:20:30-07:00</published>
+    <updated>2017-07-18T10:20:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto5-yogi-body-bois"/>
+    <title>Phyto5 - Yogi Body Bois</title>
+    <s:type>Body Gel</s:type>
+    <s:vendor>PHYTO 5</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/yogi_wood.JPG?v=1521758306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PHYTO 5<br>
+        <strong>Type: </strong>Body Gel<br>
+        <strong>Price: </strong>
+            47.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Apply on the abdomen, the center of our emotions, to balance the emotional state f confidence. Apply on other parts of the body in need of energy stimulation.</p>
+<p>Apply every morning and evening and do not wash away to feel its full benefits:</p>
+<ul>
+<li>Strenght</li>
+<li>Body Vitality</li>
+<li>Stimulating</li>
+<li>Balancing of Wood-type organs</li>
+<li>Revitalizing</li>
+<li>Toning</li>
+<li>Nourishing</li>
+</ul>
+<p>200ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8547133573</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.95</s:price>
+      <s:sku>PHYTO5-00003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8547113733</id>
+    <published>2017-07-18T10:17:01-07:00</published>
+    <updated>2017-07-18T10:17:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto5-yogi-body-terre"/>
+    <title>Phyto5 - Yogi Body Terre</title>
+    <s:type>Body Gel</s:type>
+    <s:vendor>PHYTO 5</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/yogi_earth.JPG?v=1521758320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PHYTO 5<br>
+        <strong>Type: </strong>Body Gel<br>
+        <strong>Price: </strong>
+            47.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Apply on the abdomen, the center of our emotions, to facilitate the transition from one emotional state to the next, and to encourage creativity. Apply on other parts of the body that need detoxification.</p>
+<p>Apply every morning and evening and do not wash away to feel its full benefits:</p>
+<ul>
+<li>Body Detox</li>
+<li>Emotional Cleansing</li>
+<li>Contouring</li>
+<li>Anti-cellulite</li>
+<li>Toning</li>
+<li>Purifying</li>
+<li>Nourishing</li>
+</ul>
+<p>200ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8547113733</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.95</s:price>
+      <s:sku>PHYTO5-00004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8547094469</id>
+    <published>2017-07-18T10:09:56-07:00</published>
+    <updated>2017-07-18T10:09:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto5-yogi-body-fire"/>
+    <title>Phyto5 - Yogi Body Fire</title>
+    <s:type>Body Gel</s:type>
+    <s:vendor>PHYTO 5</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/yogi_fire.JPG?v=1521758312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PHYTO 5<br>
+        <strong>Type: </strong>Body Gel<br>
+        <strong>Price: </strong>
+            47.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Apply on the abdomen, the center of our emotions, to keep your emotional state of Joy in balance. Apply on other parts of the body that need soothing.</p>
+<p>Apply every morning and evening and do not wash away to feel its full benefits:</p>
+<ul>
+<li>Calming</li>
+<li>Refreshing</li>
+<li>Regenerating</li>
+<li>Revitalizing</li>
+<li>Soothing</li>
+<li>Nourishing</li>
+</ul>
+<p>200ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8547094469</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.95</s:price>
+      <s:sku>PHYTO5-00005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6124273669</id>
+    <published>2016-08-19T13:45:00-07:00</published>
+    <updated>2016-08-19T13:45:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/smell-this-body-lotion"/>
+    <title>Smell This - Body Lotion</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Smell This Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/smell-this-body-lotion.jpg?v=1515428999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smell This Aromatherapy<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 different Scents: Haven, London Fog &amp; Pucker Up.</p>
+<p>Ingredients: Aloe Barbadensis Leaf Juice, Jojoba Oil, Sunflower Oil, Avocado Oil, Sweet Almond Oil, Vegetable Glycerine, Vitamin E &amp; Pure Essential Oils.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6124273669</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.50</s:price>
+      <s:sku>SMELLTHI-00003</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6063926725</id>
+    <published>2016-08-08T15:34:00-07:00</published>
+    <updated>2016-08-08T15:34:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/france-laure-body-milk"/>
+    <title>France Laure - Nourish Remodeling  Caviar &amp; Ginseng Body Milk</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>France Laure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/2016-FL-Body_Milk.JPG?v=1521757079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>France Laure<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            26.95 - 61.95
+            <a href="https://www.breizh.ca/products/france-laure-body-milk">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe src="https://www.youtube.com/embed/iriuH5rCxwQ" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></p>
+<p>Body Milk with Yogurt, Ginseng &amp; Caviar, it nourishes, stimulates and hydrates.  Silky formula bursting with natural active ingredients which acts deep down into the epidermis to restore its suppleness and softness.</p>
+<p>Active Ingredients: Yogurt extract, Ginseng Root extract, Caviar Oil, Glycerin &amp; Propylene Glycol, Hyaluronic Acid, Gingko Biloba Extract, Marine Elastin, Marine Collagen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6063926725</id>
+      <title>1 Liter Professional</title>
+      <s:price currency="CAD">61.95</s:price>
+      <s:sku>FRANCELA-00004</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6063926725</id>
+      <title>250ml Retail</title>
+      <s:price currency="CAD">26.95</s:price>
+      <s:sku>FRANCELA-00005</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6063844485</id>
+    <published>2016-08-08T15:14:00-07:00</published>
+    <updated>2016-08-08T15:14:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/aqua-laure-relaxing-mousse-with-clay"/>
+    <title>Aqua Laure - Relaxing Mousse with Clay Body Treatment</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Aqua Laure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/aqua-laure-relaxing-mousse-with-clay.JPG?v=1521756491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aqua Laure<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            152.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/JqboGoRkpmM" frameborder="0" allowfullscreen=""></iframe></p>
+<p>This soft body wrap mousse, slightly perfumed by the essential Oils it contains, has calming properties for body and mind.  It nourishes and hydrates dry and rough skin, Revitalizes dull and withered epidermis, Decongests and invigorates, while calming muscle pains.</p>
+<p>Active Ingredients: Sunflower Oil, Avocado Oil, Apricot Oil, Vitamin B5, Lemon Essential Oil, Rosemary, Orange, Lavender and Peppermint Essential Oils</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6063844485</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">152.95</s:price>
+      <s:sku>AQUALAUR-00001</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6063777989</id>
+    <published>2016-08-08T14:59:00-07:00</published>
+    <updated>2016-08-08T14:59:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/aqua-laure-dead-sea-salts-body"/>
+    <title>Aqua Laure - Dead Sea Salts for Body Treatment</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Aqua Laure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/aqua-laure-dead-sea-salts.JPG?v=1521756451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aqua Laure<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            101.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/JqboGoRkpmM" frameborder="0" allowfullscreen=""></iframe></p>
+<p>Dead Sea Salts have the most unique concentration of mineral salts in the world, contains no less than 26 minerals, offers then the dermatological properties, Purifying, Soothing and Regenerating, which are used in the spas and thalassotherapy Centers.</p>
+<p>Use a pure and non-refined salt to obtain the best quality and best traceability to take advantage of all skin conditions (eczema, psoriasis), body (joint and muschle pains) and spiritual benefits.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6063777989</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">101.95</s:price>
+      <s:sku>AQUALAUR-00002</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6063722181</id>
+    <published>2016-08-08T14:46:00-07:00</published>
+    <updated>2016-08-08T14:46:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/aqua-laure-light-refreshing-gel-body"/>
+    <title>Aqua Laure - Light &amp; Refreshing Gel for Body Treatment</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Aqua Laure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/aqua-laure-light-refreshing-body-gel-with-fucus-algae.JPG?v=1521756475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aqua Laure<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            53.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/JqboGoRkpmM" frameborder="0" allowfullscreen=""></iframe></p>
+<p>Containing Hamamelis and Algae, it relieves discomfort due to circulatory and sensitivity problems.  The synergy of ingredient offers: anti-inflammatory benefits, Stimulates oxygenation, Facilitates toxin elimination, Nourishes, Calms, Drains, Decongests and refreshes.</p>
+<p>As a professional treatment, it is an efficient alternative to desensitize soothe sensitive skin.  It is ideal for care without shower, easy to apply and rinse, suitable for both men and women.</p>
+<p>Used at home, it soothes the sensation of heavy legs, refreshes and reduces oedema provoked by water retention.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6063722181</id>
+      <title>250ml - Retail</title>
+      <s:price currency="CAD">53.95</s:price>
+      <s:sku>AQUALAUR-00003</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6063722181</id>
+      <title>1L - Professional</title>
+      <s:price currency="CAD">53.95</s:price>
+      <s:sku>AQUALAUR-00020</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6063656389</id>
+    <published>2016-08-08T14:25:00-07:00</published>
+    <updated>2016-08-08T14:25:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/aqua-laure-elasticity-stretch-mark-formula-body"/>
+    <title>Aqua Laure - Elasticity Stretch Mark Formula for Body Care</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Aqua Laure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/aqua-laure-elasticity_stretch-mark-body.JPG?v=1521756466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aqua Laure<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            35.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/JqboGoRkpmM" frameborder="0" allowfullscreen=""></iframe></p>
+<p>This rich cream prevents and improves the appearance of Recent and Coloured Stretch Marks.  Healing and regenerative, it reduces the width, depth and stretch marks relief at the beginning of the healing process, while improving skin texture.  Advisable: During the adolescence growth period, when pregnancy begins and after, When gaining/losing weight, as well as certain hormonal imbalances.</p>
+<p>Active Ingredients: Tamanu Oil, Wild Pansy extract, Yogurt Extract, Wheat Germ Oil, Emu Oil, Avocado Oil, Caviar Oil, Carrot Oil, Vitamin A, Shea Butter, Pumpkin Enzyme, Soya Bean Extract, Gingko Biloba Extract, Ginseng Extract, Rosemary Extract, Magnesium Ascorbyl Phosphate, Coenzyme Q10 and Carnitine, Ceramides, Ceramide-2, Marine Elastin, Marine Collagen, Vitamin E &amp; F, Hyaluronic Acid, Orange Essential Oil.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6063656389</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.95</s:price>
+      <s:sku>AQUALAUR-00004</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6063495493</id>
+    <published>2016-08-08T13:44:00-07:00</published>
+    <updated>2016-08-08T13:44:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/aqua-laure-preventive-stretch-mark-oil-body"/>
+    <title>Aqua Laure - Preventive Stretch Mark Oil for Body</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Aqua Laure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/aqua-laure-preventive-stretch-mark-body-oil.JPG?v=1521756487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aqua Laure<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/JqboGoRkpmM" frameborder="0" allowfullscreen=""></iframe></p>
+<p>100% Wheat Germ Oil - is the ideal resource to prevents and minimizes stretch marks before and during pregnancy, a growth period or a gain of weight.  It is very rich in: Vitamins E &amp; K, Carotenoids, Squalene, Essential fatty acids (Linoleic/Onega-6).</p>
+<p>This nourishing oil protects tissues and deterioration and acts as a natural antioxidant and anti-radical. It heals dry, desquamated and irritated skin, regenerates skin and efficiently acts against diffuse redness.</p>
+<p>Active Ingredient: Wheat Germ Oil</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6063495493</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku>AQUALAUR-00005</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6063452613</id>
+    <published>2016-08-08T13:37:00-07:00</published>
+    <updated>2016-08-08T13:37:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/aqua-laure-lipo-massage-device"/>
+    <title>Aqua Laure - Lipo-Massage Device for Body</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Aqua Laure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/aqua-laure-lipo-massage-device.JPG?v=1521756480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aqua Laure<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/JqboGoRkpmM" frameborder="0" allowfullscreen=""></iframe></p>
+<p>The Lipo-Massage is a specialized massage device which must be used daily as  part of a cellulite treatment program at home.</p>
+<p>Comfortable to use, it closely and perfectly fits the body contours to stimulate blood and lymphatic microcirculation.  It accelerates exchanges, Contributes to dissipate cellulite as well as congested zones, invigorates and refines the silhouette.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6063452613</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku>AQUALAUR-00006</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6063420741</id>
+    <published>2016-08-08T13:21:00-07:00</published>
+    <updated>2016-08-08T13:21:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/aqua-laure-deodorant"/>
+    <title>Aqua Laure - Deodorant</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Aqua Laure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/aqua-laure-deodorant-vertu.jpg?v=1521756456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aqua Laure<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/JqboGoRkpmM" frameborder="0" allowfullscreen=""></iframe></p>
+<p>The sweat secreted by apocrine sweat glands located in the armpits results from hormonal and nervous fluctuations. The Aqua Laure Deodorant contains ingredients make armpits inhospitable to bacteria: it attracts and counteracts the smell that are linked to perspiration and it provides a feeling of freshness all day long.  Without Alcohol, especially elaborated to minimize the risks of allergies and reactions, non sticky and does not stain clothes.</p>
+<p>Two Fragrances Available : Tonik (Fruity) or Vertu (Woodsy)</p>
+<p>Active Ingredients: Organic concentrated Olive Powder, Hyssop and Clove Extract, Lichen Extract, Green Tea Extract, Lavender Extract, Rosemary Extract, Thyme Extract, Vitamin E, Concentrated Extract of Citrus Fruits, Allantoin, Bisabolol.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aqua Laure</s:tag>
+    <s:tag>Body Care</s:tag>
+    <s:tag>deodorant</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6063420741</id>
+      <title>Vertu (Woodsy)</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>AQUALAUR-00007</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6063420741</id>
+      <title>Tonik (Fruity)</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>AQUALAUR-00008</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6063304581</id>
+    <published>2016-08-08T12:46:00-07:00</published>
+    <updated>2016-08-08T12:46:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/aqua-laure-natural-extracts-elixir-body"/>
+    <title>Aqua Laure - Natural Extracts Elixir for Body Care</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Aqua Laure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/aqua-laure-extracts_elixir-body-treatment.JPG?v=1521756483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aqua Laure<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            137.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/JqboGoRkpmM" frameborder="0" allowfullscreen=""></iframe></p>
+<p>A unique rare and precious product, two uses for a perfect body escape.  Combined with Dead Sea Salts, it offers a natural exfoliaton, used alone, it has the ideal viscosity for body massage, its texture is silky soft.  This Elixir softens, regenerates, hydrates the delicate skin.</p>
+<p>Active Ingredients: Sunflower Oil, Caviar Oil, Squalane, Shea Butter, Vitamin A, Vitamin F, Vitamin E, Ginseng Extract, Lemon Extract, Avocado Oil, Argan Oil, Jojoba Oil, Meadowfoam Oil, Lavender Essential Oil, Orange Essential Oil.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6063304581</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">137.95</s:price>
+      <s:sku>AQUALAUR-00009</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6062862725</id>
+    <published>2016-08-08T11:44:00-07:00</published>
+    <updated>2016-08-08T11:44:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/aqua-laure-detox-firming-veil-body-lotion"/>
+    <title>Aqua Laure - Detox &amp; Firming Veil Body Lotion</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Aqua Laure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/aqua-laure-detox-and-firming-veil-body-treatment-vertu-tonik.JPG?v=1521756463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aqua Laure<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            32.95 - 89.95
+            <a href="https://www.breizh.ca/products/aqua-laure-detox-firming-veil-body-lotion">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/JqboGoRkpmM" frameborder="0" allowfullscreen=""></iframe></p>
+<p>This modeling formulation has the ability to: Restore metabolism, Reduce body Fat, Redefine the figure, Refine waist, Tone sagged tissues, Improve skin Texture.  The addition of Actigym-TM also called the "Secret Personal Trainer" is an essential ally in weight loss, especially if it use is combined to regular physical  activities.  This slightly perfumed body milk does not leaves any greasy or sticky sensation. It hydrates, refreshes and leaves skin soft to the touch.</p>
+<p>Two fragrances available:  Tonik or Vertu</p>
+<p>Active Ingredients: Actigym-TM (Winner of the Golden Award 2014 in Cosmetics Category), Bio-Chelate, Vitamin A, Marine Elastin, Wheat Germ Extract, Magnesium Ascorbyl Phosphate, Shea Butter, Marine Collagen, Vitamin E, Caviar Oil, Hyaluronic Aid, Leaven of Marine Origin, Orange Essential Oil.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aqua laure</s:tag>
+    <s:tag>Body Care</s:tag>
+    <s:tag>Firming Cream</s:tag>
+    <s:tag>france laure</s:tag>
+    <s:tag>Slimming Cream</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6062862725</id>
+      <title>Cabine (1L) / Vertu</title>
+      <s:price currency="CAD">89.95</s:price>
+      <s:sku>AQUALAUR-00010</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6062862725</id>
+      <title>Cabine (1L) / Tonik</title>
+      <s:price currency="CAD">89.95</s:price>
+      <s:sku>AQUALAUR-00011</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6062862725</id>
+      <title>Retail (250ml) / Vertu</title>
+      <s:price currency="CAD">32.95</s:price>
+      <s:sku>AQUALAUR-00012</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6062862725</id>
+      <title>Retail (250ml) / Tonik</title>
+      <s:price currency="CAD">32.95</s:price>
+      <s:sku>AQUALAUR-00013</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6062805893</id>
+    <published>2016-08-08T11:26:00-07:00</published>
+    <updated>2016-08-08T11:26:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/aqua-laure-multi-care-shower-gel"/>
+    <title>Aqua Laure Body Care - Multi-Care Shower Gel</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Aqua Laure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/aqua-laure-multi-care-shower-gel-vertu.JPG?v=1521756504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aqua Laure<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/JqboGoRkpmM" frameborder="0" allowfullscreen=""></iframe></p>
+<p>Much more than a simple cleansing gel, it produces a rich and smooth lather that exfoliates skin, leaving a protective lipid film for a long term hydration.  Beside its significant vitamin and mineral intake, it contributes to cell renewal and respects skin integrity.  It has: Brightening effect on dark spots, Revives epidermis, Relieves itching linked to dehydration, Leaves skin soft and supple.</p>
+<p>Two fragrances available : Tonik &amp; Vertu</p>
+<p>Active Ingredients: Apple and Oat Amino Acids, Fruits Enzymatic Complex, Lactic Acid-based Moisturizing Complex, Ceramides, Powerful Antioxidant Complex, Beehive Complex, Asian Plant Cocktail, Brightening Complex, Aloe.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aqua Laure</s:tag>
+    <s:tag>Body Care</s:tag>
+    <s:tag>european</s:tag>
+    <s:tag>Exfoliant</s:tag>
+    <s:tag>shower gel</s:tag>
+    <s:tag>skin</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6062805893</id>
+      <title>Vertu (Woodsy)</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>AQUALAUR-00014</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6062805893</id>
+      <title>Tonik (Fruity)</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>AQUALAUR-00015</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6062787077</id>
+    <published>2016-08-08T11:10:00-07:00</published>
+    <updated>2016-08-08T11:10:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/aqua-laure-exfoliating-effervescent-body-gel"/>
+    <title>Aqua Laure - Exfoliating Effervescent Body Gel</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Aqua Laure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/aqua-laure-exfoliating-effervescent-body-gel.JPG?v=1521756471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aqua Laure<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            95.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/JqboGoRkpmM" frameborder="0" allowfullscreen=""></iframe></p>
+<p>Exfoliating Effervescent Gel takes body exfoliation to a whole new level.  The developing foam liberates oxygen and creates a swirling motion, which lifts dead cells.  Tests show that, application there is AN ACTIVATION OF THE MICROCIRCULATION BY 291%, which means a significant input of oxygen to the skin, Capable to improve: Cell renewal, Detoxify, Heal and Fill Lines.  Skin becomes soft again and in addition to feeling clean.</p>
+<p>Active Ingredients: Caviar-Lime Exfoliating Pearls, Eggplant Extract, Beer Extract, Yogurt Extract, Fruit Enzymatic Complex, Fluorinated Perfluorocarbon, Potassium Azeloyl Diglycinate, Encapsulated Salicylic Acid, Lactic Acid-based Moisturizing Complex, Coenzyme Q10 and Carnitine, Calendula Extract, Green Tea Extract.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6062787077</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">95.95</s:price>
+      <s:sku>AQUALAUR-00016</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

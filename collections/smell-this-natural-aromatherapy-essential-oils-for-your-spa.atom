@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.breizh.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.breizh.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.breizh.ca/collections/smell-this-natural-aromatherapy-essential-oils-for-your-spa.atom"/>
+  <title>Breizh Esthetics &amp; Salon Supply Co.</title>
+  <updated>2018-03-21T13:46:12-07:00</updated>
+  <author>
+    <name>Breizh Esthetics &amp; Salon Supply Co.</name>
+  </author>
+  <entry>
+    <id>https://www.breizh.ca/products/548905844777</id>
+    <published>2018-03-21T13:46:12-07:00</published>
+    <updated>2018-03-21T13:46:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/smell-this-sweet-orange-essential-oil"/>
+    <title>Smell This - Sweet Orange Essential Oil</title>
+    <s:type></s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sweet orange essential oil for use in diffuser or treatments.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/548905844777</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.95</s:price>
+      <s:sku>SMELLTHI-00025</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/548895096873</id>
+    <published>2018-03-21T13:34:23-07:00</published>
+    <updated>2018-03-21T13:34:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/smell-this-sandalwood-essential-oil"/>
+    <title>Smell This - Sandalwood Essential Oil</title>
+    <s:type></s:type>
+    <s:vendor>Smell This Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smell This Aromatherapy<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">15% Pure, organic Sandalwood essential oil for use in diffuser or treatments.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/548895096873</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>SMELLTHI-00024</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6137684549</id>
+    <published>2016-08-23T15:31:00-07:00</published>
+    <updated>2016-08-23T15:31:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/smell-this-pucker-up-lip-balmn"/>
+    <title>Smell This - Pucker Up Lip Balmn</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Smell This Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/smell-this-lip-balm.jpg?v=1521759178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smell This Aromatherapy<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Natural Hemp enriched Lip Balm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6137684549</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku>SMELLTHI-00001</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6137664517</id>
+    <published>2016-08-23T15:14:00-07:00</published>
+    <updated>2016-08-23T15:14:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/smell-this-clean-freak-hand-sanitizer"/>
+    <title>Smell This - Clean Freak Hand Sanitizer</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Smell This Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/smell-this-clean-freak.jpg?v=1521759136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smell This Aromatherapy<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is 100% Natural, Alcohol -Free Hand Sanitizer.  Rub out Germs anytime, anywhere without water.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6137664517</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>SMELLTHI-00002</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6124273669</id>
+    <published>2016-08-19T13:45:00-07:00</published>
+    <updated>2016-08-19T13:45:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/smell-this-body-lotion"/>
+    <title>Smell This - Body Lotion</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Smell This Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/smell-this-body-lotion.jpg?v=1515428999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smell This Aromatherapy<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 different Scents: Haven, London Fog &amp; Pucker Up.</p>
+<p>Ingredients: Aloe Barbadensis Leaf Juice, Jojoba Oil, Sunflower Oil, Avocado Oil, Sweet Almond Oil, Vegetable Glycerine, Vitamin E &amp; Pure Essential Oils.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6124273669</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.50</s:price>
+      <s:sku>SMELLTHI-00003</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6069983749</id>
+    <published>2016-08-09T15:04:00-07:00</published>
+    <updated>2016-08-09T15:04:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/smell-this-vanilla-essential-oil"/>
+    <title>Smell This - Vanilla Essential Oil</title>
+    <s:type>Essential Oil</s:type>
+    <s:vendor>Smell This Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/smell-this-essential-oils_704984eb-16cc-4d94-9c7b-4ef7b1fddd20.jpg?v=1521759191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smell This Aromatherapy<br>
+        <strong>Type: </strong>Essential Oil<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% Pure Essential Oil, for External use only.</p>
+<p>Uses: Antioxidant, Aphrodisiac, Anti-depressant, Hair Growth, Balances Hormones, Reducing Inflammation.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6069983749</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>SMELLTHI-00004</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6069523717</id>
+    <published>2016-08-09T13:42:00-07:00</published>
+    <updated>2016-08-09T13:42:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/smell-this-frankincense-essential-oil"/>
+    <title>Smell This - Frankincense Essential Oil</title>
+    <s:type>Essential Oil</s:type>
+    <s:vendor>Smell This Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/smell-this-essential-oils_463d8f72-94d5-41b2-9bb2-6b70f9d11ea8.jpg?v=1521759148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smell This Aromatherapy<br>
+        <strong>Type: </strong>Essential Oil<br>
+        <strong>Price: </strong>
+            20.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% Pure Essential Oil, for External use only.</p>
+<p> Uses: Helping to relieve Chronic Stress &amp; Anxiety, Reducing pain &amp; inflammation, Boosting immune &amp; even fighting Cancer.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6069523717</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.95</s:price>
+      <s:sku>SMELLTHI-00005</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6069476741</id>
+    <published>2016-08-09T13:23:00-07:00</published>
+    <updated>2016-08-09T13:23:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/smell-this-cinnamon-leaf-essential-oil"/>
+    <title>Smell This - Cinnamon Leaf Essential Oil</title>
+    <s:type>Essential Oil</s:type>
+    <s:vendor>Smell This Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/smell-this-essential-oils_b91c1b1c-a9cc-4d3d-ba3c-364254b82165.jpg?v=1521759132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smell This Aromatherapy<br>
+        <strong>Type: </strong>Essential Oil<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% Pure Essential Oil, for External use only.</p>
+<p>For Skin Care: Lice, Scabies</p>
+<p>Other Uses: Colds, Poor Circulation, Nervous Exhaustion.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6069476741</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>SMELLTHI-00006</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6069466501</id>
+    <published>2016-08-09T13:20:00-07:00</published>
+    <updated>2016-08-09T13:20:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/smell-this-grapefruit-essential-oil"/>
+    <title>Smell This - Grapefruit Essential Oil</title>
+    <s:type>Essential Oil</s:type>
+    <s:vendor>Smell This Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/smell-this-essential-oils_0385e2aa-bfa7-4859-8051-c16e29844c89.jpg?v=1521759151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smell This Aromatherapy<br>
+        <strong>Type: </strong>Essential Oil<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% Pure Essential Oil, for External Use only.</p>
+<p>For Skin Care: Acne, Oily Skin, Toning.</p>
+<p>Other uses: Water Retention, Nervous Exhaustion, Depression.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6069466501</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>SMELLTHI-00007</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6069454725</id>
+    <published>2016-08-09T13:11:00-07:00</published>
+    <updated>2016-08-09T13:11:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/smell-this-geranium-essential-oil"/>
+    <title>Smell This - Geranium Essential Oil</title>
+    <s:type>Essential Oil</s:type>
+    <s:vendor>Smell This Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/smell-this-essential-oils_83386511-3a14-4a45-bf3b-45d97060173e.jpg?v=1521759148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smell This Aromatherapy<br>
+        <strong>Type: </strong>Essential Oil<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% Pure Essential Oil, for External use only.</p>
+<p>For Uses: Astringent, Desensitizing, Anti-infectious, Toning.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6069454725</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>SMELLTHI-00008</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6069429509</id>
+    <published>2016-08-09T13:03:00-07:00</published>
+    <updated>2016-08-09T13:03:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/smell-this-marjoram-essential-oil"/>
+    <title>Smell This - Marjoram Essential Oil</title>
+    <s:type>Essential Oil</s:type>
+    <s:vendor>Smell This Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/smell-this-essential-oils_2d144db6-4d80-49a9-8592-08d705f7756d.jpg?v=1521759168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smell This Aromatherapy<br>
+        <strong>Type: </strong>Essential Oil<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% Pure Essential Oil, for External use only.</p>
+<p> Uses: Cardiovascular, tense Muscle &amp; Joint System, Relaxing &amp; Calming effect, immune &amp; nervous system.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6069429509</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>SMELLTHI-00009</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6069408709</id>
+    <published>2016-08-09T12:39:00-07:00</published>
+    <updated>2016-08-09T12:39:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/smell-this-jasmine-essential-oil"/>
+    <title>Smell This - Jasmine Essential Oil</title>
+    <s:type>Essential Oil</s:type>
+    <s:vendor>Smell This Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/smell-this-essential-oils_66a2761c-2bbd-4a65-9919-93f24b086d1a.jpg?v=1521759155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smell This Aromatherapy<br>
+        <strong>Type: </strong>Essential Oil<br>
+        <strong>Price: </strong>
+            41.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>15% Jasmine Essential Oil + Jojoba Oil, for external use only.</p>
+<p>For Skin Care: Sensitive and Irritated Skin.</p>
+<p>Other Uses: Aphrodisiac, anti-anxiety and useful for feeling of trauma and grief.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6069408709</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">41.95</s:price>
+      <s:sku>SMELLTHI-00010</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6069315845</id>
+    <published>2016-08-09T12:32:00-07:00</published>
+    <updated>2016-08-09T12:32:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/smell-this-rosemary-essential-oil"/>
+    <title>Smell This - Rosemary Essential Oil</title>
+    <s:type>Essential Oil</s:type>
+    <s:vendor>Smell This Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/smell-this-essential-oils_11bf8076-2523-480f-9bcd-610a6a527530.jpg?v=1521759183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smell This Aromatherapy<br>
+        <strong>Type: </strong>Essential Oil<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% Pure Essential Oil, for External use only.</p>
+<p>For Skin Care: Dandruff, Greasy Hair, Stimulates Scalp and Promotes Hair Growth.</p>
+<p>Other Uses: Flatulence, Menstrual Cramps, Colds.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6069315845</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>SMELLTHI-00011</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6069296965</id>
+    <published>2016-08-09T12:28:00-07:00</published>
+    <updated>2016-08-09T12:28:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/smell-this-ylang-ylang-essential-oil"/>
+    <title>Smell This - Ylang Ylang Essential Oil</title>
+    <s:type>Essential Oil</s:type>
+    <s:vendor>Smell This Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/smell-this-essential-oils_75b5f5b2-280b-48e8-a131-6fc56d31ba47.jpg?v=1521759191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smell This Aromatherapy<br>
+        <strong>Type: </strong>Essential Oil<br>
+        <strong>Price: </strong>
+            10.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% Pure Essential Oil, For External use only.</p>
+<p>For Skin Care: Hair growth, Irritated and Oily skin.</p>
+<p>Other Uses: Palpitations, Insomnia, High Blood Pressure.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6069296965</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku>SMELLTHI-00012</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6069284421</id>
+    <published>2016-08-09T12:22:00-07:00</published>
+    <updated>2016-08-09T12:22:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/smell-this-essential-oil-tea-tree"/>
+    <title>Smell This - Tea Tree Essential Oil</title>
+    <s:type>Essential Oil</s:type>
+    <s:vendor>Smell This Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/smell-this-essential-oils_a4b9e9f9-4e56-4422-9fe8-13153eedb654.jpg?v=1521759183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smell This Aromatherapy<br>
+        <strong>Type: </strong>Essential Oil<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% Pure Essential Oil, For external use only.</p>
+<p>For Skin Care: Acne, Athlete's Foot, Cold Sores</p>
+<p>Other uses: Sinusitis, Vaginitis, Respiratory Tract Infections.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6069284421</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>SMELLTHI-00013</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6064137989</id>
+    <published>2016-08-08T16:44:00-07:00</published>
+    <updated>2016-08-08T16:44:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/smell-this-peppermint-essential-oil"/>
+    <title>Smell This - Peppermint Essential Oil</title>
+    <s:type>Essential Oil</s:type>
+    <s:vendor>Smell This Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/smell-this-essential-oils_56183ae6-46c0-4694-9fdc-961ada08b54f.jpg?v=1521759171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smell This Aromatherapy<br>
+        <strong>Type: </strong>Essential Oil<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% Pure Essential Oil, for External use Only.</p>
+<p>Skin Care: Acne, Scabies, Dermatitis.</p>
+<p>Uses: Nausea and Indigestion, Headaches, Sinusitis.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6064137989</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>SMELLTHI-00014</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6064115077</id>
+    <published>2016-08-08T16:42:00-07:00</published>
+    <updated>2016-08-08T16:42:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/smell-this-lemon-essential-oil"/>
+    <title>Smell This - Lemon Essential Oil</title>
+    <s:type>Essential Oil</s:type>
+    <s:vendor>Smell This Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/smell-this-essential-oils_9a72d546-01c7-449a-bba3-861565291b41.jpg?v=1521759163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smell This Aromatherapy<br>
+        <strong>Type: </strong>Essential Oil<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% Pure Essential Oil, for External Use only.</p>
+<p>Skin Care: Antiseptic and Astringent, Good for Oily Blemish - Prone Skin.</p>
+<p>Uses: will help a sluggish circulatory System</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6064115077</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>SMELLTHI-00015</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6064097477</id>
+    <published>2016-08-08T16:38:00-07:00</published>
+    <updated>2016-08-08T16:38:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/smell-this-lavender-essential-oil"/>
+    <title>Smell This - Lavender Essential Oil</title>
+    <s:type>Essential Oil</s:type>
+    <s:vendor>Smell This Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/smell-this-essential-oils_042dcf60-10a0-4232-b798-256ed4d68de9.jpg?v=1521759161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smell This Aromatherapy<br>
+        <strong>Type: </strong>Essential Oil<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% Pure essential Oil, for external use Only.</p>
+<p>Skin Care: Dermatitis, Psoriasis, Burns or Wounds.</p>
+<p>Uses: Throat infections, Abdominal Cramps, Depression, Insomnia, Migraine.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6064097477</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>SMELLTHI-00016</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6064070341</id>
+    <published>2016-08-08T16:34:00-07:00</published>
+    <updated>2016-08-08T16:34:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/smell-this-eucalyptus-essential-oil"/>
+    <title>Smell This - Eucalyptus Essential Oil</title>
+    <s:type>Essential Oil</s:type>
+    <s:vendor>Smell This Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/smell-this-essential-oils_ac392746-ef52-4ac4-b519-e5c80e1eb81a.jpg?v=1521759142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smell This Aromatherapy<br>
+        <strong>Type: </strong>Essential Oil<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% Pure Essential Oil, for external use only.</p>
+<p>Uses: Arthritis, Muscle aches and pains, neuralgia, sciatica.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6064070341</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.95</s:price>
+      <s:sku>SMELLTHI-00017</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6064047045</id>
+    <published>2016-08-08T16:26:00-07:00</published>
+    <updated>2016-08-08T16:26:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/smell-this-cedarwood-essential-oil"/>
+    <title>Smell This - Cedarwood Essential Oil</title>
+    <s:type>Essential Oil</s:type>
+    <s:vendor>Smell This Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/smell-this-essential-oils_31a2da0e-8514-4b7d-b0ea-65bb8e7829e9.jpg?v=1521759127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smell This Aromatherapy<br>
+        <strong>Type: </strong>Essential Oil<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% Pure Essential Oil, for external use only.</p>
+<p>Skin Care: Acne, eczema, psoriasis.</p>
+<p>Uses: Flatulence, Fever, Anxiety and depression.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6064047045</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>SMELLTHI-00018</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6064029573</id>
+    <published>2016-08-08T16:05:00-07:00</published>
+    <updated>2016-08-08T16:05:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/smell-this-bergamot-essential-oil"/>
+    <title>Smell This - Bergamot Essential Oil</title>
+    <s:type>Essential Oil</s:type>
+    <s:vendor>Smell This Aromatherapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/smell-this-essential-oils.jpg?v=1521759122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smell This Aromatherapy<br>
+        <strong>Type: </strong>Essential Oil<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% Pure Essential Oil, for External use only.</p>
+<p>For Skin Care: Acne, Eczema, Psoriasis.</p>
+<p>Uses: Flatulence, Fever, anxiety and Depression</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6064029573</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>SMELLTHI-00019</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+</feed>

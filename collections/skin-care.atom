@@ -1,0 +1,1071 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.breizh.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.breizh.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.breizh.ca/collections/skin-care.atom"/>
+  <title>Breizh Esthetics &amp; Salon Supply Co.</title>
+  <updated>2020-10-14T15:53:33-07:00</updated>
+  <author>
+    <name>Breizh Esthetics &amp; Salon Supply Co.</name>
+  </author>
+  <entry>
+    <id>https://www.breizh.ca/products/4788042006616</id>
+    <published>2020-10-14T15:53:33-07:00</published>
+    <updated>2020-10-14T15:53:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto-5-zen-massage-oil"/>
+    <title>PHYTO 5 - ZEN MASSAGE OIL</title>
+    <s:type></s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            259.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Zen Massage Oil</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/4788042006616</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">259.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/4309888204888</id>
+    <published>2019-10-23T13:42:40-07:00</published>
+    <updated>2019-10-23T13:42:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pier-auge-serum-co-enzyme-q10"/>
+    <title>Pier Auge SERUM CO ENZYME Q10</title>
+    <s:type></s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            92.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Co Enzyme Q10 provides cells with energy to help build collagen and elastin.</p>
+<p>Co Enzyme Q10 is found in abundance in young skin but the amount decreases as we age.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/4309888204888</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">92.95</s:price>
+      <s:sku>0040</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2586783557</id>
+    <published>2018-05-15T16:15:41-07:00</published>
+    <updated>2018-05-15T16:15:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/france-laure-thermessence-gentleness-peel-off-mask"/>
+    <title>France Laure - Thermessence Gentleness Calm alginate Peel-off Mask</title>
+    <s:type>Sensitive Skin</s:type>
+    <s:vendor>France Laure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/france_laure-thermessence-gentleness.jpg?v=1521757616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>France Laure<br>
+        <strong>Type: </strong>Sensitive Skin<br>
+        <strong>Price: </strong>
+            116.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Calms, softens, decongests and stimulates micro circulation.  Hypersensitivity is diminished and redness visibly reduced.  Thermal action: heat favours the penetration of actives; the cooling phase will encapsulate and give skin maximum comfort and wellbeing.</p>
+<p>Key Ingredients: Hamamelis Extract, Ivy Extract Artichoke Extract, Marigold Extract, Witch Hazel Water, Vitamin P, B5 and E, Aloe Vera Extract.</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2586783557</id>
+      <title>Prof.-6tr.</title>
+      <s:price currency="CAD">116.95</s:price>
+      <s:sku>FRANCELA-00022</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2586596805</id>
+    <published>2018-05-15T16:13:47-07:00</published>
+    <updated>2018-05-15T16:13:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/france-laure-thermessence-youthfulness"/>
+    <title>France Laure - Thermessence Regenerate alginate Youthfulness Peel-off Mask</title>
+    <s:type>Mature Skin</s:type>
+    <s:vendor>France Laure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/france_laure-thermessence-youthfulness.jpg?v=1521757621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>France Laure<br>
+        <strong>Type: </strong>Mature Skin<br>
+        <strong>Price: </strong>
+            116.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Firms, regenerates, tones, brightens, hydrates and is astringent.  Thermal Action: heat favours the penetration of actives; the cooling phase will encapsulate and give skin maximum comfort and wellbeing.</p>
+<p>Key Ingredients: Lemon Extract, Beehive Complex, Chestnut Extract, Mistletoe Extract, Artichoke Extract, Hydrating Complex (Lactic Acid Mix and Derivatives), Vitamin B5 and P.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2586596805</id>
+      <title>Prof.-6tr.</title>
+      <s:price currency="CAD">116.95</s:price>
+      <s:sku>FRANCELA-00024</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2432569093</id>
+    <published>2018-02-22T15:09:52-08:00</published>
+    <updated>2018-02-22T15:09:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/hydradermal-eye-face-cleansing-fluid"/>
+    <title>France Laure - Moisturize Hydradermal Cleansing Mousse for all Skins #112072</title>
+    <s:type>Dehydrated Skin</s:type>
+    <s:vendor>France Laure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/fluide-nettoyant-yeux-visage-hydradermal-345.jpeg?v=1521757264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>France Laure<br>
+        <strong>Type: </strong>Dehydrated Skin<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Unique and gentle formula, soap and alcohol free, it is suited for all skin types. This mousse may be used as cleansing for face and neck. Removes all traces of makeup. Doesn’t leave any oily residue. Appeases the most dehydrated skin.</span></p>
+<p>SIZE: 200ML</p>
+<ul></ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Anti-Aging</s:tag>
+    <s:tag>beauty</s:tag>
+    <s:tag>care</s:tag>
+    <s:tag>cleanser</s:tag>
+    <s:tag>cleansing fluid</s:tag>
+    <s:tag>cleansing milk</s:tag>
+    <s:tag>dehydrated</s:tag>
+    <s:tag>Dry</s:tag>
+    <s:tag>european</s:tag>
+    <s:tag>Eye Care</s:tag>
+    <s:tag>facial</s:tag>
+    <s:tag>hydrating</s:tag>
+    <s:tag>skin</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:tag>wrinkles</s:tag>
+    <s:tag>Youth</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2432569093</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku>FRANCELA-00108</s:sku>
+      <s:grams>247</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/468568997929</id>
+    <published>2018-02-05T15:10:34-08:00</published>
+    <updated>2018-02-05T15:10:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/france-laure-illuminate-aha-renewing-treatment"/>
+    <title>France Laure - illuminate AHA Renewing Treatment</title>
+    <s:type></s:type>
+    <s:vendor>France Laure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/708013K-ens-acides-fruites-B-345.jpg?v=1521757176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>France Laure<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">AHA toner &amp; gel to be used once per season to keep skin radiant. Lightly exfoliates the skin and restores energy to the complexion.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/468568997929</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">99.95</s:price>
+      <s:sku>FRANCELA-00134</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/468453425193</id>
+    <published>2018-02-05T14:07:20-08:00</published>
+    <updated>2018-02-05T14:07:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/france-laure-3d-modelling-treatment"/>
+    <title>France Laure - Sculpture 3D Modelling Treatment</title>
+    <s:type></s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Sculpture_3D.JPG?v=1521757494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.95 - 119.95
+            <a href="https://www.breizh.ca/products/france-laure-3d-modelling-treatment">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Retail treatment for clients lacking depth and facial contouring.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/468453425193</id>
+      <title>Treatment - Both</title>
+      <s:price currency="CAD">119.95</s:price>
+      <s:sku>FRANCELA-00131</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/468453425193</id>
+      <title>Cream Only</title>
+      <s:price currency="CAD">59.95</s:price>
+      <s:sku>FRANCELA-00132</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/468453425193</id>
+      <title>Serum Only</title>
+      <s:price currency="CAD">59.95</s:price>
+      <s:sku>FRANCELA-00133</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/468444151849</id>
+    <published>2018-02-05T13:56:50-08:00</published>
+    <updated>2018-02-05T13:56:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/france-laure-suractived-cereal-lotion"/>
+    <title>France Laure - Suractived Cereal Lotion</title>
+    <s:type></s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">For use with Collagen Bio-Matrix or Myo-Lift Sheet masks.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/468444151849</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>FRANCELA-00130</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/468432781353</id>
+    <published>2018-02-05T13:35:40-08:00</published>
+    <updated>2018-02-05T13:35:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pier-auge-discovery-kits"/>
+    <title>Pier Auge - Discovery Kits</title>
+    <s:type></s:type>
+    <s:vendor>Pier Auge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pier Auge<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Discover a little bit of what Pier Auge such a beautiful brand to work with! Each kit hold 4-5 trial size products of signature Pier Auge items.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/468432781353</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.95</s:price>
+      <s:sku>PIERAUGE-00104</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/468420427817</id>
+    <published>2018-02-05T13:11:57-08:00</published>
+    <updated>2018-02-05T13:11:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pier-auge-caresse-nourishing-body-balm"/>
+    <title>Pier Auge - Caresse Nourishing Body Balm</title>
+    <s:type></s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Pier_auge_Caress_Rose.png?v=1521758350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            41.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fabulous new body care balm from Pier Auge! Thick buttery texture, fast absorbing, non-greasy, absolutely stunning! Must try!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/468420427817</id>
+      <title>Damask Rose</title>
+      <s:price currency="CAD">41.95</s:price>
+      <s:sku>PIERAUGE-00100</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/468420427817</id>
+      <title>Monoi &amp; Orchid</title>
+      <s:price currency="CAD">41.95</s:price>
+      <s:sku>PIERAUGE-00101</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/468420427817</id>
+      <title>Grapefruit</title>
+      <s:price currency="CAD">41.95</s:price>
+      <s:sku>PIERAUGE-00102</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/468420427817</id>
+      <title>Cotton Flower</title>
+      <s:price currency="CAD">41.95</s:price>
+      <s:sku>PIERAUGE-00103</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/468416069673</id>
+    <published>2018-02-05T13:07:45-08:00</published>
+    <updated>2018-02-05T13:07:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pier-auge-divine-facial-treatment-set-x10"/>
+    <title>Pier Auge - Divine Facial Treatment Set x10</title>
+    <s:type></s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            472.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Professional anti-aging spa facial treatment. For clients with visible signs of ageing such as wrinkles, lack of firmness, radiance, density.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/468416069673</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">472.45</s:price>
+      <s:sku>PIERAUGE-00099</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/468414169129</id>
+    <published>2018-02-05T13:02:26-08:00</published>
+    <updated>2018-02-05T13:02:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pier-auge-absolu-anti-dark-spot-hand-cream"/>
+    <title>Pier Auge - Absolu Anti-Dark Spot Hand Cream</title>
+    <s:type></s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfect for reducing age spots and pigmentation caused by sun exposure.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/468414169129</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.90</s:price>
+      <s:sku>PIERAUGE-00098</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/468299022377</id>
+    <published>2018-02-05T11:38:15-08:00</published>
+    <updated>2018-02-05T11:38:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto5-marine-exfoliation-with-rice-wakame"/>
+    <title>PHYTO5 - Marine Exfoliation with Rice &amp; Wakame</title>
+    <s:type></s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A nourishing scrub exfoliant with seaweed extract, algae &amp; rice grains.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/468299022377</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.95</s:price>
+      <s:sku>PHYTO5-00131</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/468290994217</id>
+    <published>2018-02-05T11:18:28-08:00</published>
+    <updated>2018-02-05T11:18:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto5-ageless-soothing-purifying-clay-mask-pink"/>
+    <title>PHYTO5 - Ageless Soothing &amp; Purifying Clay Mask (Pink)</title>
+    <s:type></s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            45.95 - 62.95
+            <a href="https://www.breizh.ca/products/phyto5-ageless-soothing-purifying-clay-mask-pink">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Ageless La Cure Clay Mask is a plentiful source of natural mineralization, powered by kaolin clay silica which improves hydration, gently removes dead skin cells and toxins, improves circulation, and encourages natural regeneration. It restores balance and erases common visible signs of aging.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/468290994217</id>
+      <title>250ml-Professional</title>
+      <s:price currency="CAD">62.95</s:price>
+      <s:sku>PHYTO5-00129</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/468290994217</id>
+      <title>50ml-Retail</title>
+      <s:price currency="CAD">45.95</s:price>
+      <s:sku>PHYTO5-00130</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/445441114153</id>
+    <published>2018-01-22T16:44:38-08:00</published>
+    <updated>2018-01-22T16:44:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto5-moisturizing-gel-mask-gel-mask-for-all-skin-types"/>
+    <title>PHYTO5 - Moisturizing Gel Mask - Gel Mask for All Skin Types</title>
+    <s:type></s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.95 - 55.95
+            <a href="https://www.breizh.ca/products/phyto5-moisturizing-gel-mask-gel-mask-for-all-skin-types">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><span>Moisturizing mask. Restores and renews the cell tissue. Great for after sun care!</span></span></p>
+<p><br><strong><span>Skin type<span> </span></span></strong><br><span><span>Suitable for all skin types, including the very sensitive skin. </span></span></p>
+<p><br><strong><span>Main ingredients<span> </span></span></strong><br><span><span>Aloe vera, calendula, lemon, lavender, cypress, marjoram, ylang-ylang, thyme.</span></span></p>
+<p><span><strong><span>Directions for use </span><br></strong><span>Apply to the face and neck, allow to work in for 10-15 minutes, rinse with warm water.</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/445441114153</id>
+      <title>50ml</title>
+      <s:price currency="CAD">35.95</s:price>
+      <s:sku>PHYTO5-00127</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/445441114153</id>
+      <title>100ml</title>
+      <s:price currency="CAD">55.95</s:price>
+      <s:sku>PHYTO5-00128</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/445404676137</id>
+    <published>2018-01-22T16:33:58-08:00</published>
+    <updated>2018-01-22T16:33:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto5-ageless-nourishing-cream"/>
+    <title>PHYTO5 - Ageless Nourishing Cream for  Dry Skin</title>
+    <s:type>Dry Skin</s:type>
+    <s:vendor>PHYTO 5</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PHYTO 5<br>
+        <strong>Type: </strong>Dry Skin<br>
+        <strong>Price: </strong>
+            56.95 - 62.95
+            <a href="https://www.breizh.ca/products/phyto5-ageless-nourishing-cream">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This intensive treatment cream is recommended for dehydrated skin, mature skin and very cold / dry climate. It protects, moisturizes and regenerates the skin. It is to be used as a day and night treatment after cleansing and toning. Slightly massage in and the cream penetrates easily. The nourishing cream incorporates a blend of essential oils which give it a high energetic hydrating power.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/445404676137</id>
+      <title>50ml</title>
+      <s:price currency="CAD">56.95</s:price>
+      <s:sku>PHYTO5-00125</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/445404676137</id>
+      <title>100ml</title>
+      <s:price currency="CAD">62.95</s:price>
+      <s:sku>PHYTO5-00126</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/445388357673</id>
+    <published>2018-01-22T16:25:20-08:00</published>
+    <updated>2018-01-22T16:25:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto5-ageless-pigmentation-cream"/>
+    <title>PHYTO5 - Ageless Pigmentation Cream</title>
+    <s:type></s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            58.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This cream is recommended to lighten the skin and uniform colour. It acts powerfully against hyper pigmentation, because of a synergy of edelweiss from the Swiss Alps, wakame (algae) and phytic acid from wheat (gluten free). The Pigmentation Cream acts on the synthesis of melanin in two ways: it lightens the hyper pigmentation, and it inhibits melanin production in order to avoid the appearance of new spots. The antioxidants in the cream also protects your skin from free radicals (pollution, smoke, sun, stress…). Its natural green and floral fragrance is a blend of jasmine, violet and mimosa.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/445388357673</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">58.95</s:price>
+      <s:sku>PHYTO5-00124</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/9071714693</id>
+    <published>2017-09-25T12:44:05-07:00</published>
+    <updated>2017-09-25T12:44:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/concept-c-aqueous-serum"/>
+    <title>France Laure - illuminate C+  Detox Intense Serum</title>
+    <s:type>Skin Care</s:type>
+    <s:vendor>France Laure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/FL_Vitamin_Cduo_large_3b192734-fe20-414d-b349-f6928afdd627.jpg?v=1521757180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>France Laure<br>
+        <strong>Type: </strong>Skin Care<br>
+        <strong>Price: </strong>
+            53.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The exceptional properties of this serum are skin brightening, reducing the appearance of wrinkles, regenerating, revitalizing, toning, and adding anti-oxidant properties to your skin while helping you to lighten pigmentation spots.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/9071714693</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">53.95</s:price>
+      <s:sku>FRANCELA-00001</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/9071701445</id>
+    <published>2017-09-25T12:38:26-07:00</published>
+    <updated>2017-09-25T12:38:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/concept-c-antipollution-cream"/>
+    <title>France Laure - illuminate C+ Detox Harmonizing Fluide or  Cream</title>
+    <s:type>Skin Care</s:type>
+    <s:vendor>France Laure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/FL_Vitamin_Cduo_large_9df391ba-d7e1-40e6-94ee-712d3179f63f.jpg?v=1521757185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>France Laure<br>
+        <strong>Type: </strong>Skin Care<br>
+        <strong>Price: </strong>
+            35.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vitamin C is the best natural remedy to illuminate complexion,revitalize skin against stress and pollution. Energizes the cellular system, helps to improve blood vessel walls. Vitamin C is an anti-oxidant, stimulates collagen production and brightens complexion.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/9071701445</id>
+      <title>Normal to Dry Skin</title>
+      <s:price currency="CAD">35.95</s:price>
+      <s:sku>FRANCELA-00002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/9071701445</id>
+      <title>Combination to Oily Skin</title>
+      <s:price currency="CAD">35.95</s:price>
+      <s:sku>FRANCELA-00003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8547174725</id>
+    <published>2017-07-18T10:26:54-07:00</published>
+    <updated>2017-07-18T10:26:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto-5-yogi-body-eau"/>
+    <title>Phyto 5 - Yogi Body Eau</title>
+    <s:type>Body Gel</s:type>
+    <s:vendor>PHYTO 5</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/yogi_water.JPG?v=1521758133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PHYTO 5<br>
+        <strong>Type: </strong>Body Gel<br>
+        <strong>Price: </strong>
+            47.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Apply on the abdomen, the center of our emotions, to keep your emotional state of Serenity in balance. Apply on other parts of the body in need of toning.</p>
+<p>Apply every morning and evening and do not wash away to feel its full benefits:</p>
+<ul>
+<li>Calming</li>
+<li>Toning</li>
+<li>Improving skin appearance</li>
+<li>Smoothing</li>
+<li>Firming</li>
+<li>Hydrating</li>
+<li>Draining</li>
+<li>Astringent</li>
+<li>Nourishing</li>
+</ul>
+<p>200ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8547174725</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.95</s:price>
+      <s:sku>PHYTO5-00001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8547154501</id>
+    <published>2017-07-18T10:23:16-07:00</published>
+    <updated>2017-07-18T10:23:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto5-yogi-body-metal"/>
+    <title>Phyto5 - Yogi Body Metal</title>
+    <s:type>Body Gel</s:type>
+    <s:vendor>PHYTO 5</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/yogi_metal.JPG?v=1521758314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PHYTO 5<br>
+        <strong>Type: </strong>Body Gel<br>
+        <strong>Price: </strong>
+            47.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Apply on the abdomen, the center of our emotions, to keep your emotional state of satisfaction in balance. Apply on other parts of the body to improve skin appearance.</p>
+<p>Apply every morning and evening and do not wash away to feel its full benefits:</p>
+<ul>
+<li>Well-being and beauty of the body</li>
+<li>Satisfaction</li>
+<li>Stimulating and support of venous circulation</li>
+<li>mineralizing</li>
+<li>Toning</li>
+<li>Refreshing</li>
+<li>Nourishing</li>
+</ul>
+<p>200ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8547154501</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.95</s:price>
+      <s:sku>PHYTO5-00002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8547133573</id>
+    <published>2017-07-18T10:20:30-07:00</published>
+    <updated>2017-07-18T10:20:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto5-yogi-body-bois"/>
+    <title>Phyto5 - Yogi Body Bois</title>
+    <s:type>Body Gel</s:type>
+    <s:vendor>PHYTO 5</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/yogi_wood.JPG?v=1521758306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PHYTO 5<br>
+        <strong>Type: </strong>Body Gel<br>
+        <strong>Price: </strong>
+            47.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Apply on the abdomen, the center of our emotions, to balance the emotional state f confidence. Apply on other parts of the body in need of energy stimulation.</p>
+<p>Apply every morning and evening and do not wash away to feel its full benefits:</p>
+<ul>
+<li>Strenght</li>
+<li>Body Vitality</li>
+<li>Stimulating</li>
+<li>Balancing of Wood-type organs</li>
+<li>Revitalizing</li>
+<li>Toning</li>
+<li>Nourishing</li>
+</ul>
+<p>200ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8547133573</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.95</s:price>
+      <s:sku>PHYTO5-00003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8547113733</id>
+    <published>2017-07-18T10:17:01-07:00</published>
+    <updated>2017-07-18T10:17:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto5-yogi-body-terre"/>
+    <title>Phyto5 - Yogi Body Terre</title>
+    <s:type>Body Gel</s:type>
+    <s:vendor>PHYTO 5</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/yogi_earth.JPG?v=1521758320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PHYTO 5<br>
+        <strong>Type: </strong>Body Gel<br>
+        <strong>Price: </strong>
+            47.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Apply on the abdomen, the center of our emotions, to facilitate the transition from one emotional state to the next, and to encourage creativity. Apply on other parts of the body that need detoxification.</p>
+<p>Apply every morning and evening and do not wash away to feel its full benefits:</p>
+<ul>
+<li>Body Detox</li>
+<li>Emotional Cleansing</li>
+<li>Contouring</li>
+<li>Anti-cellulite</li>
+<li>Toning</li>
+<li>Purifying</li>
+<li>Nourishing</li>
+</ul>
+<p>200ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8547113733</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.95</s:price>
+      <s:sku>PHYTO5-00004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8547094469</id>
+    <published>2017-07-18T10:09:56-07:00</published>
+    <updated>2017-07-18T10:09:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto5-yogi-body-fire"/>
+    <title>Phyto5 - Yogi Body Fire</title>
+    <s:type>Body Gel</s:type>
+    <s:vendor>PHYTO 5</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/yogi_fire.JPG?v=1521758312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PHYTO 5<br>
+        <strong>Type: </strong>Body Gel<br>
+        <strong>Price: </strong>
+            47.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Apply on the abdomen, the center of our emotions, to keep your emotional state of Joy in balance. Apply on other parts of the body that need soothing.</p>
+<p>Apply every morning and evening and do not wash away to feel its full benefits:</p>
+<ul>
+<li>Calming</li>
+<li>Refreshing</li>
+<li>Regenerating</li>
+<li>Revitalizing</li>
+<li>Soothing</li>
+<li>Nourishing</li>
+</ul>
+<p>200ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8547094469</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.95</s:price>
+      <s:sku>PHYTO5-00005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8537701125</id>
+    <published>2017-07-17T13:24:38-07:00</published>
+    <updated>2017-07-17T13:24:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto5-selextreme-water"/>
+    <title>Phyto5 - Selextreme Water</title>
+    <s:type>Sea Salts</s:type>
+    <s:vendor>PHYTO 5</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/sal_water_464e6273-49ca-45f6-8ff9-37e2abc3be93.JPG?v=1521758276"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PHYTO 5<br>
+        <strong>Type: </strong>Sea Salts<br>
+        <strong>Price: </strong>
+            52.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Selextreme is a natural exfoliant for the face and body. Use in the shower or sprinkled in a bath. Enjoy its regenerating effect on your skin and spirit.</p>
+<p>Extracted from the pure depth of the mountains, the salt from the Water Selextreme restores balance for the Water-Type skins while boosting the emotional state of serenity.</p>
+<p>With its active ingredients, its benefits on the skin include:</p>
+<ul>
+<li>Mineralizing</li>
+<li>Regenerating</li>
+<li>Exfoliating</li>
+<li>Draining</li>
+<li>Astringent</li>
+</ul>
+<p>500ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8537701125</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.95</s:price>
+      <s:sku>PHYTO5-00006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

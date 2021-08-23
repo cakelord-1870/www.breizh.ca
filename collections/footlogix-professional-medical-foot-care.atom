@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.breizh.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.breizh.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.breizh.ca/collections/footlogix-professional-medical-foot-care.atom"/>
+  <title>Breizh Esthetics &amp; Salon Supply Co.</title>
+  <updated>2019-06-19T10:01:04-07:00</updated>
+  <author>
+    <name>Breizh Esthetics &amp; Salon Supply Co.</name>
+  </author>
+  <entry>
+    <id>https://www.breizh.ca/products/3849848094808</id>
+    <published>2019-06-19T10:01:04-07:00</published>
+    <updated>2019-06-19T10:01:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/footlogix-15-exfoliating-seaweed-scrub"/>
+    <title>Footlogix #15 Exfoliating Seaweed Scrub</title>
+    <s:type></s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The choice of leading Professional world wide.  Seaweed Exfoliating Scrub for the whole body.  Excellent for the foot and legs.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/3849848094808</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>946</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/5580587525</id>
+    <published>2016-05-06T13:17:00-07:00</published>
+    <updated>2016-05-06T13:17:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/footlogix-19-foot-massage-cream"/>
+    <title>Footlogix  -  #19 Foot Massage Cream</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Footlogix</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Footlogix-19-Foot-Massage-Formula.JPG?v=1521756970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Footlogix<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/ADdrcZqavRU?list=PLlJguTQTvSOy9SIhFNtr1WTCr3UTfDnLC" frameborder="0" allowfullscreen=""></iframe></p>
+<p>Foot Massage Formula - A non-occlusive lotion, this is the perfect final step in the pedicure service and for an at-home foot care routine.  This formula has enough slip for a 5 to 7 minutes massage leaving the skin feeling silky soft without a greasy film.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5580587525</id>
+      <title>Retail 120 ml. - $7.95 / Prof. 500 ml. - $18.95</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>FOOTLOGI-00001</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/5580536965</id>
+    <published>2016-05-06T13:08:00-07:00</published>
+    <updated>2016-05-06T13:08:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/footlogix-18-callus-softener"/>
+    <title>Footlogix - #18 Foot Callus Softener Spray</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Footlogix</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Footlogix-18-Foot-Callus-Softener-Spray.JPG?v=1521756981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Footlogix<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/ADdrcZqavRU?list=PLlJguTQTvSOy9SIhFNtr1WTCr3UTfDnLC" frameborder="0" allowfullscreen=""></iframe></p>
+<p>Footlogix #18 Callus Softener - For Professional uses only.  Spray-on formula provides an effective, instant softening treatment for calluses, toe nails and cuticles, dry keratinized skin, hyperkeratosis and fissures/rhagades.  This non aggressive formula is safe for Diabetics and does not need to be washed off.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5580536965</id>
+      <title>Prof. 180 ml.  -  $19.95 / Prof. 946 ml.  - $59.95</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>FOOTLOGI-00002</s:sku>
+      <s:grams>180</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/5580475333</id>
+    <published>2016-05-06T13:01:00-07:00</published>
+    <updated>2016-05-06T13:01:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/footlogix-13-foot-soak-concentrate"/>
+    <title>Footlogix - #13 Foot Soak Concentrate</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Footlogix</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Footlogix-13-Foot-Soak.JPG?v=1521756978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Footlogix<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/ADdrcZqavRU?list=PLlJguTQTvSOy9SIhFNtr1WTCr3UTfDnLC" frameborder="0" allowfullscreen=""></iframe></p>
+<p>#13 Foot Soak Concentrate - A pH balanced, gentle and rehydrating cleansing foot soak with anti-microbial properties, blended in a fresh-scent formula that moisturizes  skin and softens calluses.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5580475333</id>
+      <title>Retail 250ml  -  $12.95 / Prof. 1000ml - $43.95</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku>FOOTLOGI-00003</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/5580431621</id>
+    <published>2016-05-06T12:57:00-07:00</published>
+    <updated>2016-05-06T12:57:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/footlogix-10-shoe-deodorant"/>
+    <title>Footlogix - #10 Shoe Deodorant Spray</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Footlogix</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Footlogix_10-Foot-Shoe-Deodorant.JPG?v=1521756969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Footlogix<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/ADdrcZqavRU?list=PLlJguTQTvSOy9SIhFNtr1WTCr3UTfDnLC" frameborder="0" allowfullscreen=""></iframe></p>
+<p>#10 Shoe Deodorant - Pump Spray with tea-tree oil is proven to effectively kill odor-causing bacteria in shoes and leaves a refreshing scent.  Formula will not harm leather or canvas.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5580431621</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>FOOTLOGI-00004</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/5580402885</id>
+    <published>2016-05-06T12:53:00-07:00</published>
+    <updated>2016-05-06T12:53:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/footlogix-9-foot-deodorant"/>
+    <title>Footlogix - #9 Foot Deodorant</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Footlogix</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Footlogix_9-Foot-Shoe-Deodorant-Spray.JPG?v=1521757025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Footlogix<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/ADdrcZqavRU?list=PLlJguTQTvSOy9SIhFNtr1WTCr3UTfDnLC" frameborder="0" allowfullscreen=""></iframe></p>
+<p>#9 Foot Deodorant - Pump spray with tea-tree Oil and Menthol, is proven to effectively kill odor-causing bacteria.  Formula neutralizes foot odors, cools the skin and leaves a refreshing scent.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5580402885</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>FOOTLOGI-00005</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/5580384325</id>
+    <published>2016-05-06T12:49:00-07:00</published>
+    <updated>2016-05-06T12:49:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/footlogix-8-tired-legs"/>
+    <title>Footlogix - #8 Tired Legs Formula</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Footlogix</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Footlogix-8-Tired-Leg-Formula-Cream.JPG?v=1521757023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Footlogix<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/ADdrcZqavRU?list=PLlJguTQTvSOy9SIhFNtr1WTCr3UTfDnLC" frameborder="0" allowfullscreen=""></iframe></p>
+<p>#8 Tired Legs - With "vaso-active properties", this formula helps reduce leg fatigue and is highly recommended for wearers of compression-hose as it does not break down the elastic fibre.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5580384325</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku>FOOTLOGI-00006</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/5580272901</id>
+    <published>2016-05-06T12:29:00-07:00</published>
+    <updated>2016-05-06T12:29:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/footlogix-7t-nail-tincture-spray"/>
+    <title>Footlogix - #7T Nail Tincture Spray</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Footlogix</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Footlogix-7-T-Toe-Foot-Anti-Fungal-Tincture.JPG?v=1521757022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Footlogix<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/ADdrcZqavRU?list=PLlJguTQTvSOy9SIhFNtr1WTCr3UTfDnLC" frameborder="0" allowfullscreen=""></iframe></p>
+<p><strong>BEST SELLER!</strong></p>
+<p>#7T Nail Tincture Spray - Contains an effective anti-microbial agent, that is proven to provide preventative care for unsightly toenails prone to fungal infections.  This tincture can also be used between the toes for peeling skin.  The tincture contains avocado oil and Panthenol to restore  healthy sheen to toenails.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5580272901</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>FOOTLOGI-00007</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/5580206341</id>
+    <published>2016-05-06T12:25:00-07:00</published>
+    <updated>2016-05-06T12:25:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/footlogix-7-rough-skin-anti-fungal"/>
+    <title>Footlogix - #7+  Rough Skin  (Anti-Fungal)</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Footlogix</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Footlogix-7-Plus-Rough-Skin-Anti-Fungal-for-Feet.JPG?v=1521757014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Footlogix<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/ADdrcZqavRU?list=PLlJguTQTvSOy9SIhFNtr1WTCr3UTfDnLC" frameborder="0" allowfullscreen=""></iframe></p>
+<p>#7+ Rough Skin -  Contains an effective anti-microbial agent and moisturizer which provides effective relief from scaling and irritation of dry skin prone to fungal infections.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5580206341</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku>FOOTLOGI-00008</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/5580186757</id>
+    <published>2016-05-06T12:19:00-07:00</published>
+    <updated>2016-05-06T12:19:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/footlogix-7-peeling-skin-anti-fungal"/>
+    <title>Footlogix - #7 Peeling Skin - Anti-Fungal</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Footlogix</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Footlogix-7-Peeling-Skin-Foot-Anti-Fungal.JPG?v=1521757009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Footlogix<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/ADdrcZqavRU?list=PLlJguTQTvSOy9SIhFNtr1WTCr3UTfDnLC" frameborder="0" allowfullscreen=""></iframe></p>
+<p>#7 Peeling Skin - Containing an effective anti-microbial agent, this formula provides relief of peeling skin on the soles and itching between the toes resulting from Athlete's foot or fungal infections.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5580186757</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku>FOOTLOGI-00009</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/5580155013</id>
+    <published>2016-05-06T12:11:00-07:00</published>
+    <updated>2016-05-06T12:11:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/footlogix-5-sweaty-feet"/>
+    <title>Footlogix - #5 Sweaty Feet Solution</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Footlogix</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Footlogix-5-Sweaty-Feet-Formula-Mousse.JPG?v=1521757003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Footlogix<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/ADdrcZqavRU?list=PLlJguTQTvSOy9SIhFNtr1WTCr3UTfDnLC" frameborder="0" allowfullscreen=""></iframe></p>
+<p>#5 Sweaty Feet - This formula of mousse acts as an astringent to help reduce foot perspiration.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5580155013</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku>FOOTLOGI-00010</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/5573815237</id>
+    <published>2016-05-05T13:29:00-07:00</published>
+    <updated>2016-05-05T13:29:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/footlogix-4-cold-feet"/>
+    <title>Footlogix - #4 Cold Feet Solution</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Footlogix</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Footlogix-4-Cold-Feet-Formula-Cream-Mousse.JPG?v=1521757000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Footlogix<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/ADdrcZqavRU?list=PLlJguTQTvSOy9SIhFNtr1WTCr3UTfDnLC" frameborder="0" allowfullscreen=""></iframe></p>
+<p>#4 Cold Feet - This mousse is proven to stimulate micro-circulation and provides relief to chronically cold feet.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5573815237</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku>FOOTLOGI-00011</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/5573721989</id>
+    <published>2016-05-05T13:22:00-07:00</published>
+    <updated>2016-05-05T13:22:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/footlogix-3-cracked-heel"/>
+    <title>Footlogix - #3+  Cracked Heel Formula for Very Dry Skin</title>
+    <s:type>Dry Skin</s:type>
+    <s:vendor>Footlogix</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Footlogix-3-Cracked-heel-moisturizing-solution-feet.JPG?v=1521757000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Footlogix<br>
+        <strong>Type: </strong>Dry Skin<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/ADdrcZqavRU?list=PLlJguTQTvSOy9SIhFNtr1WTCr3UTfDnLC" frameborder="0" allowfullscreen=""></iframe></p>
+<p><strong>Best Seller!</strong></p>
+<p>Footlogix #3+ Cracked Heel - This formula is proven to moisturize and heal extremely callused, thick cracked skin. This incredible foot care formula shows results in as little as 3 weeks!</p>
+<p>Simply have the client massage the mousse into their feet twice daily and any cracked heels or dry skin should heal up. All Footlogix products are safe for use by diabetics as well.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5573721989</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku>FOOTLOGI-00012</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/5573685125</id>
+    <published>2016-05-05T13:15:00-07:00</published>
+    <updated>2016-05-05T13:15:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/footlogix-3-very-dry-skin"/>
+    <title>Footlogix - #3 Very Dry Skin Foot Solution</title>
+    <s:type>Dry Skin</s:type>
+    <s:vendor>Footlogix</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Footlogix-3-Dry-Skin-Formula-mousse-for-feet.JPG?v=1521756991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Footlogix<br>
+        <strong>Type: </strong>Dry Skin<br>
+        <strong>Price: </strong>
+            25.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/ADdrcZqavRU?list=PLlJguTQTvSOy9SIhFNtr1WTCr3UTfDnLC" frameborder="0" allowfullscreen=""></iframe></p>
+<p>#3 Very dry Skin - This formula is proven to moisturize and restore very dry skin with daily uses and recommended as a daily foot care for all Diabetics</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5573685125</id>
+      <title>Prof. 300 ml. - $25.95</title>
+      <s:price currency="CAD">25.95</s:price>
+      <s:sku>FOOTLOGI-00013</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5573685125</id>
+      <title>Retail 125 ml.- $11.95</title>
+      <s:price currency="CAD">25.95</s:price>
+      <s:sku>FOOTLOGI-00014</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/5573553157</id>
+    <published>2016-05-05T12:54:00-07:00</published>
+    <updated>2016-05-05T12:54:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/footlogix-2-daily-maintenance"/>
+    <title>Footlogix - #2 Daily Maintenance Foot Care</title>
+    <s:type>Dry Skin</s:type>
+    <s:vendor>Footlogix</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Footlogix-2-Daily-Defense-Mousse.JPG?v=1521756984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Footlogix<br>
+        <strong>Type: </strong>Dry Skin<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/ADdrcZqavRU?list=PLlJguTQTvSOy9SIhFNtr1WTCr3UTfDnLC" frameborder="0" allowfullscreen=""></iframe></p>
+<p>#2 - Daily Maintenance Formula for normal to dry skin, proven to be effective as daily moisturizing product, to maintain healthy feet.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5573553157</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>FOOTLOGI-00015</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.breizh.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.breizh.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.breizh.ca/collections/phyto-5.atom"/>
+  <title>Breizh Esthetics &amp; Salon Supply Co.</title>
+  <updated>2020-10-14T15:53:33-07:00</updated>
+  <author>
+    <name>Breizh Esthetics &amp; Salon Supply Co.</name>
+  </author>
+  <entry>
+    <id>https://www.breizh.ca/products/4788042006616</id>
+    <published>2020-10-14T15:53:33-07:00</published>
+    <updated>2020-10-14T15:53:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto-5-zen-massage-oil"/>
+    <title>PHYTO 5 - ZEN MASSAGE OIL</title>
+    <s:type></s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            259.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Zen Massage Oil</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/4788042006616</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">259.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/468299022377</id>
+    <published>2018-02-05T11:38:15-08:00</published>
+    <updated>2018-02-05T11:38:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto5-marine-exfoliation-with-rice-wakame"/>
+    <title>PHYTO5 - Marine Exfoliation with Rice &amp; Wakame</title>
+    <s:type></s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A nourishing scrub exfoliant with seaweed extract, algae &amp; rice grains.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/468299022377</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.95</s:price>
+      <s:sku>PHYTO5-00131</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/468290994217</id>
+    <published>2018-02-05T11:18:28-08:00</published>
+    <updated>2018-02-05T11:18:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto5-ageless-soothing-purifying-clay-mask-pink"/>
+    <title>PHYTO5 - Ageless Soothing &amp; Purifying Clay Mask (Pink)</title>
+    <s:type></s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            45.95 - 62.95
+            <a href="https://www.breizh.ca/products/phyto5-ageless-soothing-purifying-clay-mask-pink">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Ageless La Cure Clay Mask is a plentiful source of natural mineralization, powered by kaolin clay silica which improves hydration, gently removes dead skin cells and toxins, improves circulation, and encourages natural regeneration. It restores balance and erases common visible signs of aging.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/468290994217</id>
+      <title>250ml-Professional</title>
+      <s:price currency="CAD">62.95</s:price>
+      <s:sku>PHYTO5-00129</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/468290994217</id>
+      <title>50ml-Retail</title>
+      <s:price currency="CAD">45.95</s:price>
+      <s:sku>PHYTO5-00130</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/445441114153</id>
+    <published>2018-01-22T16:44:38-08:00</published>
+    <updated>2018-01-22T16:44:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto5-moisturizing-gel-mask-gel-mask-for-all-skin-types"/>
+    <title>PHYTO5 - Moisturizing Gel Mask - Gel Mask for All Skin Types</title>
+    <s:type></s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.95 - 55.95
+            <a href="https://www.breizh.ca/products/phyto5-moisturizing-gel-mask-gel-mask-for-all-skin-types">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><span>Moisturizing mask. Restores and renews the cell tissue. Great for after sun care!</span></span></p>
+<p><br><strong><span>Skin type<span> </span></span></strong><br><span><span>Suitable for all skin types, including the very sensitive skin. </span></span></p>
+<p><br><strong><span>Main ingredients<span> </span></span></strong><br><span><span>Aloe vera, calendula, lemon, lavender, cypress, marjoram, ylang-ylang, thyme.</span></span></p>
+<p><span><strong><span>Directions for use </span><br></strong><span>Apply to the face and neck, allow to work in for 10-15 minutes, rinse with warm water.</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/445441114153</id>
+      <title>50ml</title>
+      <s:price currency="CAD">35.95</s:price>
+      <s:sku>PHYTO5-00127</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/445441114153</id>
+      <title>100ml</title>
+      <s:price currency="CAD">55.95</s:price>
+      <s:sku>PHYTO5-00128</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/445404676137</id>
+    <published>2018-01-22T16:33:58-08:00</published>
+    <updated>2018-01-22T16:33:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto5-ageless-nourishing-cream"/>
+    <title>PHYTO5 - Ageless Nourishing Cream for  Dry Skin</title>
+    <s:type>Dry Skin</s:type>
+    <s:vendor>PHYTO 5</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PHYTO 5<br>
+        <strong>Type: </strong>Dry Skin<br>
+        <strong>Price: </strong>
+            56.95 - 62.95
+            <a href="https://www.breizh.ca/products/phyto5-ageless-nourishing-cream">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This intensive treatment cream is recommended for dehydrated skin, mature skin and very cold / dry climate. It protects, moisturizes and regenerates the skin. It is to be used as a day and night treatment after cleansing and toning. Slightly massage in and the cream penetrates easily. The nourishing cream incorporates a blend of essential oils which give it a high energetic hydrating power.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/445404676137</id>
+      <title>50ml</title>
+      <s:price currency="CAD">56.95</s:price>
+      <s:sku>PHYTO5-00125</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/445404676137</id>
+      <title>100ml</title>
+      <s:price currency="CAD">62.95</s:price>
+      <s:sku>PHYTO5-00126</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/445388357673</id>
+    <published>2018-01-22T16:25:20-08:00</published>
+    <updated>2018-01-22T16:25:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto5-ageless-pigmentation-cream"/>
+    <title>PHYTO5 - Ageless Pigmentation Cream</title>
+    <s:type></s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            58.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This cream is recommended to lighten the skin and uniform colour. It acts powerfully against hyper pigmentation, because of a synergy of edelweiss from the Swiss Alps, wakame (algae) and phytic acid from wheat (gluten free). The Pigmentation Cream acts on the synthesis of melanin in two ways: it lightens the hyper pigmentation, and it inhibits melanin production in order to avoid the appearance of new spots. The antioxidants in the cream also protects your skin from free radicals (pollution, smoke, sun, stress…). Its natural green and floral fragrance is a blend of jasmine, violet and mimosa.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/445388357673</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">58.95</s:price>
+      <s:sku>PHYTO5-00124</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8547174725</id>
+    <published>2017-07-18T10:26:54-07:00</published>
+    <updated>2017-07-18T10:26:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto-5-yogi-body-eau"/>
+    <title>Phyto 5 - Yogi Body Eau</title>
+    <s:type>Body Gel</s:type>
+    <s:vendor>PHYTO 5</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/yogi_water.JPG?v=1521758133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PHYTO 5<br>
+        <strong>Type: </strong>Body Gel<br>
+        <strong>Price: </strong>
+            47.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Apply on the abdomen, the center of our emotions, to keep your emotional state of Serenity in balance. Apply on other parts of the body in need of toning.</p>
+<p>Apply every morning and evening and do not wash away to feel its full benefits:</p>
+<ul>
+<li>Calming</li>
+<li>Toning</li>
+<li>Improving skin appearance</li>
+<li>Smoothing</li>
+<li>Firming</li>
+<li>Hydrating</li>
+<li>Draining</li>
+<li>Astringent</li>
+<li>Nourishing</li>
+</ul>
+<p>200ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8547174725</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.95</s:price>
+      <s:sku>PHYTO5-00001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8547154501</id>
+    <published>2017-07-18T10:23:16-07:00</published>
+    <updated>2017-07-18T10:23:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto5-yogi-body-metal"/>
+    <title>Phyto5 - Yogi Body Metal</title>
+    <s:type>Body Gel</s:type>
+    <s:vendor>PHYTO 5</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/yogi_metal.JPG?v=1521758314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PHYTO 5<br>
+        <strong>Type: </strong>Body Gel<br>
+        <strong>Price: </strong>
+            47.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Apply on the abdomen, the center of our emotions, to keep your emotional state of satisfaction in balance. Apply on other parts of the body to improve skin appearance.</p>
+<p>Apply every morning and evening and do not wash away to feel its full benefits:</p>
+<ul>
+<li>Well-being and beauty of the body</li>
+<li>Satisfaction</li>
+<li>Stimulating and support of venous circulation</li>
+<li>mineralizing</li>
+<li>Toning</li>
+<li>Refreshing</li>
+<li>Nourishing</li>
+</ul>
+<p>200ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8547154501</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.95</s:price>
+      <s:sku>PHYTO5-00002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8547133573</id>
+    <published>2017-07-18T10:20:30-07:00</published>
+    <updated>2017-07-18T10:20:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto5-yogi-body-bois"/>
+    <title>Phyto5 - Yogi Body Bois</title>
+    <s:type>Body Gel</s:type>
+    <s:vendor>PHYTO 5</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/yogi_wood.JPG?v=1521758306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PHYTO 5<br>
+        <strong>Type: </strong>Body Gel<br>
+        <strong>Price: </strong>
+            47.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Apply on the abdomen, the center of our emotions, to balance the emotional state f confidence. Apply on other parts of the body in need of energy stimulation.</p>
+<p>Apply every morning and evening and do not wash away to feel its full benefits:</p>
+<ul>
+<li>Strenght</li>
+<li>Body Vitality</li>
+<li>Stimulating</li>
+<li>Balancing of Wood-type organs</li>
+<li>Revitalizing</li>
+<li>Toning</li>
+<li>Nourishing</li>
+</ul>
+<p>200ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8547133573</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.95</s:price>
+      <s:sku>PHYTO5-00003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8547113733</id>
+    <published>2017-07-18T10:17:01-07:00</published>
+    <updated>2017-07-18T10:17:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto5-yogi-body-terre"/>
+    <title>Phyto5 - Yogi Body Terre</title>
+    <s:type>Body Gel</s:type>
+    <s:vendor>PHYTO 5</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/yogi_earth.JPG?v=1521758320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PHYTO 5<br>
+        <strong>Type: </strong>Body Gel<br>
+        <strong>Price: </strong>
+            47.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Apply on the abdomen, the center of our emotions, to facilitate the transition from one emotional state to the next, and to encourage creativity. Apply on other parts of the body that need detoxification.</p>
+<p>Apply every morning and evening and do not wash away to feel its full benefits:</p>
+<ul>
+<li>Body Detox</li>
+<li>Emotional Cleansing</li>
+<li>Contouring</li>
+<li>Anti-cellulite</li>
+<li>Toning</li>
+<li>Purifying</li>
+<li>Nourishing</li>
+</ul>
+<p>200ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8547113733</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.95</s:price>
+      <s:sku>PHYTO5-00004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8547094469</id>
+    <published>2017-07-18T10:09:56-07:00</published>
+    <updated>2017-07-18T10:09:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto5-yogi-body-fire"/>
+    <title>Phyto5 - Yogi Body Fire</title>
+    <s:type>Body Gel</s:type>
+    <s:vendor>PHYTO 5</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/yogi_fire.JPG?v=1521758312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PHYTO 5<br>
+        <strong>Type: </strong>Body Gel<br>
+        <strong>Price: </strong>
+            47.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Apply on the abdomen, the center of our emotions, to keep your emotional state of Joy in balance. Apply on other parts of the body that need soothing.</p>
+<p>Apply every morning and evening and do not wash away to feel its full benefits:</p>
+<ul>
+<li>Calming</li>
+<li>Refreshing</li>
+<li>Regenerating</li>
+<li>Revitalizing</li>
+<li>Soothing</li>
+<li>Nourishing</li>
+</ul>
+<p>200ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8547094469</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.95</s:price>
+      <s:sku>PHYTO5-00005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8537701125</id>
+    <published>2017-07-17T13:24:38-07:00</published>
+    <updated>2017-07-17T13:24:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto5-selextreme-water"/>
+    <title>Phyto5 - Selextreme Water</title>
+    <s:type>Sea Salts</s:type>
+    <s:vendor>PHYTO 5</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/sal_water_464e6273-49ca-45f6-8ff9-37e2abc3be93.JPG?v=1521758276"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PHYTO 5<br>
+        <strong>Type: </strong>Sea Salts<br>
+        <strong>Price: </strong>
+            52.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Selextreme is a natural exfoliant for the face and body. Use in the shower or sprinkled in a bath. Enjoy its regenerating effect on your skin and spirit.</p>
+<p>Extracted from the pure depth of the mountains, the salt from the Water Selextreme restores balance for the Water-Type skins while boosting the emotional state of serenity.</p>
+<p>With its active ingredients, its benefits on the skin include:</p>
+<ul>
+<li>Mineralizing</li>
+<li>Regenerating</li>
+<li>Exfoliating</li>
+<li>Draining</li>
+<li>Astringent</li>
+</ul>
+<p>500ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8537701125</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.95</s:price>
+      <s:sku>PHYTO5-00006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8537686469</id>
+    <published>2017-07-17T13:18:30-07:00</published>
+    <updated>2017-07-17T13:18:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto5-selextreme-metal"/>
+    <title>Phyto5 -  Selextreme Metal</title>
+    <s:type>Sea Salts</s:type>
+    <s:vendor>PHYTO 5</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/sal_water.JPG?v=1521758146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PHYTO 5<br>
+        <strong>Type: </strong>Sea Salts<br>
+        <strong>Price: </strong>
+            52.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With micronized crystals. Selextreme is a natural exfoliant for the face and body. Use in the shower or sprinkled in a bath. Enjoy its regenerating effect on your skin and spirit.</p>
+<p>Extracted from the pure depth of the mountains, the salt from the Metal Selextreme restores balance for the Metal-Type skins while boosting the sense of personal satisfaction.</p>
+<ul>
+<li>Mineralizing</li>
+<li>Regenerating</li>
+<li>Exfoliating</li>
+<li>Energizing</li>
+<li>Venous Support</li>
+<li>Refreshing</li>
+<li>Invigorating</li>
+</ul>
+<p>500ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8537686469</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.95</s:price>
+      <s:sku>PHYTO5-00007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8537651205</id>
+    <published>2017-07-17T13:14:05-07:00</published>
+    <updated>2017-07-17T13:14:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto5-selextreme-bois"/>
+    <title>Phyto5 - Selextreme Bois</title>
+    <s:type>Sea Salts</s:type>
+    <s:vendor>PHYTO 5</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Sal_wood.JPG?v=1521758274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PHYTO 5<br>
+        <strong>Type: </strong>Sea Salts<br>
+        <strong>Price: </strong>
+            52.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Selextreme is a natural exfoliant for the face and body. Use in the shower or sprinkled in a bath. Enjoy its regenerating effect on your skin and spirit.</p>
+<p>Extracted from the pure depth of the mountains, the salt from the Wood Selextreme restores balance for the Wood-Type skins while boosting self-confidence.</p>
+<p>With its active ingredients, its benefits on the skin include:</p>
+<ul>
+<li>Mineralizing</li>
+<li>Regenerating</li>
+<li>Exfoliating</li>
+<li>Revitalizing</li>
+<li>Toning</li>
+<li>Stimulating</li>
+</ul>
+<p>500ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8537651205</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.95</s:price>
+      <s:sku>PHYTO5-00008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8537627333</id>
+    <published>2017-07-17T13:08:57-07:00</published>
+    <updated>2017-07-17T13:08:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto5-selextreme-terre"/>
+    <title>Phyto5 -  Selextreme Terre</title>
+    <s:type>Sea Salts</s:type>
+    <s:vendor>PHYTO 5</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Sal_earth.JPG?v=1521758150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PHYTO 5<br>
+        <strong>Type: </strong>Sea Salts<br>
+        <strong>Price: </strong>
+            52.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With micronized salt crystals. Selextreme is a natural exfoliant for the face and body. Use in the shower or sprinkled in a bath. Enjoy its regenerating effect on your skin and spirit.</p>
+<p>Extracted from the pure depth of the mountains, the salt from the Earth Selextreme restores balance for the Earth-Type skins while boosting creativity.</p>
+<p>With its active ingredients, its benefits on the skin include:</p>
+<ul>
+<li>Mineralizing</li>
+<li>Regenerating</li>
+<li>Exfoliating</li>
+<li>Venous support</li>
+<li>Strengthening</li>
+<li>Toning</li>
+<li>Purifying</li>
+</ul>
+<p>500ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8537627333</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.95</s:price>
+      <s:sku>PHYTO5-00009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/8537601157</id>
+    <published>2017-07-17T12:53:19-07:00</published>
+    <updated>2017-07-17T12:53:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto5-selextreme-fire"/>
+    <title>Phyto5 - Selextreme Fire</title>
+    <s:type>Sea Salts</s:type>
+    <s:vendor>PHYTO 5</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/sal_fire.JPG?v=1521758274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PHYTO 5<br>
+        <strong>Type: </strong>Sea Salts<br>
+        <strong>Price: </strong>
+            52.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Selextreme is a natural exfoliant for the face and body. Use in the shower or sprinkled in a bath. Enjoy its regenerating effect on your skin and spirit.</p>
+<p>Extracted from the pure depth of the mountains, the salt from the Fire Selextreme restores balance for the Fire-Type skins while boosting a feeling of joy.</p>
+<p>With its active ingredients, its benefits on the skin include:</p>
+<ul>
+<li>Mineralizing</li>
+<li>Regenerating</li>
+<li>Exfoliating</li>
+<li>Revitalizing</li>
+<li>Calming</li>
+</ul>
+<p>500ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/8537601157</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.95</s:price>
+      <s:sku>PHYTO5-00010</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2476158853</id>
+    <published>2015-10-16T11:34:00-07:00</published>
+    <updated>2015-10-16T11:34:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto-5-ageless-la-cure-cream-serum-kit"/>
+    <title>PHYTO 5 - Ageless La Cure - Cream &amp; Serum Kit</title>
+    <s:type>Mature Skin</s:type>
+    <s:vendor>PHYTO 5</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/phyto-5-ageless-cream-serum-kit-3.jpg?v=1521758032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PHYTO 5<br>
+        <strong>Type: </strong>Mature Skin<br>
+        <strong>Price: </strong>
+            133.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe src="https://www.youtube.com/embed/xSk9wQHhTIk" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></p>
+<p>Nestled between the base of the Green Mountain and the Arabian Sea lies an ancient trade route. The roads have faded with the spice trade, but the scents of frankincense and myrrh still float on the warm sea breezes. The 5 Secrets Serum, an integral part of the innovative Ageless Kit, is rich in anti-aging active molecules and powered by the Commiphora Mukul, an ancient family member of the myrrh tree. A rejuvenating, non-invasive, natural remedy from Ayurveda, the resin mineralizes the skin and diminish wrinkles from the inside out. Once a gift for kings and queens, the myrrh based extract increases the synthesis of lipids, toning and lifting the skin from within. Naturally rich in manganese, the resin also mineralizes and protects the skin long after use. To complement Commiphora Mukul extract, The 5 Secrets Serum contains Apricot Kernel oil, rich in healthy omega 6 &amp; 9 fatty acids as well vitamins A &amp; E. The oil naturally softens and hydrates the skin, and is particularly effective for dry or sensitive skin. Witch Hazel Flower Water provides soothing, anti-inflammatory, and disinfectant properties. Rose essential oil heals and purifies, soothing irritation, and redness, another great benefit for dry or sensitive skin.</p>
+<p>The 5 Secrets Cream perfectly complements the Serum in our Ageless Kit. The cream is powered by active ingredients Aquaxyl and Easyliance, nestled among a purposeful blend of organic Cupuaçu butter, oils, vitamins, and minerals. Aquaxyl is a hydrating complex of natural extracts that has proven to be incredibly potent and effective in hydrating and restructuring cells. Easyliance, an optimized blend of synergistic ingredients, is designed specifically to tighten the skin and decrease fine lines. This cream, used alongside 5 Secrets Serum, visibly tones and lifts the skin. The 5 Secrets Cream is balanced by sustainably sourced Cupuaçu and Shea butters, designed to soften skin, moisturize, and provide a boost of omega 6 &amp; 9, vitamin C, calcium, magnesium, and iron. Squalane from olive regenerates and protects the skin. Witch Hazel and Vitamin E provide a boost of antioxidants and anti-inflammatory properties. The combination will leave your skin healthy, vibrant and revitalized.</p>
+<p>This thoughtful duo of serum &amp; Cream, minerals &amp; antioxidants, ancient &amp; high-tech, targets all 5 core aspects of aging. Also known as the 5 Secrets of Youth. We’ve thought of everything, and in just 3 weeks your skin will be toned, vibrant, and restructured. And it will leave you looking and feeling more youthful and beautiful.</p>
+<ul><lia restorative="" facial="" serum="" and="" cream="" combination="" that="" mineralizes="" the="" skin="" diminishes="" wrinkles="" from="" inside="" out="" in="" just="" weeks="" ageless="" kit="" will="" hydrate="" mineralize="" provide="" antioxidants="" tone="" lift="" li="">
+<li>Powered by Commiphora Mukul extract, a non-invasive and natural anti-aging compound that increases the synthesis of lipids, mineralizing the skin and filling wrinkles from the inside out</li>
+<li>
+<strong>To use:</strong> After cleansing and toning, apply a small amount of 5 Secrets Serum once per day, preferably in the evening. Gently massage into the skin. For best results, apply 5 Secrets Cream after 5 Secrets Serum. Use the Cream twice daily in the morning and evening after cleansing and toning. Apply a small amount on the face and neck, gently massage until a thin white mask is absorbed, leaving skin hydrated, tightened, and silky smooth.</li>
+<li>Developed, manufactured, and packaged in Fleurier, Switzerland and certified organic by Ecocert® and Cosmebio®.</li>
+<li>Contains a minimum of 95% plant-based ingredients. Free of all GMO, parabens, sulfates, phenoxyethanol, nanoparticles, silicon, PEG, synthetic perfumes and dyes, or animal-derived ingredients. Never tested on animals.</li>
+</lia></ul>
+<p><strong>MSRP:</strong> $266.95</p>
+<ul><lia restorative="" facial="" serum="" and="" cream="" combination="" that="" mineralizes="" the="" skin="" diminishes="" wrinkles="" from="" inside="" out="" in="" just="" weeks="" ageless="" kit="" will="" hydrate="" mineralize="" provide="" antioxidants="" tone="" lift="" li=""></lia></ul>
+<p><strong>Unique balance:</strong> Ancient spice trade + Swiss science</p>
+<p><strong>Active ingredients:</strong> Commiphora Mukul extract + Rose from Damas water flower and essential oil + Amazonian Cupuacu butter</p>
+<p><em>Serum Ingredients:</em> <em>Rosa damascena (rose flower water), Hamamelis virginiana (witch hazel flower water), glycerin (vegetal), Acacia senegal gum, tara gum (Caesalpinia spinosa gum), apricot lernel oil, polyglyceryl-6 esters, caprylic/capric triglyceride, sodium benzoate, benzyl alcohol, sorbitol, sucrose dilaurate, sucrose laurate, sucrose trilaurate, parfum (natural origin fragrance), potassium sorbate, dehydroacetic acid, manganese PCA, geraniol, limonene, commiphora mukul resin extract, sodium hydroxide, citronellol, linalool, eugenol, farnesol.</em></p>
+<p><em>Cream Ingredients: Aqua (water), Hamamelis virginiana (witch hazel flower water), glycerin (vegetal), octyldodecanol, glyceryl stearate, cetearyl alcohol, Theobroma grandiflorum (Cupuacu seed butter), squalane (vegetal), candelilla/jojoba/rice bran polyglyceryl-3 esters, butyrospermum parkii butter (shea butter), Acacia senegal gum extract, hydrolyzed rhizobian gum, microcrystalline cellulose and cellulose gum, xylitylglucoside, anhydroxylitol, benzyl alcohol, sodium stearoyl lactylate, tocopherol (vitamin E), xylitol, parfum (natural origin fragrance), potassium sorbate, sodium benzoate, dehydroacetic acid, geraniol, limonene, sodium hydroxide, citronellol, linalool, eugenol, farnesol</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Anti-Aging</s:tag>
+    <s:tag>moisturizer</s:tag>
+    <s:tag>serum</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2476158853</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">133.95</s:price>
+      <s:sku>PHYTO5-00011</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2475957765</id>
+    <published>2015-10-16T10:56:00-07:00</published>
+    <updated>2015-10-16T10:56:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto-5-phytliss-hair-conditioner"/>
+    <title>PHYTO 5 - Phytliss Hair Conditioner</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>PHYTO 5</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PHYTO 5<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            27.75 - 57.95
+            <a href="https://www.breizh.ca/products/phyto-5-phytliss-hair-conditioner">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A protective balm that coats hair without weighing it down, thanks to pure organic jojoba oil.  It eliminates electricity and makes hair soft and silky.  Its essential oils algae and plant extracts revitalize, hydrate and strengthen hair.</p>
+<p>Key Ingredients: Organic Jojoba Oil, Clove, Lemon, Lavender Essential Oils, Vitamin B2.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2475957765</id>
+      <title>Prof.-1000ml</title>
+      <s:price currency="CAD">57.95</s:price>
+      <s:sku>PHYTO5-00012</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2475957765</id>
+      <title>Prof.-500ml</title>
+      <s:price currency="CAD">45.95</s:price>
+      <s:sku>PHYTO5-00013</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2475957765</id>
+      <title>Retail-200ml</title>
+      <s:price currency="CAD">27.75</s:price>
+      <s:sku>PHYTO5-00014</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2475895941</id>
+    <published>2015-10-16T10:47:00-07:00</published>
+    <updated>2015-10-16T10:47:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto-5-horsetail-buckwheat-gel-water-shampoo-volumizing"/>
+    <title>PHYTO5 - Volumizing Water Shampoo Horsetail-Buckwheat Gel</title>
+    <s:type>Mature Skin</s:type>
+    <s:vendor>PHYTO 5</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/ColorWaterLogoPhyto5TM-4_dc687887-4b66-48fb-acd8-6db9b0d2c792.jpg?v=1521758286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PHYTO 5<br>
+        <strong>Type: </strong>Mature Skin<br>
+        <strong>Price: </strong>
+            24.95 - 50.95
+            <a href="https://www.breizh.ca/products/phyto-5-horsetail-buckwheat-gel-water-shampoo-volumizing">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/xSk9wQHhTIk" frameborder="0" allowfullscreen=""></iframe></p>
+<p>A treatment shampoo for dehydrated scalp and limp hair.  It promotes hydration and tones the scalp.  It is recommended for hair in "graying" stage.</p>
+<p>Key Ingredients: Horsetail Extract, Buckwheat Extract, Eucalyptus, Juniper Essential Oils, Cider Vinegar.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2475895941</id>
+      <title>Prof-1000ml</title>
+      <s:price currency="CAD">50.95</s:price>
+      <s:sku>PHYTO5-00015</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2475895941</id>
+      <title>Prof-500ml</title>
+      <s:price currency="CAD">43.95</s:price>
+      <s:sku>PHYTO5-00016</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2475895941</id>
+      <title>Retail-200ml</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>PHYTO5-00017</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2475870021</id>
+    <published>2015-10-16T10:41:00-07:00</published>
+    <updated>2015-10-16T10:41:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto-5-metal-shampoo-with-sweet-almond-oil-dry-hair"/>
+    <title>PHYTO5 - Metal Shampoo with Sweet Almond Oil (Dry Hair)</title>
+    <s:type>Dry Skin</s:type>
+    <s:vendor>PHYTO 5</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/ColorMetalLogoPhyto5TM-1.jpg?v=1521758248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PHYTO 5<br>
+        <strong>Type: </strong>Dry Skin<br>
+        <strong>Price: </strong>
+            24.95 - 50.95
+            <a href="https://www.breizh.ca/products/phyto-5-metal-shampoo-with-sweet-almond-oil-dry-hair">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/xSk9wQHhTIk" frameborder="0" allowfullscreen=""></iframe></p>
+<p>A revitalizing shampoo for dry, itchy scalp, demineralized or brittle hair.  It nourishes, softens and deeply hydrates hair and scalp.</p>
+<p>Key Ingredients: Organic Sweet Almond Oil, Vitamin C &amp; E, Lavender, Ylang-Ylang Essential Oils.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2475870021</id>
+      <title>Prof-1000ml</title>
+      <s:price currency="CAD">50.95</s:price>
+      <s:sku>PHYTO5-00018</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2475870021</id>
+      <title>Prof-500ml</title>
+      <s:price currency="CAD">43.95</s:price>
+      <s:sku>PHYTO5-00019</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2475870021</id>
+      <title>Retail-200ml</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>PHYTO5-00020</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2475832645</id>
+    <published>2015-10-16T10:36:00-07:00</published>
+    <updated>2015-10-16T10:36:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto-5-citrus-cypress-earth-shampoo-dandruff"/>
+    <title>PHYTO 5 - Citrus-Cypress Earth Shampoo (Dandruff)</title>
+    <s:type>Problemed Skin</s:type>
+    <s:vendor>PHYTO 5</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/ColorEarthLogoPhyto5TM-3_8b3c99f5-855c-410a-9f6e-95b46b84c498.jpg?v=1521758074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PHYTO 5<br>
+        <strong>Type: </strong>Problemed Skin<br>
+        <strong>Price: </strong>
+            24.95 - 50.95
+            <a href="https://www.breizh.ca/products/phyto-5-citrus-cypress-earth-shampoo-dandruff">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/xSk9wQHhTIk" frameborder="0" allowfullscreen=""></iframe></p>
+<p>A treatment Shampoo for unhealthy scalp (with toxicity and lack of vitality).  It detoxifies the scalp and promotes soft, supple hair.</p>
+<p>Key Ingredients: Lemon, Cypress, Eucalyptus Essential Oils, Vitamin A, C &amp; E.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2475832645</id>
+      <title>Prof-1000ml</title>
+      <s:price currency="CAD">50.95</s:price>
+      <s:sku>PHYTO5-00021</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2475832645</id>
+      <title>Prof-500ml</title>
+      <s:price currency="CAD">43.95</s:price>
+      <s:sku>PHYTO5-00022</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2475832645</id>
+      <title>Retail-200ml</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>PHYTO5-00023</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2475805765</id>
+    <published>2015-10-16T10:27:00-07:00</published>
+    <updated>2015-10-16T10:27:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto-5-hiarlixir-fire-shanmpoo-w-cider-vinegar"/>
+    <title>PHYTO5 -  Irritated Scalp Fire Shampoo w/Cider Vinegar Hiarlixir</title>
+    <s:type>Sensitive Skin</s:type>
+    <s:vendor>PHYTO 5</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/ColorFireLogoPhyto5TM-2_cd745f0f-05f9-473a-a8e0-9ce86a350228.jpg?v=1521758143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PHYTO 5<br>
+        <strong>Type: </strong>Sensitive Skin<br>
+        <strong>Price: </strong>
+            24.95 - 50.95
+            <a href="https://www.breizh.ca/products/phyto-5-hiarlixir-fire-shanmpoo-w-cider-vinegar">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/xSk9wQHhTIk" frameborder="0" allowfullscreen=""></iframe></p>
+<p>A treatment shampoo for irritated and sensitive scalp or damaged hair from colouring or perms.  It soothes irritated scalp, promotes volume and brightness.</p>
+<p>Key Ingredients: Apple Cider Vinegar, Algae, Con Seed oil, Rosemary Extract, Lavender, Ylang-Ylang, Cypress, Pine Essential Oils.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2475805765</id>
+      <title>Prof.-1000ml</title>
+      <s:price currency="CAD">50.95</s:price>
+      <s:sku>PHYTO5-00024</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2475805765</id>
+      <title>Prof.-500ml</title>
+      <s:price currency="CAD">43.95</s:price>
+      <s:sku>PHYTO5-00025</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2475805765</id>
+      <title>Retail-200ml</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>PHYTO5-00026</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2467314885</id>
+    <published>2015-10-15T16:51:00-07:00</published>
+    <updated>2015-10-15T16:51:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto-5-algae-wood-shampoo"/>
+    <title>PHYTO 5 - Algae Wood Shampoo for Oily Scalps</title>
+    <s:type>Oily Skin</s:type>
+    <s:vendor>PHYTO 5</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/ColorWoodLogoPhyto5TM-5.jpg?v=1521758041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PHYTO 5<br>
+        <strong>Type: </strong>Oily Skin<br>
+        <strong>Price: </strong>
+            24.95 - 50.65
+            <a href="https://www.breizh.ca/products/phyto-5-algae-wood-shampoo">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/xSk9wQHhTIk" frameborder="0" allowfullscreen=""></iframe></p>
+<p>A treatment shampoo for oily scalp and oily hair.  With a high amount of mineralizing and hydrating algae, it has toning and astringent properties to revitalize scalp and hair.</p>
+<p>Key Ingredients: Algae, Rosemary, Cypress, Lemon Essential Oils.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2467314885</id>
+      <title>Prof-1000ml</title>
+      <s:price currency="CAD">50.65</s:price>
+      <s:sku>PHYTO5-00027</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2467314885</id>
+      <title>Prof-500ml</title>
+      <s:price currency="CAD">43.95</s:price>
+      <s:sku>PHYTO5-00028</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2467314885</id>
+      <title>Retail-200ml</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>PHYTO5-00029</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2467161285</id>
+    <published>2015-10-15T16:38:00-07:00</published>
+    <updated>2015-10-15T16:38:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto-5-oligo-5-face-hair-body"/>
+    <title>PHYTO 5 -  Oligo 5 (Face-Hair-Body) Mineralizing Spray</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>PHYTO 5</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/phyto-5-oligo-5-face-hair-body-spray.jpg?v=1521757969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PHYTO 5<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            37.95 - 81.95
+            <a href="https://www.breizh.ca/products/phyto-5-oligo-5-face-hair-body">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe src="https://www.youtube.com/embed/xSk9wQHhTIk" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></p>
+<p>Oligo 5 contains trace-minerals to restore essential mineral content to the skin.  It increases hydration and skin metabolism, for a clear, healthy looking appearance.  Recommended after invasive treatments and "over-processed" skin, or for scalp treatments.</p>
+<p>MSRP: $72.95</p>
+<p>Key Ingredients" Algae, Manganese, Cobalt, Copper, Zinc, Magnesium.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2467161285</id>
+      <title>Prof-200ml</title>
+      <s:price currency="CAD">81.95</s:price>
+      <s:sku>PHYTO5-00030</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2467161285</id>
+      <title>Retail-50ml</title>
+      <s:price currency="CAD">37.95</s:price>
+      <s:sku>PHYTO5-00031</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2466969029</id>
+    <published>2015-10-15T16:19:00-07:00</published>
+    <updated>2015-10-15T16:19:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/phyto-5-vegetal-oil-emulsion"/>
+    <title>PHYTO 5 - Vegetal Oil Emulsion</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>PHYTO 5</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PHYTO 5<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            40.95 - 96.95
+            <a href="https://www.breizh.ca/products/phyto-5-vegetal-oil-emulsion">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A delicate, natural base and neutral moisturizer.  Professionals can personalize the application by adding a selected Esserine.</p>
+<p>Key Ingredients: Wheat Germ Oil, Jojoba Oil, Corn Seed Oil, Lemon, lavender, Cypress, Marjoram, Thyme, Ylang-Ylang Essential Oils.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2466969029</id>
+      <title>Prof-1000ml</title>
+      <s:price currency="CAD">96.95</s:price>
+      <s:sku>PHYTO5-00032</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2466969029</id>
+      <title>Prof-500ml</title>
+      <s:price currency="CAD">60.95</s:price>
+      <s:sku>PHYTO5-00033</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2466969029</id>
+      <title>Retail-200ml</title>
+      <s:price currency="CAD">40.95</s:price>
+      <s:sku>PHYTO5-00034</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1067 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.breizh.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.breizh.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.breizh.ca/collections/spa-and-beauty-supplies.atom"/>
+  <title>Breizh Esthetics &amp; Salon Supply Co.</title>
+  <updated>2018-12-06T15:45:31-08:00</updated>
+  <author>
+    <name>Breizh Esthetics &amp; Salon Supply Co.</name>
+  </author>
+  <entry>
+    <id>https://www.breizh.ca/products/1924556357720</id>
+    <published>2018-12-06T15:45:31-08:00</published>
+    <updated>2018-12-06T15:45:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/spa-supplies-unscented-massage-oil-4l"/>
+    <title>Spa Supplies - Unscented Massage Oil 4L</title>
+    <s:type></s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Unscented mineral Massage Oil in 4L  bottle. For use in all body massage.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/1924556357720</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.95</s:price>
+      <s:sku>BREIZHES-00072</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/1568536428632</id>
+    <published>2018-11-20T17:05:00-08:00</published>
+    <updated>2018-11-20T17:05:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/spa-supplies-cotton-pads-x100"/>
+    <title>Spa Supplies - Cotton Pads x100</title>
+    <s:type></s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">100 soft, white cotton pads for use during esthetics or medical treatment.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/1568536428632</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku>BREIZHES-00069</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/758406283352</id>
+    <published>2018-05-15T12:56:39-07:00</published>
+    <updated>2018-05-15T12:56:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/beauty-supplies-6-pack-of-facial-sponges"/>
+    <title>Beauty Supplies - 6 Pack of Facial Sponges</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>Breizh Esthetic &amp; Salon Services</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetic &amp; Salon Services<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soft disposable facial sponges. 6 pairs = 12 sponges.</p>
+<p>Great for use in facial procedure!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/758406283352</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>BREIZHES-00077</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/566680256553</id>
+    <published>2018-03-29T14:20:05-07:00</published>
+    <updated>2018-03-29T14:20:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/supplies-dannyco-birchwood-sticks-x-144"/>
+    <title>Supplies - Dannyco Birchwood Sticks x 144</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>Dannyco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dannyco<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Birchwood sticks for esthetics procedures.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/566680256553</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>DANNYCO-00034</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/566666723369</id>
+    <published>2018-03-29T14:15:22-07:00</published>
+    <updated>2018-03-29T14:15:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/supplies-self-sealing-auto-clave-pouches-x100"/>
+    <title>Supplies - Self-Sealing Auto-Clave Pouches x100</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Self-sealing auto-clave pouches for use inside of autoclaves. Not suitable for Prestige 2100 models.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/566666723369</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku>BREIZHES-00074</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/468282802217</id>
+    <published>2018-02-05T11:01:42-08:00</published>
+    <updated>2018-02-05T11:01:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/spa-supplies-alcohol-prep-pads-0-13"/>
+    <title>Spa Supplies - Alcohol Prep Pads 0.13% x200</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>Breizh Esthetic &amp; Salon Services</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/cottonpads_01.jpg?v=1521759194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetic &amp; Salon Services<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sanitize your clients skin before depilation with these sanitary wipes.</p>
+<p>*Product may not be exactly as pictured.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/468282802217</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>BREIZHES-00116</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2464548485</id>
+    <published>2015-10-15T13:16:00-07:00</published>
+    <updated>2015-10-15T13:16:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/supplies-cirepil-smooth-non-woven-strips"/>
+    <title>Supplies - Cirepil Smooth Non-Woven Strips</title>
+    <s:type>Waxing</s:type>
+    <s:vendor>Cirepil by Perron Rigot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/zfIG-94w.jpeg?v=1530657282"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cirepil by Perron Rigot<br>
+        <strong>Type: </strong>Waxing<br>
+        <strong>Price: </strong>
+            15.95 - 23.95
+            <a href="https://www.breizh.ca/products/supplies-cirepil-smooth-non-woven-strips">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/RtS_erNbYpw" frameborder="0" allowfullscreen=""></iframe>Tearing off the wax, you grab another piece of strip, skip the scissors, and apply the new strip. These smooth texture strips, pre-cut to fit most situations (can, of course, be cut to fit individual needs) are made of a natural and synthetic fiber. 250 9" strips per pack.</p>
+<p>Essential wax products available only at Breizh Esthetics &amp; Salon Supply Co. in Vancouver, BC.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>waxing</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2464548485</id>
+      <title>125</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku>CIREPILB-00001</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2464548485</id>
+      <title>250</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>CIREPILB-00002</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2464474821</id>
+    <published>2015-10-15T13:05:00-07:00</published>
+    <updated>2015-10-15T13:05:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/supplies-cirepil-protective-wax-heater-collars"/>
+    <title>Supplies - Cirepil Protective Wax Heater Collars</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>Cirepil by Perron Rigot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/cirepil-drip-collars.png?v=1521759421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cirepil by Perron Rigot<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            25.90 - 50.00
+            <a href="https://www.breizh.ca/products/supplies-cirepil-protective-wax-heater-collars">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/RtS_erNbYpw" frameborder="0" allowfullscreen=""></iframe></p>
+<p>After a long day of waxing, you remove the protective collar, now covered in wax, saving you the time of cleaning your heater and keeping you looking professional. Minimize the risk of wax falling in the wax chamber (fire hazard). </p>
+<p>Available in packs of 25.</p>
+<p>Essential wax products available only at Breizh Esthetics &amp; Salon Supply Co. in Vancouver, BC.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>waxing</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2464474821</id>
+      <title>50 pack</title>
+      <s:price currency="CAD">25.90</s:price>
+      <s:sku>CIREPILB-00004</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2464474821</id>
+      <title>100 pack</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>CIREPILB-00005</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2458716677</id>
+    <published>2015-10-14T23:06:00-07:00</published>
+    <updated>2015-10-14T23:06:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/supplies-empty-plastic-bottles-all-sizes-styles"/>
+    <title>Supplies - Empty Plastic Bottles - All Sizes &amp; Styles</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>Breizh Esthetic &amp; Salon Services</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetic &amp; Salon Services<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            0.95 - 3.95
+            <a href="https://www.breizh.ca/products/supplies-empty-plastic-bottles-all-sizes-styles">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Various empty bottles for usage in your business. Available sizes range from 2oz-16oz. All products are clear in color with white caps. Different styles available.</p>
+<p><span>Essential spa supplies from Breizh Esthetics and Salon Supply Co.in Vancouver, BC!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2458716677</id>
+      <title>2oz-Flip Top</title>
+      <s:price currency="CAD">0.95</s:price>
+      <s:sku>BREIZHES-00012</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2458716677</id>
+      <title>4oz-Cap</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>BREIZHES-00013</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2458716677</id>
+      <title>8oz-Cap</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>BREIZHES-00014</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2458716677</id>
+      <title>16oz-Cap</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku>BREIZHES-00015</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2458716677</id>
+      <title>4oz-Pump</title>
+      <s:price currency="CAD">2.25</s:price>
+      <s:sku>BREIZHES-00016</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2458716677</id>
+      <title>8oz-Pump</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>BREIZHES-00017</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2458716677</id>
+      <title>16oz-Pump</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku>BREIZHES-00018</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2458716677</id>
+      <title>2oz-Spray</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku>BREIZHES-00019</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2458716677</id>
+      <title>4oz-Spray</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku>BREIZHES-00020</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2458539141</id>
+    <published>2015-10-14T22:47:00-07:00</published>
+    <updated>2015-10-14T22:47:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/supplies-powder-free-nitrile-gloves-all-sizes"/>
+    <title>Supplies - Powder Free Nitrile Gloves - All Sizes</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>Breizh Esthetic &amp; Salon Services</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Disposable-Gloves-Powder-Free-Nitrile-Aurelia.jpg?v=1521759468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetic &amp; Salon Services<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            12.95 - 29.95
+            <a href="https://www.breizh.ca/products/supplies-powder-free-nitrile-gloves-all-sizes">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Powder free disposable nitrile gloves provide sanitary protection during spa, esthetic, beauty and medical treatment. Resistant to tearing due to patented design. Available in Extra Small, Small, Medium, Large and Extra Large. 100 gloves per box.</p>
+<p><span>Essential spa supplies from Breizh Esthetics and Salon Supply Co.in Vancouver, BC!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2458539141</id>
+      <title>Extra Small</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku>BREIZHES-00023</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2458539141</id>
+      <title>Small</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku>BREIZHES-00024</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2458539141</id>
+      <title>Medium</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku>BREIZHES-00025</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2458539141</id>
+      <title>Large</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku>BREIZHES-00026</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2458539141</id>
+      <title>Extra Large</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku>BREIZHES-00027</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2458524677</id>
+    <published>2015-10-14T22:42:00-07:00</published>
+    <updated>2015-10-14T22:42:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/supplies-powder-free-latex-gloves-all-sizes"/>
+    <title>Supplies - Powder Free Latex Gloves - All Sizes</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>Breizh Esthetic &amp; Salon Services</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Aurelia-Distinct-Gloves-Powder-Free-Latex.jpg?v=1521759468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetic &amp; Salon Services<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            13.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Disposable gloves that don't tear due to powerful honeycomb design. Designed for spa, esthetics, beauty and medical treatments. Available in Extra Small, Small, and Medium. 100 gloves per box.</p>
+<p><span>Essential spa supplies from Breizh Esthetics and Salon Supply Co.in Vancouver, BC!</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2458524677</id>
+      <title>Extra Small</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku>BREIZHES-00028</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2458524677</id>
+      <title>Small</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku>BREIZHES-00029</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2458524677</id>
+      <title>Medium</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku>BREIZHES-00030</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2458501253</id>
+    <published>2015-10-14T22:34:00-07:00</published>
+    <updated>2015-10-14T22:34:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/supplies-latex-gloves-all-sizes"/>
+    <title>Supplies - Latex Gloves - All Sizes</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>Breizh Esthetic &amp; Salon Services</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/disposable-gloves-latex-powdered.jpg?v=1521759460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetic &amp; Salon Services<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Latex gloves for esthetics, beauty and medical treatments. Available in Extra Small, Small, Medium and Large. 50 pairs per box.<br><br><span>Essential spa supplies from Breizh Esthetics and Salon Supply Co.in Vancouver, BC!</span></p>
+<p>*Actual product may vary from image.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2458501253</id>
+      <title>Extra Small</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>BREIZHES-00031</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2458501253</id>
+      <title>Small</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>BREIZHES-00032</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2458501253</id>
+      <title>Medium</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>BREIZHES-00033</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2458501253</id>
+      <title>Large</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>BREIZHES-00034</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2458454597</id>
+    <published>2015-10-14T22:28:00-07:00</published>
+    <updated>2015-10-14T22:28:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/supplies-vinyl-gloves-all-sizes"/>
+    <title>Supplies - Vinyl Gloves - All Sizes</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>Breizh Esthetic &amp; Salon Services</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Disposable-vinyl-gloves.jpg?v=1521759480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetic &amp; Salon Services<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vinyl gloves for sanitary esthetic, salon or medical treatments. Available in Small, Medium, Large. 50 pairs per box. </p>
+<p>Save 5% when you buy 5 boxes or more!</p>
+<p>Essential spa supplies from Breizh Esthetics and Salon Supply Co.in Vancouver, BC!</p>
+<p>*Actual product may vary from image.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2458454597</id>
+      <title>Small</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>BREIZHES-00035</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2458454597</id>
+      <title>Medium</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>BREIZHES-00036</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2458454597</id>
+      <title>Large</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>BREIZHES-00037</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2456559941</id>
+    <published>2015-10-14T17:36:00-07:00</published>
+    <updated>2015-10-14T17:36:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/supplies-gauze-non-woven-200-packs"/>
+    <title>Supplies - Gauze  (Non-Woven) 200 packs - 2x2 &amp; 4x4</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>Dannyco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Gauze-Pad.jpg?v=1521759450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dannyco<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            6.95 - 12.95
+            <a href="https://www.breizh.ca/products/supplies-gauze-non-woven-200-packs">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>200 packs of non woven gauze strips available in 2x2 or 4x4 format.</p>
+<p>Essential spa supplies from Breizh Esthetics &amp; Salon Supply in Vancouver, BC.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2456559941</id>
+      <title>2x2 Gauze</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>BREIZHES-00083</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2456559941</id>
+      <title>4x4 Gauze</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku>BREIZHES-00084</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2456099589</id>
+    <published>2015-10-14T16:40:00-07:00</published>
+    <updated>2015-10-14T16:40:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/supplies-disposable-face-masks"/>
+    <title>Supplies - Disposable Face Masks</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>Breizh Esthetic &amp; Salon Services</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/disposable-face-masks-dannyco.jpg?v=1521759432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetic &amp; Salon Services<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            19.95 - 39.95
+            <a href="https://www.breizh.ca/products/supplies-disposable-face-masks">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ear-loop disposable face mask for esthetic and nail services. Multi-color available in packs of 50, solid green sold in packs of 100.<br><br></p>
+<p><span>Essential spa supplies sold at Breizh Esthetics &amp; Salon Supply Co. in Vancouver, BC.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2456099589</id>
+      <title>White-50pc</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>BREIZHES-00038</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2456099589</id>
+      <title>Green-100pc</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>BREIZHES-00039</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2455722117</id>
+    <published>2015-10-14T16:32:00-07:00</published>
+    <updated>2015-10-14T16:32:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/supplies-disposable-hair-covers-hair-nets"/>
+    <title>Supplies - Disposable Hair Covers/Hair Nets</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>Breizh Esthetic &amp; Salon Services</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/disposable-hair-covers.jpg?v=1521759438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetic &amp; Salon Services<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Disposable hair covers sold in packs of 100.</p>
+<p>Essential spa supplies sold at Breizh Esthetic &amp; Salon Supply Co. in Vancouver, BC.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2455722117</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>BREIZHES-00040</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2455634565</id>
+    <published>2015-10-14T16:05:00-07:00</published>
+    <updated>2015-10-14T16:05:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/supplies-disposable-shower-caps"/>
+    <title>Supplies - Disposable Shower Caps</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>Breizh Esthetic &amp; Salon Services</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Disposable-Shower-Cap.jpg?v=1521759450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetic &amp; Salon Services<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Disposable shower cap. Available in packs of 25.</p>
+<p>Essential spa supplies from Breizh in Vancouver, BC.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2455634565</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>BREIZHES-00041</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2454903813</id>
+    <published>2015-10-14T15:33:00-07:00</published>
+    <updated>2015-10-14T15:33:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/supplies-disposable-lancets"/>
+    <title>Supplies - Disposable Lancets x 200</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>Breizh Esthetic &amp; Salon Services</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Disposable-Lancets-100.jpg?v=1521759439"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetic &amp; Salon Services<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>200 pack of lancets for esthetic and medical treatments.</p>
+<p> </p>
+<p>Essential spa supplies from Breizh in Vancouver, BC.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2454903813</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku>BREIZHES-00042</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2454562181</id>
+    <published>2015-10-14T15:08:00-07:00</published>
+    <updated>2015-10-14T15:08:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/supplies-thermal-aluminium-blanket"/>
+    <title>Supplies - Thermal Aluminium Blanket - 3 pack</title>
+    <s:type></s:type>
+    <s:vendor>Breizh Esthetic &amp; Salon Services</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Thermal-Aluminum-Blanket-3pack.jpg?v=1521759476"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetic &amp; Salon Services<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Thermal Aluminium blanket used for body wrap services. </p>
+<p> </p>
+<p>Essential spa supplies available at Breizh in Vancouver, BC.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2454562181</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>BREIZHES-00043</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2454500549</id>
+    <published>2015-10-14T14:55:00-07:00</published>
+    <updated>2015-10-14T14:55:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/supplies-plastic-body-wrap"/>
+    <title>Supplies - Plastic Body Wrap</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>Breizh Esthetic &amp; Salon Services</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/plastic-body-wrap-roll.jpg?v=1521759461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetic &amp; Salon Services<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            23.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Plastic body wrap for body wrap services. Essential spa supplies for your beauty or esthetics business. Based in Vancouver, BC.</p>
+<p>Volume discount for purchases of 10 or more rolls. Save 10%!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2454500549</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>BREIZHES-00044</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2454368453</id>
+    <published>2015-10-14T13:47:00-07:00</published>
+    <updated>2015-10-14T13:47:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/supplies-disposable-boxers"/>
+    <title>Supplies - Disposable Boxers</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>Breizh Esthetic &amp; Salon Services</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Disposable-Underwear.jpg?v=1521759426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetic &amp; Salon Services<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            22.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Disposable Men's boxers for spa treatments. Essential spa supplies for your business. Sold in packs of 24. Volume discount for purchases of 5 or more!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disposable</s:tag>
+    <s:tag>Supplies</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2454368453</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.95</s:price>
+      <s:sku>BREIZHES-00045</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2453610117</id>
+    <published>2015-10-14T13:17:00-07:00</published>
+    <updated>2015-10-14T13:17:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/disposable-panty-bikinis"/>
+    <title>Supplies - Disposable Panty/Bikinis</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>Breizh Esthetic &amp; Salon Services</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Disposable_Panties_-_Blue_-_White_-_Pink.jpg?v=1521759443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetic &amp; Salon Services<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Disposable panties and bikinis. Essential for every spa, esthetics or waxing/depilatory business.</p>
+<p>White and blue disposable panties available in 10 packs for $7.95 or $6.95 each when you buy 12 or more.</p>
+<p>Pink and Black disposable bikinis are available in 12 packs for $7.95 or $6.95 each when you purchase 12 or more.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2453610117</id>
+      <title>Blue -10 pack</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>BREIZHES-00046</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2453610117</id>
+      <title>White - 10 pack</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>BREIZHES-00047</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2453610117</id>
+      <title>Black - 12 pack</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>BREIZHES-00048</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2453610117</id>
+      <title>Pink - 12 pack</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>BREIZHES-00049</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2453221829</id>
+    <published>2015-10-14T12:50:00-07:00</published>
+    <updated>2015-10-14T12:50:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/waxing-table-exam-paper-rolls"/>
+    <title>Supplies - Table Exam Paper Rolls</title>
+    <s:type>Supplies</s:type>
+    <s:vendor>Breizh Esthetic &amp; Salon Services</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Surgical_drape_sheet_Exam_Couch_paper_Roll.jpg_200x200.jpg?v=1521759476"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetic &amp; Salon Services<br>
+        <strong>Type: </strong>Supplies<br>
+        <strong>Price: </strong>
+            8.95 - 99.95
+            <a href="https://www.breizh.ca/products/waxing-table-exam-paper-rolls">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Paper for examination tables to be used during spa, beauty &amp; medical treatments. Regular 21" white paper . Cases of 12 receive 12% discount.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>massage</s:tag>
+    <s:tag>Waxing</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2453221829</id>
+      <title>21&quot; White Paper</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>BREIZHES-00050</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2453221829</id>
+      <title>21&quot; White Table Paper Case (12 Rolls)</title>
+      <s:price currency="CAD">99.95</s:price>
+      <s:sku>BREIZHES-00051</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

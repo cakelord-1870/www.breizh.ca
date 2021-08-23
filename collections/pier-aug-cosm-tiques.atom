@@ -1,0 +1,1030 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.breizh.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.breizh.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.breizh.ca/collections/pier-aug-cosm-tiques.atom"/>
+  <title>Breizh Esthetics &amp; Salon Supply Co.</title>
+  <updated>2015-10-23T14:02:00-07:00</updated>
+  <author>
+    <name>Breizh Esthetics &amp; Salon Supply Co.</name>
+  </author>
+  <entry>
+    <id>https://www.breizh.ca/products/2553205637</id>
+    <published>2015-10-23T14:02:00-07:00</published>
+    <updated>2015-10-23T14:02:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pier-auge-ekia-lightening-treatment-1"/>
+    <title>Pier Auge - Ekia Skin Lightening Treatment</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Pier Augè</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/pier-auge-lightening-program.png?v=1521758411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pier Augè<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            137.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/muyx0hipWSY" frameborder="0" allowfullscreen=""></iframe></p>
+<p>The Ekià facial treatment controls and erases pigmentation spots in the skin.  It contains one serum of 20ml and one treatment cream of 50ml.</p>
+<p>Key Ingredients:</p>
+<p><strong>Serum</strong> - Grafted Protein, Vitamin C, Bear Berry, Nasturtium Flowers.</p>
+<p><strong>Cream</strong> - Cell Renewal Complex, Bear Berry, Aminopeptide Complex, Beech Buds.</p>
+<p><span>Pier Auge is a brand exclusive to Breizh Esthetics, Beauty &amp; Salon Supply Co. As a leader in anti-aging skin care we are proud to be partnered with such a prestigious brand in our area of specialty.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2553205637</id>
+      <title>Retail-Serum20ml/cream50ml</title>
+      <s:price currency="CAD">137.95</s:price>
+      <s:sku>PIERAUGE-00001</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2529160389</id>
+    <published>2015-10-21T13:09:00-07:00</published>
+    <updated>2015-10-21T13:09:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pier-auge-ekia-lightening-mask"/>
+    <title>Pier Auge - Ekia Skin Lightening Facial Mask</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Pier Augè</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/EkiaLightTreatement.JPG?v=1521758402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pier Augè<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            346.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/muyx0hipWSY" frameborder="0" allowfullscreen=""></iframe></p>
+<p>For all women seeking to prevent and reduce their pigmentation spots.  Actives of this anti-spot program go to slow down the production of Melanin.  The lightening Treatment restores skin radiance and brightness.</p>
+<p><strong>Key Ingredients:</strong> Cell Renewal Complex, Bear Berry, Aminopeptide Complex, Beech Buds, Hyaluronic Acid, Bio-mimetic Moisturizer, Evening Primrose Oil, Vitamin E</p>
+<p> <span>Pier Auge is a brand exclusive to Breizh Esthetics, Beauty &amp; Salon Supply Co. As a leader in anti-aging skin care we are proud to be partnered with such a prestigious brand in our area of specialty.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2529160389</id>
+      <title>Prof.-30gx10+90x10</title>
+      <s:price currency="CAD">346.95</s:price>
+      <s:sku>PIERAUGE-00002</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2528937797</id>
+    <published>2015-10-21T12:47:00-07:00</published>
+    <updated>2015-10-21T12:47:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pier-auge-slimming-body-wrap-mask-with-laminaria-seaweeds"/>
+    <title>Pier Auge - Slimming Body Wrap Mask with Laminaria Seaweeds</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Pier Augè</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/AdobeStock_65445086.jpeg?v=1521758659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pier Augè<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            167.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/muyx0hipWSY" frameborder="0" allowfullscreen=""></iframe></p>
+<p>This mask is applied as part of slimming treatment with essential oils and body wrap in the Silhouette Line.  It creates a synergy between the conditioning  effect of Luminaria, the lipolytic action of Guarana, the draining action of Horsetail, the toning action of Essential Oil of Rosemary, the moisturizing action of   seaweeds and stimulating action of Marine Diatoms.</p>
+<p>Key Ingredients: Luminaria, Guarana Extract, Horsetail Extract, Rosemary Essential Oil, Marine Diatoms  ( Marine Sediments)</p>
+<p><span>Pier Auge is a brand exclusive to Breizh Esthetics, Beauty &amp; Salon Supply Co. As a leader in anti-aging skin care we are proud to be partnered with such a prestigious brand in our area of specialty.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2528937797</id>
+      <title>Prof.-30mlx10packs</title>
+      <s:price currency="CAD">167.95</s:price>
+      <s:sku>PIERAUGE-00003</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2528783045</id>
+    <published>2015-10-21T12:35:00-07:00</published>
+    <updated>2015-10-21T12:35:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pier-auge-oxygenating-mask-with-fluorides-and-flowers"/>
+    <title>1973 Pier Auge - Oxygenating Mask with Fluorides and Flowers</title>
+    <s:type>Mature Skin</s:type>
+    <s:vendor>Pier Augè</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/AdobeStock_114913360_e193754f-e048-4830-a279-069f0801ca0a.jpeg?v=1521758579"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pier Augè<br>
+        <strong>Type: </strong>Mature Skin<br>
+        <strong>Price: </strong>
+            194.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe src="https://www.youtube.com/embed/muyx0hipWSY" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></p>
+<p>The time control Programme: defences against ageing, this mask is applied as part of revitalizing, oxygenating, beauty treatments.  It create a synergy between the oxygenating and stimulating effect of Fluorides Oils, the toning and balancing action of Essential Oil of Damask Rose, the anti-inflammatory action of White Lily.</p>
+<p>Key Ingredients: Fluorides Oils, Essential  Oil of Damask Rose, White Lily, Seaweeds, Marine Diatoms.</p>
+<p><span>Pier Auge is a brand exclusive to Breizh Esthetics, Beauty &amp; Salon Supply Co. As a leader in anti-aging skin care we are proud to be partnered with such a prestigious brand in our area of specialty.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2528783045</id>
+      <title>Prof.  10X</title>
+      <s:price currency="CAD">194.95</s:price>
+      <s:sku>PIERAUGE-00004</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2528666693</id>
+    <published>2015-10-21T12:02:00-07:00</published>
+    <updated>2015-10-21T12:02:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pier-auge-firming-mask-spiruline"/>
+    <title>2003 Pier Auge - Firming Spiruline Facial Mask</title>
+    <s:type>Mature Skin</s:type>
+    <s:vendor>Pier Augè</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/AdobeStock_114913360.jpeg?v=1521758476"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pier Augè<br>
+        <strong>Type: </strong>Mature Skin<br>
+        <strong>Price: </strong>
+            155.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe src="https://www.youtube.com/embed/muyx0hipWSY" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></p>
+<p>Firming and catalyser mask with enzymes for face and neck.  Detoxifying, absorbing, very rich in proteins, trace elements and mineral salts, it completes and reinforces the action of the products used while bringing to the skin all the protective elements to fight against the ageing and the external aggressions.</p>
+<p>Key Ingredients: Marine diatoms, Spiruline, Algae Extract, Menthol Derivative.</p>
+<p><span>Pier Auge is a brand exclusive to Breizh Esthetics, Beauty &amp; Salon Supply Co. As a leader in anti-aging skin care we are proud to be partnered with such a prestigious brand in our area of specialty.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2528666693</id>
+      <title>Prof.  10X</title>
+      <s:price currency="CAD">155.95</s:price>
+      <s:sku>PIERAUGE-00005</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2528377541</id>
+    <published>2015-10-21T11:53:00-07:00</published>
+    <updated>2015-10-21T11:53:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pier-auge-modelling-mask-vitamin-c"/>
+    <title>1933 Pier Auge - Modelling Mask Vitamin C Professional Treatment</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Pier Augè</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/AdobeStock_114913360_78b30c7d-7dce-4ba2-a4a8-6b4c903694ce.jpeg?v=1521758559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pier Augè<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            159.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe src="https://www.youtube.com/embed/muyx0hipWSY" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></p>
+<p>Modelling and catalyser mask with enzymes for face and neck.  Detoxifying, absorbing, thermo-regulatory, it completes and reinforces the action of the products used while bringing to the skin all the protective elements to fight against the ageing and the external aggressions.</p>
+<p>Key Ingredients: Marine diatoms, Vitamin C, Algae Extract.</p>
+<p><span>Pier Auge is a brand exclusive to Breizh Esthetics, Beauty &amp; Salon Supply Co. As a leader in anti-aging skin care we are proud to be partnered with such a prestigious brand in our area of specialty.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2528377541</id>
+      <title>Prof 10X</title>
+      <s:price currency="CAD">159.95</s:price>
+      <s:sku>PIERAUGE-00006</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2528365061</id>
+    <published>2015-10-21T11:48:00-07:00</published>
+    <updated>2015-10-21T11:48:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pier-auge-cotton-modelling-butter"/>
+    <title>1633 Pier Auge - Cotton Modelling Face Butter Massage</title>
+    <s:type>Dry Skin</s:type>
+    <s:vendor>Pier Augè</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/perfect-skin.jpg?v=1521758358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pier Augè<br>
+        <strong>Type: </strong>Dry Skin<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe src="https://www.youtube.com/embed/muyx0hipWSY" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></p>
+<p>This thick cream moisturizer is suitable for all skin types, and is especially recommended for dry skins.  Unctuous, creamy, melting texture, ideal for massage, Delicate fragrance of white flower. Should be used after the Cotton Facial Mask.</p>
+<p>Key Ingredients: Plant butters (Cotton, Sweet Almond, Apricot), Plant Oil of Apricot Kernel, Hazelnut Oil</p>
+<p><span>Pier Auge is a brand exclusive to Breizh Esthetics, Beauty &amp; Salon Supply Co. As a leader in anti-aging skin care we are proud to be partnered with such a prestigious brand in our area of specialty.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2528365061</id>
+      <title>Prof.-225ml</title>
+      <s:price currency="CAD">99.95</s:price>
+      <s:sku>PIERAUGE-00007</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2528314949</id>
+    <published>2015-10-21T11:33:00-07:00</published>
+    <updated>2015-10-21T11:33:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pier-auge-cotton-ultra-gentle-mask"/>
+    <title>2143 Pier Auge - Ultra-Gentle Cotton Facial Mask</title>
+    <s:type>Dry Skin</s:type>
+    <s:vendor>Pier Augè</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/professional-facial-treatment.jpg?v=1521758680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pier Augè<br>
+        <strong>Type: </strong>Dry Skin<br>
+        <strong>Price: </strong>
+            139.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe src="https://www.youtube.com/embed/muyx0hipWSY" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></p>
+<p>The Pier Auge Cotton Mask Facial treatment is suitable for all skin types, especially for dry and reactive skins lacking lipids.  It is cream mask, delicate fragrance of cotton, immediate feeling of comfort and softness.  </p>
+<p>Key Ingredients: Avocado Oil, Cotton Flower, Natural Amino Acids.</p>
+<p><span>Pier Auge is a brand exclusive to Breizh Esthetics, Beauty &amp; Salon Supply Co. As a leader in anti-aging skin care we are proud to be partnered with such a prestigious brand in our area of specialty.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2528314949</id>
+      <title>Prof 10X</title>
+      <s:price currency="CAD">139.95</s:price>
+      <s:sku>PIERAUGE-00008</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2517607621</id>
+    <published>2015-10-20T16:51:00-07:00</published>
+    <updated>2015-10-20T16:51:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pier-auge-dermauge-moisturizing-gel-ionizables"/>
+    <title>9143 Pier Auge - Derm&apos;Auge Moisturizing Hydrating Gel - Ionizable for Iontophoresis</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Pier Augè</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/PA_Chic_copy.jpg?v=1521758382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pier Augè<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            75.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe src="https://www.youtube.com/embed/muyx0hipWSY" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></p>
+<p>To soften and moisturizes the skin. Ionizable for iontophoresis face &amp; body treatments.</p>
+<p>Key Ingredients: Cucumber, Mallow, Marshmallow, Horsetail and Vitamin A.</p>
+<p><span>Pier Auge is a brand exclusive to Breizh Esthetics, Beauty &amp; Salon Supply Co. As a leader in anti-aging skin care we are proud to be partnered with such a prestigious brand in our area of specialty.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2517607621</id>
+      <title>Prof.-250ml</title>
+      <s:price currency="CAD">75.95</s:price>
+      <s:sku>PIERAUGE-00009</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2517596741</id>
+    <published>2015-10-20T16:48:00-07:00</published>
+    <updated>2015-10-20T16:48:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pier-auge-dermauge-revitalizing-gel-ionizables"/>
+    <title>9133 Pier Auge - Derm&apos;Auge Revitalizing Gel - Ionizable</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Pier Augè</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/PA_Chic_copy_cf7fa5e0-66d7-4153-a92d-ed9c15be62a4.jpg?v=1521758389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pier Augè<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            75.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This gel helps to revitalize and restore radiance to the skin on the face and body. For all skins types. <span>Ionizable for iontophoresis face &amp; body treatments.</span></p>
+<p>Key Ingredients: Horsetail, Centella Asiatica and Vitamin A, C, P to combat lines.</p>
+<p><span>Pier Auge is a brand exclusive to Breizh Esthetics, Beauty &amp; Salon Supply Co. As a leader in anti-aging skin care we are proud to be partnered with such a prestigious brand in our area of specialty.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2517596741</id>
+      <title>Prof.-250ml</title>
+      <s:price currency="CAD">75.95</s:price>
+      <s:sku>PIERAUGE-00010</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2517581829</id>
+    <published>2015-10-20T16:34:00-07:00</published>
+    <updated>2015-10-20T16:34:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pier-auge-dermauge-decongestion-gel-ionizables"/>
+    <title>9113 Pier Auge - Derm&apos;Auge Soothing Decongesting Gel - Ionizable for Iontophoresis</title>
+    <s:type>Sensitive Skin</s:type>
+    <s:vendor>Pier Augè</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/PA_Chic_copy_fac88cda-d525-4333-be4c-11100314cb94.jpg?v=1521758380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pier Augè<br>
+        <strong>Type: </strong>Sensitive Skin<br>
+        <strong>Price: </strong>
+            75.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe src="https://www.youtube.com/embed/muyx0hipWSY" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></p>
+<p>It soothes and softens fine, sensitive and weather roughened skins. <span>Ionizable for iontophoresis face &amp; body treatments.</span></p>
+<p>Key Ingredients: Calendula, Vitamin P and biological Extracts</p>
+<p><span>Pier Auge is a brand exclusive to Breizh Esthetics, Beauty &amp; Salon Supply Co. As a leader in anti-aging skin care we are proud to be partnered with such a prestigious brand in our area of specialty.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2517581829</id>
+      <title>Prof.-250ml</title>
+      <s:price currency="CAD">75.95</s:price>
+      <s:sku>PIERAUGE-00011</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2517534469</id>
+    <published>2015-10-20T16:27:00-07:00</published>
+    <updated>2015-10-20T16:27:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pier-auge-dermauge-balancing-gel-ionizables"/>
+    <title>9123 Pier Auge - Derm&apos;Auge Balancing Gel - Ionizable for Iontophoresis</title>
+    <s:type>Problemed Skin</s:type>
+    <s:vendor>Pier Augè</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/PA_Chic_copy_9bd37604-749e-4b1c-8989-d376750e8433.jpg?v=1521758374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pier Augè<br>
+        <strong>Type: </strong>Problemed Skin<br>
+        <strong>Price: </strong>
+            76.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe src="https://www.youtube.com/embed/muyx0hipWSY" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></p>
+<p>For Stabilizes oily, disturbed and teenage acne skins. <span>Ionizable for iontophoresis face &amp; body treatments.</span></p>
+<p>Key Ingredients: Burdock, Iris, Vitamin A and Proteins.</p>
+<p><span>Pier Auge is a brand exclusive to Breizh Esthetics, Beauty &amp; Salon Supply Co. As a leader in anti-aging skin care we are proud to be partnered with such a prestigious brand in our area of specialty.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2517534469</id>
+      <title>Prof.-250ml</title>
+      <s:price currency="CAD">76.95</s:price>
+      <s:sku>PIERAUGE-00012</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2517488837</id>
+    <published>2015-10-20T15:30:00-07:00</published>
+    <updated>2015-10-20T15:30:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pier-auge-dermauge-peeling-ionizables"/>
+    <title>9153 Pier Auge - Derm&apos;Auge Peeling - Ionizable for Iontophoresis</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Pier Augè</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/PA_Chic_copy_31202b47-d651-4ec3-acaf-61cee91e00c7.jpg?v=1521758387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pier Augè<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            75.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe src="https://www.youtube.com/embed/muyx0hipWSY" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></p>
+<p>Derm'Auge Peeling is to be applied on face and neck as a mask, and has to be rubbed in afterwards with an electrical or manual brush.  Thanks to the Zinc effect, it washes away the  impurities of the stratum corneum without irritation. <span>Ionizable for iontophoresis face &amp; body treatments.</span></p>
+<p>Key Ingredients: Zinc Oxide, Pro Vitamin A.</p>
+<p><span>Pier Auge is a brand exclusive to Breizh Esthetics, Beauty &amp; Salon Supply Co. As a leader in anti-aging skin care we are proud to be partnered with such a prestigious brand in our area of specialty.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2517488837</id>
+      <title>Prof.-250ml</title>
+      <s:price currency="CAD">75.95</s:price>
+      <s:sku>PIERAUGE-00013</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2517132997</id>
+    <published>2015-10-20T15:10:00-07:00</published>
+    <updated>2015-10-20T15:10:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pier-auge-iris-modelling-fondant-massage-cream"/>
+    <title>1623 Pier Auge - Iris Modelling Fondant Massage Cream</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Pier Augè</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/pier-auge-soin-anti-age-cryo-restructurel.jpg?v=1521758491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pier Augè<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe src="https://www.youtube.com/embed/muyx0hipWSY" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></p>
+<p>Composed of regenerating Iris, softening and nourishing Camellia and Sunflower Oils and of moisturizing plant Glycerin, this innovative product, born from the Latest and most advanced technologies, offers surprising and varied textures, ideal for massaging the face and neck.</p>
+<p>Key Ingredients: Iris Extract, Camellia, Sunflower Oils, Glycerin.</p>
+<p><span>Pier Auge is a brand exclusive to Breizh Esthetics, Beauty &amp; Salon Supply Co. As a leader in anti-aging skin care we are proud to be partnered with such a prestigious brand in our area of specialty.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2517132997</id>
+      <title>Prof.  250ml</title>
+      <s:price currency="CAD">99.95</s:price>
+      <s:sku>PIERAUGE-00014</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2516534789</id>
+    <published>2015-10-20T13:42:00-07:00</published>
+    <updated>2015-10-20T13:42:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pier-auge-hydrating-fondamental-serum-gel"/>
+    <title>1913 Pier Auge - Hydrating Fondamental Serum-Gel</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Pier Augè</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/MoisturizingFundamentalTreatment.JPG?v=1495570050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pier Augè<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            75.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe src="https://www.youtube.com/embed/muyx0hipWSY" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></p>
+<p>Hydrating Serum-Gel contains the Protein called "Aquaporin" which received the Nobel Prize in Chemistry in 2003 for its discovery.  By facilitating water distribution through cellular membranes, Aquaporins particularly AQp3 specific to skin, allow for preservation of water balance as well as skin metabolism.  It should be Ionised prior to the massge</p>
+<p>Key Ingredient: Aquaporins</p>
+<p>  <span>Pier Auge is a brand exclusive to Breizh Esthetics, Beauty &amp; Salon Supply Co. As a leader in anti-aging skin care we are proud to be partnered with such a prestigious brand in our area of specialty.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2516534789</id>
+      <title>Prof.-50ml</title>
+      <s:price currency="CAD">75.95</s:price>
+      <s:sku>PIERAUGE-00015</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2516411525</id>
+    <published>2015-10-20T13:35:00-07:00</published>
+    <updated>2015-10-20T13:35:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pier-auge-ampoule-no-3-moisturizing-treatment"/>
+    <title>1713-1 Pier Auge - Serum Ampoule No. 3  Professional Moisturizing Treatment</title>
+    <s:type>Dry Skin</s:type>
+    <s:vendor>Pier Augè</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/serum-ampoules-facial-treatment.JPG?v=1521758642"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pier Augè<br>
+        <strong>Type: </strong>Dry Skin<br>
+        <strong>Price: </strong>
+            66.95 - 188.95
+            <a href="https://www.breizh.ca/products/pier-auge-ampoule-no-3-moisturizing-treatment">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe src="https://www.youtube.com/embed/muyx0hipWSY" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></p>
+<p>Box of 12 Flaconnettes x 2.5ml.  For Professional use in Pier Auge facial treatments.</p>
+<p>Moisturizing serum ampoules for dry and dull skin, contains biostimulins: enzymes with a very hydrating and healing power.</p>
+<p>Key Ingredient: Biostimulins </p>
+<p>Pier Auge is a brand exclusive to Breizh Esthetics, Beauty &amp; Salon Supply Co. As a leader in anti-aging skin care we are proud to be partnered with such a prestigious brand in our area of specialty.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2516411525</id>
+      <title>Prof.-60ml</title>
+      <s:price currency="CAD">188.95</s:price>
+      <s:sku>PIERAUGE-00016</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2516411525</id>
+      <title>Retail-20ml</title>
+      <s:price currency="CAD">66.95</s:price>
+      <s:sku>PIERAUGE-00017</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2516360197</id>
+    <published>2015-10-20T13:24:00-07:00</published>
+    <updated>2015-10-20T13:24:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pier-auge-ampoule-no-2-revitalizing-treatment"/>
+    <title>1693-1 Pier Auge - Serum Ampoule No. 2 Revitalizing Treatment</title>
+    <s:type>Dry Skin</s:type>
+    <s:vendor>Pier Augè</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/serum-ampoules-facial-treatment_7c5fa7fc-b592-4420-a43b-24dbbab02edf.JPG?v=1521758641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pier Augè<br>
+        <strong>Type: </strong>Dry Skin<br>
+        <strong>Price: </strong>
+            66.95 - 188.95
+            <a href="https://www.breizh.ca/products/pier-auge-ampoule-no-2-revitalizing-treatment">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe src="https://www.youtube.com/embed/muyx0hipWSY" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></p>
+<p>Box of 12 Flaconnettes x 2.5ml.  For Professional use in facial treatments.</p>
+<p>Revitalizing serum ampoules for dry and dull skin.  Good for after microdermabrasion, and followed by Mask Cream.</p>
+<p>Key Ingredients: Placenta, Proteins.</p>
+<p><span>Pier Auge is a brand exclusive to Breizh Esthetics, Beauty &amp; Salon Supply Co. As a leader in anti-aging skin care we are proud to be partnered with such a prestigious brand in our area of specialty.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2516360197</id>
+      <title>Prof.-60ml</title>
+      <s:price currency="CAD">188.95</s:price>
+      <s:sku>PIERAUGE-00018</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2516360197</id>
+      <title>Retail-20ml</title>
+      <s:price currency="CAD">66.95</s:price>
+      <s:sku>PIERAUGE-00019</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2516255941</id>
+    <published>2015-10-20T13:12:00-07:00</published>
+    <updated>2015-10-20T13:12:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pier-auge-ampoule-no-1-soothing-treatment"/>
+    <title>1673-1 Pier Auge - Serum Ampoule No. 1 Soothing Treatment</title>
+    <s:type>Sensitive Skin</s:type>
+    <s:vendor>Pier Augè</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/serum-ampoules-facial-treatment_0fb31a8c-705f-4d94-b0ec-9b5cb9f93e36.JPG?v=1521758633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pier Augè<br>
+        <strong>Type: </strong>Sensitive Skin<br>
+        <strong>Price: </strong>
+            66.95 - 188.95
+            <a href="https://www.breizh.ca/products/pier-auge-ampoule-no-1-soothing-treatment">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe src="https://www.youtube.com/embed/muyx0hipWSY" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></p>
+<p>Box of 12 Flaconnettes x 2.5ml.  This serum ampoule contains oil extract of Calendula Marigold: acts on blood capillaries, softens, is antiseptic and anti-inflammatory.  For sensitive, oily, acne, red, rosacea skin.</p>
+<p>Key Ingredients: Calendula Officinaus Flower Extract, Apricot Kernel Oil, Octyldodecanol, Cyclopentasiloxane, Citronello.</p>
+<p><span>Pier Auge is a brand exclusive to Breizh Esthetics, Beauty &amp; Salon Supply Co. As a leader in anti-aging skin care we are proud to be partnered with such a prestigious brand in our area of specialty.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2516255941</id>
+      <title>Prof.-60ml</title>
+      <s:price currency="CAD">188.95</s:price>
+      <s:sku>PIERAUGE-00020</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2516255941</id>
+      <title>Retail-10ml</title>
+      <s:price currency="CAD">66.95</s:price>
+      <s:sku>PIERAUGE-00021</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2516126661</id>
+    <published>2015-10-20T12:57:00-07:00</published>
+    <updated>2015-10-20T12:57:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pier-auge-ampoule-adn-regenerating-treatment"/>
+    <title>1723-1 Pier Auge - Serum Ampoule DNA Regenerating Treatment</title>
+    <s:type>Mature Skin</s:type>
+    <s:vendor>Pier Augè</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/serum-ampoules-facial-treatment_a7a69936-2a40-4362-aa71-e14e7c0b48f6.JPG?v=1521758629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pier Augè<br>
+        <strong>Type: </strong>Mature Skin<br>
+        <strong>Price: </strong>
+            94.95 - 277.95
+            <a href="https://www.breizh.ca/products/pier-auge-ampoule-adn-regenerating-treatment">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe src="https://www.youtube.com/embed/muyx0hipWSY" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></p>
+<p>Box of 12 Flaconnettes x  2.5ml.  For Professional use in facial treatments.  For anti-wrinkles and lifeless skin.</p>
+<p>Key Ingredients: Hydrolyzed Soy Protein, Glycerin, Propylene Glycol, Sodium DNA, Diazoudinyl Urea, Phenoxyethanol.</p>
+<p> <span>Pier Auge is a brand exclusive to Breizh Esthetics, Beauty &amp; Salon Supply Co. As a leader in anti-aging skin care we are proud to be partnered with such a prestigious brand in our area of specialty.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2516126661</id>
+      <title>Prof.-60ml</title>
+      <s:price currency="CAD">277.95</s:price>
+      <s:sku>PIERAUGE-00022</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2516126661</id>
+      <title>Retail-10ml</title>
+      <s:price currency="CAD">94.95</s:price>
+      <s:sku>PIERAUGE-00023</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2503310661</id>
+    <published>2015-10-19T15:54:00-07:00</published>
+    <updated>2015-10-19T15:54:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pier-auge-silhouette-adn-soie-body-revitalizing-lotion"/>
+    <title>Pier Auge - Silhouette - ADN Soie Body Revitalizing Lotion</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Pier Augè</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/pier-auge-adn-soie-body-revitalizing-lotion.png?v=1521758646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pier Augè<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            68.95 - 111.95
+            <a href="https://www.breizh.ca/products/pier-auge-silhouette-adn-soie-body-revitalizing-lotion">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/muyx0hipWSY" frameborder="0" allowfullscreen=""></iframe></p>
+<p>ADN Soie immediately penetrates into the skin, leaving pleasure and softness feeling.  The skin is nourished and revitalized, its elasticity and suppleness are maintained.</p>
+<p>Key Ingredients: hp DNA, Moisturizing Complex, Corn phytostimulins, Wheat Grem Oil, Vitamin A &amp; E.</p>
+<p><span>Pier Auge is a brand exclusive to Breizh Esthetics, Beauty &amp; Salon Supply Co. As a leader in anti-aging skin care we are proud to be partnered with such a prestigious brand in our area of specialty.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2503310661</id>
+      <title>Prof.-400ml</title>
+      <s:price currency="CAD">111.95</s:price>
+      <s:sku>PIERAUGE-00024</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2503310661</id>
+      <title>Retail-200ml</title>
+      <s:price currency="CAD">68.95</s:price>
+      <s:sku>PIERAUGE-00025</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2503216389</id>
+    <published>2015-10-19T15:50:00-07:00</published>
+    <updated>2015-10-19T15:50:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pier-auge-soothing-after-sun-gel"/>
+    <title>Pier Auge - Soothing After Sun Gel</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Pier Augè</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/pier-auge-soothing-after-sun-gel-aloe-vera.png?v=1521758665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pier Augè<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            48.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/muyx0hipWSY" frameborder="0" allowfullscreen=""></iframe></p>
+<p>Soothing After Sun Gel soothes, moisturizes, refreshes and cool down the skin. Great for all skin types and works perfectly with Pier Auge's SPF50 Sun Protection Cream.</p>
+<p>Key Ingredients: Aloe Vera, Horse Chestnut Bark Extract.</p>
+<p><span>Pier Auge is a brand exclusive to Breizh Esthetics, Beauty &amp; Salon Supply Co. As a leader in anti-aging skin care we are proud to be partnered with such a prestigious brand in our area of specialty.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2503216389</id>
+      <title>Retail-400ml</title>
+      <s:price currency="CAD">48.95</s:price>
+      <s:sku>PIERAUGE-00026</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2503062149</id>
+    <published>2015-10-19T15:31:00-07:00</published>
+    <updated>2015-10-19T15:31:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pier-auge-men-hyper-hydrating-protective-care"/>
+    <title>Pier Auge - Men Hyper Hydrating Moisturizer</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Pier Augè</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/pier-auge-men-hyper-hydrating-protective-care.png?v=1521758544"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pier Augè<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            57.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/muyx0hipWSY" frameborder="0" allowfullscreen=""></iframe></p>
+<p>A true anti-wrinkle treatment only for Men. Hyper Hydrating protects the skin from external aggressions, the skin is repaired, protected, moisturized and vitamin-enriched.</p>
+<p>Key Ingredients: Hyaluronic Acid, Cassia Angustifolia, Bio-mimetic Moisturizer, Jojoba Oil, Evening Primrose Oil, Vitamin E, Vitamin C2, Anti-pollution Vegetal Complex, Aminopeptide Complex.</p>
+<p><span>Pier Auge is a brand exclusive to Breizh Esthetics, Beauty &amp; Salon Supply Co. As a leader in anti-aging skin care we are proud to be partnered with such a prestigious brand in our area of specialty.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2503062149</id>
+      <title>Retail-50ml</title>
+      <s:price currency="CAD">57.95</s:price>
+      <s:sku>PIERAUGE-00029</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2502953349</id>
+    <published>2015-10-19T15:26:00-07:00</published>
+    <updated>2015-10-19T15:26:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pier-auge-men-after-shave-ultra-matt-balm"/>
+    <title>7031 Pier Auge - Men After Shave Ultra Matte Balm</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Pier Augè</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/pier-auge-men-after-shave-balm.png?v=1521758520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pier Augè<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            55.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe src="https://www.youtube.com/embed/muyx0hipWSY" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></p>
+<p>A pure comfort care after shaving.  It soothes immediately the skin and leaves a true feeling of comfort. No alcohol after-shave helps reduce irritation and provides an excellent cooling effect with a very soft &amp; pleasant, masculine fragrance.</p>
+<p>MSRP: $70.95  (retail only)</p>
+<p>Key Ingredients: Aminopeptide Complex, Hyaluronic Acid, Cassia Angustifoia, Bio-Mimetic Moisturizer, Jojoba Oil, vitamin B5, Vitamin C2, Alpha Bisabolol, Anti-pollution Vegetal Complex.</p>
+<p><span>Pier Auge is a brand exclusive to Breizh Esthetics, Beauty &amp; Salon Supply Co. As a leader in anti-aging skin care we are proud to be partnered with such a prestigious brand in our area of specialty.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2502953349</id>
+      <title>Retail-50ml</title>
+      <s:price currency="CAD">55.95</s:price>
+      <s:sku>PIERAUGE-00030</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2502902277</id>
+    <published>2015-10-19T15:10:00-07:00</published>
+    <updated>2015-10-19T15:10:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pier-auge-men-anti-fatigue-eye-contour-gel"/>
+    <title>7021 Pier Auge - Men Anti-Fatigue Eye Contour Gel</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Pier Augè</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/pier-auge-men-eye-contour-anti-tiredness-gel.png?v=1521758526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pier Augè<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe src="https://www.youtube.com/embed/muyx0hipWSY" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></p>
+<p>The Pier Auge Eye Contour Gel for men helps reduce bags and smooth the eye contour, helping the look seem younger.</p>
+<p>Key Ingredients: Beech Buds, Hyaluronic Acid, Cassia Angustifolia, Bio-mimetic Moisturizer, Anti-pollution Vegetal Complex, Vitamin C.</p>
+<p><span>Pier Auge is a brand exclusive to Breizh Esthetics, Beauty &amp; Salon Supply Co. As a leader in anti-aging skin care we are proud to be partnered with such a prestigious brand in our area of specialty.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2502902277</id>
+      <title>Retail-15ml</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku>PIERAUGE-00031</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2502785221</id>
+    <published>2015-10-19T15:05:00-07:00</published>
+    <updated>2015-10-19T15:05:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pier-auge-men-relaxing-treatment-mask"/>
+    <title>7011 Pier Auge - Men Relaxing Treatment Mask no rinse</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Pier Augè</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/pier-auge-men-relaxing-treatment-mask.png?v=1521758550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pier Augè<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            47.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe src="https://www.youtube.com/embed/muyx0hipWSY" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></p>
+<p>Relaxing Treatment Mask awakens the skin of men in a hurry. A mask left on the face like a treatment, ensures the skin is revitalized and protected.</p>
+<p>Key Ingredients: Hyaluronic Acid, Cassia Angustifolia, Jojoba Oil, Enzymes, Shea Butter, Anti-pollution Vegetal Complex.</p>
+<p><span>Pier Auge is a brand exclusive to Breizh Esthetics, Beauty &amp; Salon Supply Co. As a leader in anti-aging skin care we are proud to be partnered with such a prestigious brand in our area of specialty.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2502785221</id>
+      <title>Retail-50ml</title>
+      <s:price currency="CAD">47.95</s:price>
+      <s:sku>PIERAUGE-00033</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

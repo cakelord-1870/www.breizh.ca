@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.breizh.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.breizh.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.breizh.ca/collections/linens.atom"/>
+  <title>Breizh Esthetics &amp; Salon Supply Co.</title>
+  <updated>2015-10-20T14:31:00-07:00</updated>
+  <author>
+    <name>Breizh Esthetics &amp; Salon Supply Co.</name>
+  </author>
+  <entry>
+    <id>https://www.breizh.ca/products/2516748101</id>
+    <published>2015-10-20T14:31:00-07:00</published>
+    <updated>2015-10-20T14:31:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/linens-disposable-bed-drape-sheets-36x48"/>
+    <title>Linens - Disposable Bed Drape Sheets 36&quot;x48&quot;</title>
+    <s:type>Sheet</s:type>
+    <s:vendor>Breizh Esthetic &amp; Salon Services</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/disposable-spa-esthetic-dannyco-drape-sheets.jpg?v=1521757767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetic &amp; Salon Services<br>
+        <strong>Type: </strong>Sheet<br>
+        <strong>Price: </strong>
+            77.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>After that last client maybe it's better to throw this sheet away...</em></p>
+<p><em></em>Disposable bed sheets, white in color, available in pack of 25 or 100. For all your esthetic needs.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sheet</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2516748101</id>
+      <title>100</title>
+      <s:price currency="CAD">77.95</s:price>
+      <s:sku>BREIZHES-00002</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2516720773</id>
+    <published>2015-10-20T14:27:00-07:00</published>
+    <updated>2015-10-20T14:27:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/linens-dannyco-microfiber-towels"/>
+    <title>Linens - Dannyco Microfiber Towels</title>
+    <s:type>Towels</s:type>
+    <s:vendor>Dannyco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/dannyco-microfiber-towels-white-10.jpg?v=1521757761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dannyco<br>
+        <strong>Type: </strong>Towels<br>
+        <strong>Price: </strong>
+            32.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>After a busy day of 4 facials, 3 manicures and pedicure, it's time for you to clean up the office for tomorrow...</em></p>
+<p><em></em>Dannyco white microfiber towels (16"x29") sold in packs of 10.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Towel</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2516720773</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.95</s:price>
+      <s:sku>DANNYCO-00031</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2516630661</id>
+    <published>2015-10-20T14:10:00-07:00</published>
+    <updated>2015-10-20T14:10:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/linens-100-cotton-towels-various-sizes"/>
+    <title>Linens - 100% Cotton Towels - Various Sizes</title>
+    <s:type>Towels</s:type>
+    <s:vendor>Breizh Esthetic &amp; Salon Services</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/spa-esthetic-salon-face-body-towels-cotton.jpg?v=1521757757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetic &amp; Salon Services<br>
+        <strong>Type: </strong>Towels<br>
+        <strong>Price: </strong>
+            9.95 - 79.95
+            <a href="https://www.breizh.ca/products/linens-100-cotton-towels-various-sizes">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>Wiping the facial mask off their face, or maybe wiping the sweat off your own face....</em></p>
+<p>100% Cotton Towels available in multiple colors and sizes:</p>
+<ul>
+<li>11"x11" Hand Towels - packs of 12</li>
+<li>16"x27" Face Towels - packs of 12</li>
+<li>24"x48" Full Body Towels - packs of 6 - only in white ivory</li>
+</ul>
+<p>Please ask about color by email or in the checkout section. Default if no color indicated is white ivory.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Towel</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2516630661</id>
+      <title>11&quot;x11&quot;</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>BREIZHES-00003</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2516630661</id>
+      <title>16&quot;x27&quot;</title>
+      <s:price currency="CAD">33.95</s:price>
+      <s:sku>BREIZHES-00004</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2516630661</id>
+      <title>16&quot;x27&quot; Plush</title>
+      <s:price currency="CAD">43.95</s:price>
+      <s:sku>BREIZHES-00005</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2516630661</id>
+      <title>24&quot;x48&quot;</title>
+      <s:price currency="CAD">79.95</s:price>
+      <s:sku>BREIZHES-00006</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2516581765</id>
+    <published>2015-10-20T14:05:00-07:00</published>
+    <updated>2015-10-20T14:05:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/linens-terry-fitted-bed-sheet"/>
+    <title>Linens - Terry Fitted Bed Sheet</title>
+    <s:type>Linens</s:type>
+    <s:vendor>Breizh Esthetic &amp; Salon Services</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/spa-esthetics-terry-fitted-bedsheets.jpg?v=1521757782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetic &amp; Salon Services<br>
+        <strong>Type: </strong>Linens<br>
+        <strong>Price: </strong>
+            33.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>Sometimes this business feels a lot like home, but with thicker sheets...</em></p>
+<p><em></em>Fitted terry fabric sheet for spa and esthetics beds.</p>
+<p>*Ask about color availability.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Linens</s:tag>
+    <s:tag>sheet</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2516581765</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.95</s:price>
+      <s:sku>BREIZHES-00007</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2516510661</id>
+    <published>2015-10-20T13:55:00-07:00</published>
+    <updated>2015-10-20T13:55:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/linens-fleece-blanket-72x92"/>
+    <title>Linens - Fleece Blanket 72&quot;x92&quot;</title>
+    <s:type>Linens</s:type>
+    <s:vendor>Breizh Esthetic &amp; Salon Services</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/spa-esthetics-fleece-blanket-tan.jpg?v=1521757772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetic &amp; Salon Services<br>
+        <strong>Type: </strong>Linens<br>
+        <strong>Price: </strong>
+            27.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>The client settles into the bed and you wrap them in a beautiful, soft fleece blanket to keep them perfectly relaxed and comfortable throughout the treatment...</em></p>
+<p>Fleece blankets for spa and esthetic treatments. Or just something to keep you warm.</p>
+<p>Available in Tan or Ivory colors.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blanket</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2516510661</id>
+      <title>Tan</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>BREIZHES-00008</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2516510661</id>
+      <title>Ivory</title>
+      <s:price currency="CAD">27.95</s:price>
+      <s:sku>BREIZHES-00009</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/2516505349</id>
+    <published>2015-10-19T16:40:00-07:00</published>
+    <updated>2015-10-19T16:40:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/linens-twin-bedsheet-t130"/>
+    <title>Linens - Twin Bedsheet T130</title>
+    <s:type>Linens</s:type>
+    <s:vendor>Breizh Esthetic &amp; Salon Services</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/spa-bed-sheets-white-esthetics.jpg?v=1521757782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetic &amp; Salon Services<br>
+        <strong>Type: </strong>Linens<br>
+        <strong>Price: </strong>
+            17.95 - 25.95
+            <a href="https://www.breizh.ca/products/linens-twin-bedsheet-t130">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>As you lay down the perfect white sheet, the room is set and you get excited for the next client coming in...</em></p>
+<p>Spa bed and esthetics bedsheet for services. Thread 130 and 180 counts available.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sheets</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2516505349</id>
+      <title>T130</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku>BREIZHES-00010</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2516505349</id>
+      <title>T180</title>
+      <s:price currency="CAD">25.95</s:price>
+      <s:sku>BREIZHES-00011</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

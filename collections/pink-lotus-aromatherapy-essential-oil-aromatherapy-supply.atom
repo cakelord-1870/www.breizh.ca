@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.breizh.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.breizh.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.breizh.ca/collections/pink-lotus-aromatherapy-essential-oil-aromatherapy-supply.atom"/>
+  <title>Breizh Esthetics &amp; Salon Supply Co.</title>
+  <updated>2016-08-05T11:47:00-07:00</updated>
+  <author>
+    <name>Breizh Esthetics &amp; Salon Supply Co.</name>
+  </author>
+  <entry>
+    <id>https://www.breizh.ca/products/6051535109</id>
+    <published>2016-08-05T11:47:00-07:00</published>
+    <updated>2016-08-05T11:47:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pink-lotus-exhale-hand-foot-cream"/>
+    <title>Pink Lotus - Exhale Hand &amp; Foot Cream</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Pink Lotus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Pink-Lotus-Aromatherapy-Exhale-Natural-Hand-Foot-Cream.jpg?v=1521758689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pink Lotus<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Be tranquil unbound and restored with a beautiful blend of Rosemary &amp; Bergamot. Experience the lightness and calmness of life when clarity is allowed to emerge.  Helps alleviate symptoms of mild anxiety and depression.</p>
+<p>Ingredients: Water Eau, Butyrospermum Parkii, Avacado Oil, Steric Acid, Apricot Kernel Oil, Cocoa Seed Butter, Panthenol Hydrolyed Oats, Caprylyl Glycol, AHA 88%, Citrus Acid, Rosemary &amp; Bergamot Essential Oils.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6051535109</id>
+      <title>1 x 30 ml. - $12.00 / 4 x 20 ml. - $12.00</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6051495877</id>
+    <published>2016-08-05T11:12:00-07:00</published>
+    <updated>2016-08-05T11:12:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pink-lotus-active-hand-foot-cream"/>
+    <title>Pink Lotus - Active Hand &amp; Foot Cream</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Pink Lotus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Pink-Lotus-Aromatherapy-Natural-Hand-Foot-Cream-Active-Essential-Oils.jpg?v=1521758688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pink Lotus<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Helps reduce inflammation and relieves pain and stiffness related to tension overuse or injury.</p>
+<p>Ingredients: Water Eau, Shea Fruit Butter, Avacado Oil, Steric Acid, Apricot Kernel Oats, Panthenol Hydrolyed Oats, Sorbic Acid, AHA 88%, Signature Essential Oils.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6051495877</id>
+      <title>1 x 30 ml. - $12.00 / 4 x 20 ml. - $12.00</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6040799173</id>
+    <published>2016-08-03T16:46:00-07:00</published>
+    <updated>2016-08-03T16:46:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pink-lotus-flora-hand-foot-cream"/>
+    <title>Pink Lotus - Flora Hand &amp; Foot Cream</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Pink Lotus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Pink-Lotus-Aromatherapy-Flora-Natural-Hand-Foot-Cream.jpg?v=1521758698"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pink Lotus<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Be luxurious and flirty with the inhalation of this aphrodisiac scent, thought to increase the attractiveness of the wearer with the aroma of jasmine and rose.</p>
+<p>Ingredients: Water Eau, Shea Fruit Butter, Avacado Oil, Steric Acid, Apricot Kernel Oil, Cocoa Seed Butter, Panthenol Hydrolyed Oats, Citrus Acid, AHA, Signature Essential Oils.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6040799173</id>
+      <title>1 x 30 ml. - $12.00 / 4 x 20ml. - $12.00</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6040722885</id>
+    <published>2016-08-03T16:27:00-07:00</published>
+    <updated>2016-08-03T16:27:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pink-lotus-relief-hand-foot-cream"/>
+    <title>Pink Lotus - Relief Hand &amp; Foot Cream</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Pink Lotus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Pink-Lotus-Aromatherapy-Natural-Hand-Foot-Relief-Cream.jpg?v=1521758706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pink Lotus<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Helps eliminate the discomfort of headaches and promotes relaxation with tranquility.</p>
+<p>Ingredients: Water Eau, Butyrospermum Parkii (Shea Fruit Butter), Persea Gratissima, Steric Acid, Apricot Kernel Oil, Cocoa Seed Butter, Panthenol Hydrolyed Oats, AHA, Signature Essential Oils.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6040722885</id>
+      <title>4 x 20ml  - $12.00 / 1 x 30ml. - $12.00</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6040605701</id>
+    <published>2016-08-03T16:16:00-07:00</published>
+    <updated>2016-08-03T16:16:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pink-lotus-exhale-essential-oil"/>
+    <title>Pink Lotus - Exhale Essential Oil</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Pink Lotus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Pink-Lotus-Aromatherapy-Exhale-Roller-Roll-On-Essential-Oil.jpg?v=1521758688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pink Lotus<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% Plant Product</p>
+<p>Be tranquil unbound and restored with a beautiful blend of Rosemary &amp; Bergamot.  Experience the lightness and calmness of life when clarity is allowed to emerge.  Helps alleviate symptoms of mild anxiety and depression.</p>
+<p>Ingredient:</p>
+<p>Rosemary - Astringent, Antiseptic, Antimicrobial, Increase brain function, Stress relief, Pain relief, Bergamot  - Antidepressant, Stimulant, Antibiotic, Disinfectant, Pain relief.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6040605701</id>
+      <title>1 x Roll-on Bottle / 4 x Spray Bottle (Travel size)</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6040548037</id>
+    <published>2016-08-03T16:09:00-07:00</published>
+    <updated>2016-08-03T16:09:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pink-lotus-active-essential-oil"/>
+    <title>Pink Lotus - Active Essential Oil</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Pink Lotus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Pink-Lotus-Aromatherapy-Active-Roller-Roll-On-Essential-Oils.jpg?v=1521758677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pink Lotus<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% Plant Product</p>
+<p>Helps reduce inflammation and relieves  muscle pain and stiffness related to tension overuse or injury,</p>
+<p>Ingredients:</p>
+<p>Wintergreen - Analgesic (circulation), Anodyne (pain killer), Stimulatant, Antiseptic, Astringent.</p>
+<p>Camphor - Stimulant, Antiseptic, Astringent, insecticide.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6040548037</id>
+      <title>1 x Roll-on Bottle / 4 x spray Bottles (Travel size)</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6040186309</id>
+    <published>2016-08-03T15:20:00-07:00</published>
+    <updated>2016-08-03T15:20:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pink-lotus-flora"/>
+    <title>Pink Lotus - Flora Essential Oil</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Pink Lotus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Pink-Lotus-Aromatherapy-Roller-Flora-Roll-On-Essential_Oils.jpg?v=1521758696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pink Lotus<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% Plant Product -  Sizes: 15ml Roll-on Bottle or 3ml. Spray x 4</p>
+<p>Be luxurious and flirty with the inhalation of this aphrodisiac scent, thought to increase the attractiveness of the wearer with the aroma of jasmine and rose.</p>
+<p>Ingredients:</p>
+<p>Jasmine - Antidepressant, Aphrodisiac, Cicatrisant (scar fading) sleep aid, Emmenagogue (helps with menopause symptoms.</p>
+<p>Rose - Antidepressant, Antiphlogistic, Antiseptic, Antiviral, Aphrodisiac, Astringent.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6040186309</id>
+      <title>1 x Roll-on Bottle / 4 x Spray Bottle (Travel size)</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6038042821</id>
+    <published>2016-08-03T09:40:00-07:00</published>
+    <updated>2016-08-03T09:40:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/pink-lotus-relief"/>
+    <title>Pink Lotus - Relief Essential Oil</title>
+    <s:type>All Skin Types</s:type>
+    <s:vendor>Pink Lotus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Pink-Lotus-Aromatherapy-Relief-Roller-Roll-On-Essential-Oil.jpg?v=1521758702"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pink Lotus<br>
+        <strong>Type: </strong>All Skin Types<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% Plant Product - Sizes: 15ml roll-on bottle or 3 ml x 4 - spray</p>
+<p>Helps eliminate the discomfort of headaches and promotes relaxation with tranquility.</p>
+<p>Ingredients:-</p>
+<p>Lavender - Calming, Sleep aid, Bee stings, Insect bites, Minor burns, Antiseptic for cuts, Eczema, Dermatitis, Nausea Motion sickness.</p>
+<p>Clary Sage - Anti depressant, Anti-convulsive, Antispasmodic, Antibacterial, Anti-fungal, Antiseptic, Aphrodisiac, Astringent, Carminative, Lavendin-Antidepressant, Analgesic.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6038042821</id>
+      <title>1 x  Roll-on Bottle / 4 x Spray Bottle (Travel size)</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+</feed>

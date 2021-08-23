@@ -1,0 +1,1482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.breizh.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.breizh.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.breizh.ca/collections/gulfstream-pedicure-spa-equipment.atom"/>
+  <title>Breizh Esthetics &amp; Salon Supply Co.</title>
+  <updated>2019-05-31T09:55:53-07:00</updated>
+  <author>
+    <name>Breizh Esthetics &amp; Salon Supply Co.</name>
+  </author>
+  <entry>
+    <id>https://www.breizh.ca/products/2108956835928</id>
+    <published>2019-05-31T09:55:53-07:00</published>
+    <updated>2019-05-31T09:55:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/gulfstream-la-lili-5"/>
+    <title>GULFSTREAM - LA LILI 5</title>
+    <s:type></s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4290.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PEDICURE CHAIR</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/2108956835928</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4290.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/747232100440</id>
+    <published>2018-04-17T14:27:10-07:00</published>
+    <updated>2018-04-17T14:27:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/gulfstream-idjet-aluminium-impeller-jet-systems"/>
+    <title>Gulfstream- IDJET Aluminium Impeller -JET Systems</title>
+    <s:type>Shop Parts</s:type>
+    <s:vendor>Gulfstream</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/IDJET.PNG?v=1524000740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gulfstream<br>
+        <strong>Type: </strong>Shop Parts<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GS7081 – IDJET ALUMINIUM IMPELLER IS COMPATIBLE WITH ALL IDJET PRODUCTS.<br> <span>Weight 0.2 lbs</span> <br><span>Dimensions 2.5 x 2.5 x 1 in</span></p>
+<p> </p>
+<p style="text-align: center;"><span><iframe width="397" height="223" src="https://www.youtube.com/embed/lRVwkfyyW0Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></span></p>
+<div class="post_video youtube"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aluminium</s:tag>
+    <s:tag>Aluminium Impeller</s:tag>
+    <s:tag>Gs7081</s:tag>
+    <s:tag>Gulfstream</s:tag>
+    <s:tag>IDJET</s:tag>
+    <s:tag>Impeller</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747232100440</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku>Gs7081 - IDJET Aluminium Impeller</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/747231608920</id>
+    <published>2018-04-17T14:22:34-07:00</published>
+    <updated>2018-04-17T14:22:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/gulfstream-9640-circuit-board-chair-parts"/>
+    <title>Gulfstream- 9640 Circuit Board -Chair Parts</title>
+    <s:type>Chair Parts</s:type>
+    <s:vendor>Gulfstream</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Circuit_board.PNG?v=1524000417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gulfstream<br>
+        <strong>Type: </strong>Chair Parts<br>
+        <strong>Price: </strong>
+            143.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GS8017-02 9640 CIRCUIT BOARD FOR USE WITH GS8022-02 REMOTE CONTROL.<br><span>Also compatible with remote control GS8022 – need to reuse microchip from the original circuit board on a new replacement.</span><br> <span>Weight 1 lbs</span> <br><span>Dimensions 12 x 3 x 5 in</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9640 Circuit Board</s:tag>
+    <s:tag>Gs8017-02</s:tag>
+    <s:tag>Gulfstream</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747231608920</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">143.75</s:price>
+      <s:sku>Gs8017-02 - 9640 Circuit Board</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/747231314008</id>
+    <published>2018-04-17T14:18:17-07:00</published>
+    <updated>2018-04-17T14:18:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/gulfstream-9600-9640-sensor-chair-parts"/>
+    <title>Gulfstream- 9600 &amp; 9640 Sensor -Chair Parts</title>
+    <s:type>Chair Parts</s:type>
+    <s:vendor>Gulfstream</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/sensor.PNG?v=1524000126"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gulfstream<br>
+        <strong>Type: </strong>Chair Parts<br>
+        <strong>Price: </strong>
+            24.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GS8013 – 9600 &amp; 9640 SENSOR.
+<p> </p>
+<p><span>Weight 0.2 lbs</span></p>
+<p><span>Dimensions 3 x 3 x 2 in</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9600</s:tag>
+    <s:tag>9600 &amp; 9640 Sensor</s:tag>
+    <s:tag>Gs8013</s:tag>
+    <s:tag>Gulfstream</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747231314008</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.15</s:price>
+      <s:sku>Gs8013 - 9600 &amp; 9640 Sensor</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/747230986328</id>
+    <published>2018-04-17T14:11:28-07:00</published>
+    <updated>2018-04-17T14:11:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/gulfstream-9622-chair-cover-kit-chair-parts"/>
+    <title>Gulfstream- 9622 Chair Cover Kit -Chair Parts</title>
+    <s:type>Chair Parts</s:type>
+    <s:vendor>Gulfstream</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/chair_cover.PNG?v=1523999885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gulfstream<br>
+        <strong>Type: </strong>Chair Parts<br>
+        <strong>Price: </strong>
+            228.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GS9037<br>9622 CHAIR COVER KIT
+<p><span>Weight 18 lbs, </span><span>Dimensions 21 x 24 x 5 in.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9622 Chair Cover Kit</s:tag>
+    <s:tag>Gs9037</s:tag>
+    <s:tag>Gulfstream</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747230986328</id>
+      <title>Hollyhock with Truffle</title>
+      <s:price currency="CAD">228.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>8165</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747230986328</id>
+      <title>Butterscotch with Truffle</title>
+      <s:price currency="CAD">228.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>8165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/747230527576</id>
+    <published>2018-04-17T14:00:29-07:00</published>
+    <updated>2018-04-17T14:00:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/gulfstream-uv-led-light-bulb-5w-accessories"/>
+    <title>Gulfstream- UV LED Light Bulb 5W -Accessories</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Gulfstream</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Gs4304-Uv-Led-Light-Bulb_1-min.jpg?v=1523999426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gulfstream<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            13.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">IMPROVE YOUR UV NAIL DRYER TO PROFESSIONAL LED NAIL DRYER BY USING LED BULB.
+<div class="post_video youtube">
+<span>LED Advantages:</span><br><span>– Faster Gel Curing Time</span><br><span>– Efficient and Energy Saving</span><br><span>– Top Quality with Long Service Life</span>
+</div>
+<div class="post_video youtube"><span>Weight 0.3 lbs</span></div>
+<div class="post_video youtube"><span>Dimensions 6.5 x 1.3 x 0.8 in</span></div>
+<div class="post_video youtube"><span></span></div>
+<div class="post_video youtube"><span></span></div>
+<div class="post_video youtube" style="text-align: center;"><span><iframe width="397" height="223" src="https://www.youtube.com/embed/H09f5hPTbUs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></span></div>
+<div class="post_video youtube"><span></span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5w.</s:tag>
+    <s:tag>Bulb</s:tag>
+    <s:tag>Gs10016</s:tag>
+    <s:tag>Gs4304</s:tag>
+    <s:tag>Gulfstream</s:tag>
+    <s:tag>LED</s:tag>
+    <s:tag>Light</s:tag>
+    <s:tag>Nail Display</s:tag>
+    <s:tag>UV</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747230527576</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.80</s:price>
+      <s:sku>Gs4304 - UV LED Light Bulb 5w</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/747229839448</id>
+    <published>2018-04-17T13:40:04-07:00</published>
+    <updated>2018-04-17T13:40:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/gulfstream-gulfstream-diy-air-vent-system-for-spa-chair-accessories"/>
+    <title>Gulfstream- Gulfstream DIY Air Vent System For Spa Chair -Accessories</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Gulfstream</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Gs4299-GVentSystem_1-min.jpg?v=1523998727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gulfstream<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            147.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GULFSTREAM DIY AIR VENT SYSTEM PROVIDES ROOM PURIFICATION, CAN MINIMIZE INHALATION EXPOSURE AND REDUCE THE HEALTH RISK OF YOUR CUSTOMERS AND SALON TECHNICIANS.
+<div class="post_video youtube">
+<span>GULFSTREAM DIY Air Vent System improves indoor air quality with two built-in, adjustable ventilation valves.</span><br><span>This system is available in some products.</span>
+</div>
+<div class="post_video youtube"><span>Weight 8 lbs</span></div>
+<div class="post_video youtube"><span>Dimensions 20 x 10 x 10 in</span></div>
+<div class="post_video youtube"><span></span></div>
+<div class="post_video youtube"><span></span></div>
+<div class="post_video youtube" style="text-align: center;"><span><iframe width="397" height="223" src="https://www.youtube.com/embed/dOEpfSQDI48" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Air</s:tag>
+    <s:tag>DIY</s:tag>
+    <s:tag>Gs4299</s:tag>
+    <s:tag>Gulfstream</s:tag>
+    <s:tag>Vent System</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747229839448</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">147.20</s:price>
+      <s:sku>Gs4299 - Gulfstream DIY Air Vent System For Spa Chai</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/747224268888</id>
+    <published>2018-04-17T13:04:12-07:00</published>
+    <updated>2018-04-17T13:04:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/gulfstream-la-fleur-glass-bowl-bowls-and-glass"/>
+    <title>Gulfstream- La Fleur Glass Bowl -Bowls and Glass</title>
+    <s:type>Bowls and Glass</s:type>
+    <s:vendor>Gulfstream</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/La-Fleur-Glass-Bowl_Amber1-min.jpg?v=1523996325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gulfstream<br>
+        <strong>Type: </strong>Bowls and Glass<br>
+        <strong>Price: </strong>
+            483.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>IDJET KIT IS NOT INCLUDED.</p>
+<div class="post_video youtube"><span>Any bowl ordered for anything other than a Gulfstream unit considered custom order: No Returns, Refunds or Exchanges.</span></div>
+<div class="post_video youtube"><span>Weight 65 lbs</span></div>
+<div class="post_video youtube"><span>Dimensions 30 x 30 x 15 in</span></div>
+<div class="post_video youtube"><span></span></div>
+<div class="post_video youtube"><span></span></div>
+<div class="post_video youtube" style="text-align: center;"><span><iframe width="397" height="223" src="https://www.youtube.com/embed/lRVwkfyyW0Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5004</s:tag>
+    <s:tag>Bowls and Glass</s:tag>
+    <s:tag>Fleur</s:tag>
+    <s:tag>Glass</s:tag>
+    <s:tag>Glass Bowl</s:tag>
+    <s:tag>Gs5004</s:tag>
+    <s:tag>Gulfstream</s:tag>
+    <s:tag>La Fleur</s:tag>
+    <s:tag>La Fleur Glass Bowl</s:tag>
+    <s:tag>pedicure</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747224268888</id>
+      <title>Black</title>
+      <s:price currency="CAD">483.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>29484</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747224268888</id>
+      <title>Rose</title>
+      <s:price currency="CAD">483.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>29484</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747224268888</id>
+      <title>Clear</title>
+      <s:price currency="CAD">483.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>29484</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747224268888</id>
+      <title>Gold</title>
+      <s:price currency="CAD">483.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>29484</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747224268888</id>
+      <title>Blue</title>
+      <s:price currency="CAD">483.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>29484</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747224268888</id>
+      <title>Wine</title>
+      <s:price currency="CAD">483.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>29484</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747224268888</id>
+      <title>Rainbow</title>
+      <s:price currency="CAD">483.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>29484</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747224268888</id>
+      <title>Green</title>
+      <s:price currency="CAD">483.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>29484</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747224268888</id>
+      <title>Rustic Gold</title>
+      <s:price currency="CAD">483.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>29484</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/747222663256</id>
+    <published>2018-04-17T12:56:12-07:00</published>
+    <updated>2018-04-17T12:56:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/gulfstream-paris-nail-bar-u-shaped-combo-1-salon-furniture"/>
+    <title>Gulfstream- Paris Nail Bar U-Shaped Combo 1 -Salon Furniture</title>
+    <s:type>Spa Furniture</s:type>
+    <s:vendor>Gulfstream</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Paris-Nail-Bar-U-Shaped-Combo-1_1.jpg?v=1523995398"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gulfstream<br>
+        <strong>Type: </strong>Spa Furniture<br>
+        <strong>Price: </strong>
+            5502.75 - 6459.75
+            <a href="https://www.breizh.ca/products/gulfstream-paris-nail-bar-u-shaped-combo-1-salon-furniture">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">THE VERSATILE PARIS NAIL BAR HIGHLIGHTING CANADIAN CRAFTSMANSHIP.
+<p><span>Introducing Gulfstream’s newest addition:</span><br><span>The versatile Paris Nail Bar highlighting Canadian craftsmanship.</span><br><span>The Paris Nail Bar, a nail bar that is constructed with modular units, giving multiple combination choices allowing flexibility to create your own unique style. Eye-catching sophistication.</span><br><span>This product consists of 2 corners and 3 straight units with the standard flat, square corner, overlay finish on the cabinet ends, or upgrade to the curved radius corner overlay finish, as shown.</span><br><span>Optional UV light cut-outs.</span><br><span>Available in 3 standard laminate choices: Caramel Maple, Prestige Maple, and Truffle. Upgrade to White or Black Gloss Laminate as an available option.</span></p>
+<p> </p>
+<p style="text-align: center;"><span><iframe width="397" height="223" src="https://www.youtube.com/embed/8O1U8Hq2B4Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gulfstream</s:tag>
+    <s:tag>Manicure</s:tag>
+    <s:tag>Paris</s:tag>
+    <s:tag>Paris Nail Bar</s:tag>
+    <s:tag>Spa</s:tag>
+    <s:tag>U-Shaped</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747222663256</id>
+      <title>Prestige Maple</title>
+      <s:price currency="CAD">5502.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747222663256</id>
+      <title>Caramel Maple</title>
+      <s:price currency="CAD">5502.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747222663256</id>
+      <title>Truffle</title>
+      <s:price currency="CAD">5502.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747222663256</id>
+      <title>White Gloss</title>
+      <s:price currency="CAD">6459.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747222663256</id>
+      <title>Black Gloss</title>
+      <s:price currency="CAD">6459.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/747221221464</id>
+    <published>2018-04-17T12:50:26-07:00</published>
+    <updated>2018-04-17T12:50:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/gulfstream-chiq-quilted-tube-chair-salon-furniture"/>
+    <title>Gulfstream- Chiq Quilted Tube Chair -Salon Furniture</title>
+    <s:type>Spa Furniture</s:type>
+    <s:vendor>Gulfstream</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/ChiQ-Quilted-Tube-Chair_4-min.jpg?v=1523994920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gulfstream<br>
+        <strong>Type: </strong>Spa Furniture<br>
+        <strong>Price: </strong>
+            379.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GS9057 – CHIQ QUILTED TUBE CHAIR<br>
+<div>A new tufted style, comfortable customer chair on wheels.</div>
+<div>A sleek, classy look for a low cost that will please you and your clients.</div>
+<div>Available in two colors truffle and butterscotch.</div>
+<div></div>
+<div></div>
+<div style="text-align: center;"><iframe width="397" height="223" src="https://www.youtube.com/embed/8O1U8Hq2B4Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chair</s:tag>
+    <s:tag>Chiq</s:tag>
+    <s:tag>Gs9057</s:tag>
+    <s:tag>Gulfstream</s:tag>
+    <s:tag>Quilted</s:tag>
+    <s:tag>Tube</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747221221464</id>
+      <title>Butterscotch</title>
+      <s:price currency="CAD">379.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747221221464</id>
+      <title>Truffle</title>
+      <s:price currency="CAD">379.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/747219714136</id>
+    <published>2018-04-17T11:06:32-07:00</published>
+    <updated>2018-04-17T11:06:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/gulfstream-sonoma-reception-salon-furniture"/>
+    <title>Gulfstream- SONOMA RECEPTION -Salon Furniture</title>
+    <s:type>Spa Furniture</s:type>
+    <s:vendor>Gulfstream</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Sonoma-Reception_Oct2017_1-min.jpg?v=1523994617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gulfstream<br>
+        <strong>Type: </strong>Spa Furniture<br>
+        <strong>Price: </strong>
+            1943.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Gs 9107 – Sonoma Reception.</span><br><span>Color: Mahogany<br>Top Granite: Sonoma Quartz<br>Dimension: Length 73’’ X Width 24’’ X Height 46’’<br>Metallic Gold Trims, Cable Grommet On Desk, “Reception” Lettering Optional</span>
+<p style="text-align: center;"><span> </span></p>
+<p style="text-align: center;"><span><iframe width="397" height="223" src="https://www.youtube.com/embed/8O1U8Hq2B4Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9107</s:tag>
+    <s:tag>Gulfstream</s:tag>
+    <s:tag>Reception</s:tag>
+    <s:tag>Sonoma</s:tag>
+    <s:tag>Sonoma Furniture</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747219714136</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1943.50</s:price>
+      <s:sku>GS 9107 - SONOMA RECEPTION</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/747007115352</id>
+    <published>2018-04-16T13:21:06-07:00</published>
+    <updated>2018-04-16T13:21:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/gulfstream-gs9020-tech-stool-salon-furniture"/>
+    <title>Gulfstream- Gs9020 Tech Stool -Salon Furniture</title>
+    <s:type>Spa Furniture</s:type>
+    <s:vendor>Gulfstream</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Gs9020-Tech-Stool_Butterscotch-min.jpg?v=1523910397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gulfstream<br>
+        <strong>Type: </strong>Spa Furniture<br>
+        <strong>Price: </strong>
+            143.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>GS9020 TECH STOOL.</h4>
+<div class="post_video youtube"><span>This well-padded technician’s stool comes available in three lustrous leatherette colors; and is a well-added complement to your decor, as well as your pedicurist.</span></div>
+<div class="post_video youtube"><span>Weight 21 lbs.</span></div>
+<div class="post_video youtube"><span>Dimensions 28 x 20 x 20 in.</span></div>
+<div class="post_video youtube"><span></span></div>
+<div class="post_video youtube"><span></span></div>
+<div class="post_video youtube" style="text-align: center;"><span><iframe width="397" height="223" src="https://www.youtube.com/embed/8O1U8Hq2B4Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gs9020</s:tag>
+    <s:tag>Gulfstream</s:tag>
+    <s:tag>Tech Stool</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747007115352</id>
+      <title>Butterscotch</title>
+      <s:price currency="CAD">143.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>9525</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747007115352</id>
+      <title>Truffle</title>
+      <s:price currency="CAD">143.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>9525</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747007115352</id>
+      <title>Hollyhock</title>
+      <s:price currency="CAD">143.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>9525</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/747006885976</id>
+    <published>2018-04-16T13:13:32-07:00</published>
+    <updated>2018-04-16T13:13:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/gulfstream-gs9014-spider-stool-salon-furniture"/>
+    <title>Gulfstream- Gs9014 Spider Stool -Salon Furniture</title>
+    <s:type>Spa Furniture</s:type>
+    <s:vendor>Gulfstream</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Gs9014-Spider-Stool_Black-min.jpg?v=1523910051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gulfstream<br>
+        <strong>Type: </strong>Spa Furniture<br>
+        <strong>Price: </strong>
+            113.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span id="ctl00_main_LblProductSummary" class="TxtNormal">GS9014 SPIDER STOOL.<br>COMPLIMENT YOUR SALON WITH A MATCHING SPIDER STOOL</span>.
+<div>Available four combine colors as standard. Available in eight standard colors<br>Limited colors available while quantities last.<br>Please call for information.</div>
+<div><span>Weight 21 lbs</span></div>
+<div><span>Dimensions 19 x 18 x 18 in</span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div style="text-align: center;"><span><iframe width="397" height="223" src="https://www.youtube.com/embed/8O1U8Hq2B4Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></span></div>
+<div><span></span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gs9014</s:tag>
+    <s:tag>Gulfstream</s:tag>
+    <s:tag>Spider Stool</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747006885976</id>
+      <title>Butterscotch</title>
+      <s:price currency="CAD">113.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>9525</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747006885976</id>
+      <title>Hollyhock</title>
+      <s:price currency="CAD">113.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>9525</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747006885976</id>
+      <title>Truffle</title>
+      <s:price currency="CAD">113.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>9525</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747006885976</id>
+      <title>Black</title>
+      <s:price currency="CAD">113.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>9525</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747006885976</id>
+      <title>Curry</title>
+      <s:price currency="CAD">113.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>9525</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747006885976</id>
+      <title>Burgundy</title>
+      <s:price currency="CAD">113.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>9525</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747006885976</id>
+      <title>sand</title>
+      <s:price currency="CAD">113.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>9525</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747006885976</id>
+      <title>Pink</title>
+      <s:price currency="CAD">113.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>9525</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/747006394456</id>
+    <published>2018-04-16T13:09:00-07:00</published>
+    <updated>2018-04-16T13:09:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/gulfstream-sonoma-single-nail-table-salon-furniture"/>
+    <title>Gulfstream- Sonoma Single Nail Table -Salon Furniture</title>
+    <s:type>Spa Furniture</s:type>
+    <s:vendor>Gulfstream</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Sonoma-Single-Nail-Table_Oct2017_1-min.jpg?v=1523909572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gulfstream<br>
+        <strong>Type: </strong>Spa Furniture<br>
+        <strong>Price: </strong>
+            539.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Gs 9102 – Sonoma Single Nail Table.</span></p>
+<p><span>Color: Mahogany<br>Top Granite: Sonoma Quartz<br>Dimension: Length 39.75’’ X Width 17’’ X Height 30.50’’</span></p>
+<p style="text-align: center;"><span><iframe width="397" height="223" src="https://www.youtube.com/embed/8O1U8Hq2B4Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9102</s:tag>
+    <s:tag>Gulfstream</s:tag>
+    <s:tag>Single</s:tag>
+    <s:tag>Single Nail Table</s:tag>
+    <s:tag>Sonoma</s:tag>
+    <s:tag>Sonoma Furniture</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747006394456</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">539.35</s:price>
+      <s:sku>GS 9102 - SONOMA SINGLE NAIL TABLE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/747005837400</id>
+    <published>2018-04-16T13:01:49-07:00</published>
+    <updated>2018-04-16T13:01:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/gulfstream-sonoma-nail-dryer-salon-furniture"/>
+    <title>Gulfstream- SONOMA NAIL DRYER -Salon Furniture</title>
+    <s:type>Spa Furniture</s:type>
+    <s:vendor>Gulfstream</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/sonoma_nail_dryer.PNG?v=1523909278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gulfstream<br>
+        <strong>Type: </strong>Spa Furniture<br>
+        <strong>Price: </strong>
+            1194.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Gs 9106 – Sonoma Nail Dryer.</span><br><span>Top Granite: Sonoma Quartz</span><br><span>Dimension: Length 59’’ X Width 16’’ X Height 39.50’’</span><br><span>Metallic Gold Top Trim, Price Includes Electrical Hardware (No Light Bulbs)</span></p>
+<p> </p>
+<p style="text-align: center;"><em>﻿<iframe width="397" height="223" src="https://www.youtube.com/embed/8O1U8Hq2B4Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9106</s:tag>
+    <s:tag>Gulfstream</s:tag>
+    <s:tag>Nail Dryer</s:tag>
+    <s:tag>Sonoma</s:tag>
+    <s:tag>Sonoma Furniture</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747005837400</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1194.85</s:price>
+      <s:sku>GS 9106 - SONOMA NAIL DRYER</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/747004264536</id>
+    <published>2018-04-16T12:50:31-07:00</published>
+    <updated>2018-04-16T12:50:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/gulfstream-sonoma-double-nail-table-salon-furniture"/>
+    <title>Gulfstream- SONOMA DOUBLE NAIL TABLE -Salon Furniture</title>
+    <s:type>Spa Furniture</s:type>
+    <s:vendor>Gulfstream</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Sonoma-Double-Nail-Table_Oct2017_1-min.jpg?v=1523908889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gulfstream<br>
+        <strong>Type: </strong>Spa Furniture<br>
+        <strong>Price: </strong>
+            999.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Gs 9103 – Sonoma Double Nail Table.</span><br><span>Color: Mahogany<br>Top Granite: Sonoma Quartz<br>Dimension: Length 68.50’’ X Width 17’’ X Height 30.50’’</span>
+<p><span> </span></p>
+<p style="text-align: center;"><span><iframe width="397" height="223" src="https://www.youtube.com/embed/8O1U8Hq2B4Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Double</s:tag>
+    <s:tag>Gulfstream</s:tag>
+    <s:tag>Nail Table</s:tag>
+    <s:tag>Sonoma</s:tag>
+    <s:tag>Sonoma Furniture</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747004264536</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">999.35</s:price>
+      <s:sku>GS 9103 - SONOMA DOUBLE NAIL TABLE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/747002822744</id>
+    <published>2018-04-16T12:44:27-07:00</published>
+    <updated>2018-04-16T12:44:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/gulfstream-la-messina-salon-furniture"/>
+    <title>Gulfstream- La Messina -Salon Furniture</title>
+    <s:type>Spa Furniture</s:type>
+    <s:vendor>Gulfstream</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/La-Messina_1-min.jpg?v=1523908212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gulfstream<br>
+        <strong>Type: </strong>Spa Furniture<br>
+        <strong>Price: </strong>
+            1033.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ADJUSTABLE CHAIR OPTIONS PROVIDE YOUR CLIENT’S COMFORT AND FOR YOU TO WORK EASIER.
+<div class="post_video youtube">
+<div>
+<div>Adjustable chair positions provide comfort for both your clients and technicians.</div>
+<div>Back and Front levers allow you to recline the back to various comfort levels- from straight to 180-degrees flat.</div>
+</div>
+<div>
+<p>Mini Lavender measures at 74″ Length, 30″ Width, 32″ Height; approx. 100 lbs. (without the jet 18 lbs.)</p>
+<p><span>• One Chair - Multi-Purpose Services</span><br><span>• Facial and Body Massage</span><br><span>• Eyelash and Eyebrow Treatments</span><br><span>• Waxing</span> </p>
+<p style="text-align: center;"><span><iframe width="397" height="223" src="https://www.youtube.com/embed/H09f5hPTbUs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></span></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyebrow</s:tag>
+    <s:tag>Eyelash</s:tag>
+    <s:tag>Facial</s:tag>
+    <s:tag>Gulfstream</s:tag>
+    <s:tag>La Messina</s:tag>
+    <s:tag>Massage</s:tag>
+    <s:tag>Multi Purpose</s:tag>
+    <s:tag>Spa</s:tag>
+    <s:tag>Waxing</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747002822744</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1033.85</s:price>
+      <s:sku>La Messina</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/747000299608</id>
+    <published>2018-04-16T12:34:38-07:00</published>
+    <updated>2018-04-16T12:34:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/gulfstream-ez-back-zero-gravity-chair-salon-furniture"/>
+    <title>Gulfstream- Ez Back Zero Gravity Chair -Salon Furniture</title>
+    <s:type>Spa Furniture</s:type>
+    <s:vendor>Gulfstream</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Ez-Back-Zero-Gravity-Chair_1-min.jpg?v=1523907695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gulfstream<br>
+        <strong>Type: </strong>Spa Furniture<br>
+        <strong>Price: </strong>
+            1148.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LUXURIOUS, RELIABLE, COMFORTABLE. GREAT FOR MANICURE, PEDICURE, WAXING, FACIAL, AND EYELASH EXTENSIONS.
+<div>• Luxurious, Reliable, Comfortable</div>
+<div>• Great for manicures, pedicures, waxing, facials, and eyelash extensions</div>
+<div>• Vibrating massage and roller massage options</div>
+<div>• Two separate remote controls, one for the customer and one for the technician</div>
+<div>• Elevate customer’s feet to a comfortable position for technicians</div>
+<div>• Not just for nail salons,  Zero Gravity Chairs have been used and loved by many in the last 10 years, for watching TV, reading, relaxing or sleeping.</div>
+<div>
+<span>• One Chair - Multi-Purpose Services</span><br><span>• Facial and Body Massage</span><br><span>• Eyelash and Eyebrow Treatments</span><br><span>• Waxing</span><br><span>• Invented by NASA engineers</span><br><span>• Virtually no pressure on the lower back</span><br><span>• May eliminates back pain</span><br><span>• May ease pressure on the heart and expand lung capacity</span><br><span>• May lower blood pressure and heart rate</span><br><span>• May increase blood circulation and oxygen flow</span><br><span>• May reduce swelling in the legs</span><br><span>• Assists in deeper, more relaxed breathing</span><br><span>• May relieve muscle tension and helps to relax the whole body</span><br><span>• Helps to improve the sleep quality</span><br><span>• Recommended by many Chiropractors and Doctors specialized in pain management</span>
+</div>
+<div><span></span></div>
+<div><span></span></div>
+<div style="text-align: center;"><span><iframe width="397" height="223" src="https://www.youtube.com/embed/H09f5hPTbUs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyebrow</s:tag>
+    <s:tag>Eyelash</s:tag>
+    <s:tag>Ez Back Zero Gravity Chair</s:tag>
+    <s:tag>Facial</s:tag>
+    <s:tag>Gulfstream</s:tag>
+    <s:tag>Massage</s:tag>
+    <s:tag>Multi Purpose</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:tag>Spa</s:tag>
+    <s:tag>Waxing</s:tag>
+    <s:tag>Zero Gravity</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747000299608</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1148.85</s:price>
+      <s:sku>Ez Back Zero Gravity Chair</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/746999447640</id>
+    <published>2018-04-16T12:26:35-07:00</published>
+    <updated>2018-04-16T12:26:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/gulfstream-vienna-double-nail-table-salon-furniture"/>
+    <title>Gulfstream- Vienna Double Nail Table -Salon Furniture</title>
+    <s:type>Spa Furniture</s:type>
+    <s:vendor>Gulfstream</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Vienna-Double-Nail-Table_Oct2017_1-min.jpg?v=1523907259"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gulfstream<br>
+        <strong>Type: </strong>Spa Furniture<br>
+        <strong>Price: </strong>
+            2378.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span id="ctl00_main_LblProductSummary" class="TxtNormal">FROM ITS BOLD LINES AND CHIC CONTOURS INTRODUCING GULFSTREAM’S VIENNA COLLECTION.</span>
+<div class="post_video youtube">
+<div>Vienna Double Nail Table comes with Glass White Color Laminate, as well as a custom glass top.</div>
+<div>Customize your unit by adding spaces for UV drying lights. <span id="ctl00_main_LblProductSummary" class="TxtNormal">The Nail Dust Collector only available with 6 mm Clear Glass Top.</span>
+</div>
+<div>
+<div>The Vienna Double Nail Table measures to 17″ Deep, 84″ Width, 30.5″ Height.<br>Custom laminate is available upon request. Additional charges apply.</div>
+<div></div>
+<div></div>
+<div style="text-align: center;"><iframe width="397" height="223" src="https://www.youtube.com/embed/8O1U8Hq2B4Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Double</s:tag>
+    <s:tag>Gulfstream</s:tag>
+    <s:tag>Manicure</s:tag>
+    <s:tag>Nail</s:tag>
+    <s:tag>Salon</s:tag>
+    <s:tag>Stations</s:tag>
+    <s:tag>Table</s:tag>
+    <s:tag>Vienna</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/746999447640</id>
+      <title>Gloss White</title>
+      <s:price currency="CAD">2378.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/746999447640</id>
+      <title>Gloss Black</title>
+      <s:price currency="CAD">2378.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/746998595672</id>
+    <published>2018-04-16T12:18:05-07:00</published>
+    <updated>2018-04-16T12:18:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/gulfstream-paris-single-nail-table-salon-furniture"/>
+    <title>Gulfstream- Paris Single Nail Table -Salon Furniture</title>
+    <s:type>Spa Furniture</s:type>
+    <s:vendor>Gulfstream</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Paris-Single-Nail-Table_Feb2018_5.jpg?v=1523906766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gulfstream<br>
+        <strong>Type: </strong>Spa Furniture<br>
+        <strong>Price: </strong>
+            816.50 - 1016.50
+            <a href="https://www.breizh.ca/products/gulfstream-paris-single-nail-table-salon-furniture">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span id="ctl00_main_LblProductSummary" class="TxtNormal">INTRODUCING THE PARIS SINGLE NAIL TABLE FOR MANICURES DONE IN STYLE.</span>
+<div>
+<span id="ctl00_main_LblProductSummary" class="TxtNormal">Introducing the Paris Single Nail Table for manicures done in style</span>. Customize your unit by adding spaces for UV drying lights. <span id="ctl00_main_LblProductSummary" class="TxtNormal">The Nail Dust Collector only available with 6 mm Clear Glass Top.</span>
+</div>
+<div>
+<div>The Paris Single Nail Table measures to 17″ Deep, 42″ Width, 31.75″ Height.<br>Custom laminate is available upon request. Additional charges apply.</div>
+<div></div>
+<div></div>
+<div style="text-align: center;"><iframe width="397" height="223" src="https://www.youtube.com/embed/8O1U8Hq2B4Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gulfstream</s:tag>
+    <s:tag>Manicure</s:tag>
+    <s:tag>Nail</s:tag>
+    <s:tag>Paris</s:tag>
+    <s:tag>Salon</s:tag>
+    <s:tag>Single</s:tag>
+    <s:tag>Stations</s:tag>
+    <s:tag>Table</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/746998595672</id>
+      <title>Prestige Maple</title>
+      <s:price currency="CAD">816.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/746998595672</id>
+      <title>Caramel Maple</title>
+      <s:price currency="CAD">816.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/746998595672</id>
+      <title>Truffle</title>
+      <s:price currency="CAD">816.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/746998595672</id>
+      <title>White Gloss</title>
+      <s:price currency="CAD">1016.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/746998595672</id>
+      <title>Black Gloss</title>
+      <s:price currency="CAD">1016.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/746997186648</id>
+    <published>2018-04-16T11:30:56-07:00</published>
+    <updated>2018-04-16T11:30:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/gulfstream-paris-double-nail-table-salon-furniture"/>
+    <title>Gulfstream- Paris Double Nail Table -Salon Furniture</title>
+    <s:type>Spa Furniture</s:type>
+    <s:vendor>Gulfstream</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Paris-Double-Nail-Table_Oct2017_1-min.jpg?v=1523906068"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gulfstream<br>
+        <strong>Type: </strong>Spa Furniture<br>
+        <strong>Price: </strong>
+            1309.85 - 1589.85
+            <a href="https://www.breizh.ca/products/gulfstream-paris-double-nail-table-salon-furniture">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span id="ctl00_main_LblProductSummary" class="TxtNormal">INTRODUCING THE PARIS DOUBLE NAIL TABLE FOR MANICURES DONE IN STYLE.</span>
+<div>
+<span id="ctl00_main_LblProductSummary" class="TxtNormal">Introducing the Paris Double Nail Table for manicures done in style</span>. Customize your unit by adding spaces for UV drying lights. <span id="ctl00_main_LblProductSummary" class="TxtNormal">The Nail Dust Collector only available with 6 mm Clear Glass Top.</span>
+</div>
+<div>
+<div>The Paris Double Nail Table measures to 17″ Deep, 84″ Width, 30.5″ Height.</div>
+<div></div>
+<div></div>
+<div style="text-align: center;"><iframe width="397" height="223" src="https://www.youtube.com/embed/8O1U8Hq2B4Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Double</s:tag>
+    <s:tag>Gulfstream</s:tag>
+    <s:tag>Manicure</s:tag>
+    <s:tag>Nail</s:tag>
+    <s:tag>Paris</s:tag>
+    <s:tag>Salon</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:tag>Stations</s:tag>
+    <s:tag>table</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/746997186648</id>
+      <title>Prestige Maple</title>
+      <s:price currency="CAD">1309.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/746997186648</id>
+      <title>Caramel Maple</title>
+      <s:price currency="CAD">1309.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/746997186648</id>
+      <title>Truffle</title>
+      <s:price currency="CAD">1309.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/746997186648</id>
+      <title>White Gloss</title>
+      <s:price currency="CAD">1589.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/746997186648</id>
+      <title>Black Gloss</title>
+      <s:price currency="CAD">1589.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/746553213016</id>
+    <published>2018-04-13T16:12:39-07:00</published>
+    <updated>2018-04-13T16:12:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/gulfstream-la-vicenza-mirror-salon-furniture"/>
+    <title>Gulfstream- La Vicenza Mirror -Salon Furniture</title>
+    <s:type>Spa Furniture</s:type>
+    <s:vendor>Gulfstream</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/La-Vicenza-Mirror_Oct2017_1-min-1.jpg?v=1523661435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gulfstream<br>
+        <strong>Type: </strong>Spa Furniture<br>
+        <strong>Price: </strong>
+            1207.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>LA VICENZA MIRROR.</h4>
+<p> </p>
+<p style="text-align: center;"><iframe width="397" height="223" src="https://www.youtube.com/embed/H09f5hPTbUs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Gulfstream</s:tag>
+    <s:tag>hair salon</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>Multi Purpose</s:tag>
+    <s:tag>Salon.</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/746553213016</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1207.50</s:price>
+      <s:sku>La Vicenza Mirror</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/746552918104</id>
+    <published>2018-04-13T16:03:23-07:00</published>
+    <updated>2018-04-13T16:03:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/gulfstream-gs9062-faenza-hair-wash-station-salon-furniture"/>
+    <title>Gulfstream- Gs9062 - Faenza Hair Wash Station -Salon Furniture</title>
+    <s:type>Spa Furniture</s:type>
+    <s:vendor>Gulfstream</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Faenza-Shampoo-Station_1-min.jpg?v=1523661099"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gulfstream<br>
+        <strong>Type: </strong>Spa Furniture<br>
+        <strong>Price: </strong>
+            1124.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">GS9062 – FAENZA HAIR WASH STATION.<br>
+<div>
+<div>
+<div>
+<span id="ctl00_main_DataList6_ctl01_Label1"></span>Gulfstream’s deluxe wash unit features a tilting shampoo bowl designed for maximum client comfort, and a black upholstered chair with a manually adjustable leg rest. Package includes faucet, hose and drains assembly.</div>
+<div>
+<div>
+<div></div>
+</div>
+</div>
+</div>
+</div>
+<div>Please contact us for shipping charges and other details.</div>
+<div></div>
+<div></div>
+<div style="text-align: center;"><iframe width="397" height="223" src="https://www.youtube.com/embed/H09f5hPTbUs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Faenza</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Gs9062</s:tag>
+    <s:tag>Gulfstream</s:tag>
+    <s:tag>hair salon</s:tag>
+    <s:tag>Hair Wash Station</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>Multi Purpose</s:tag>
+    <s:tag>Salon</s:tag>
+    <s:tag>Spa</s:tag>
+    <s:tag>Styling.</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/746552918104</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1124.70</s:price>
+      <s:sku>Gs9062 - Faenza Hair Wash Station</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/746551967832</id>
+    <published>2018-04-13T15:54:51-07:00</published>
+    <updated>2018-04-13T15:54:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/gulfstream-gs9058-02-cirus-2-styling-salon-chair-salon-furniture"/>
+    <title>Gulfstream- Gs9058-02 - Cirus 2 Styling Salon Chair -Salon Furniture</title>
+    <s:type>Spa Furniture</s:type>
+    <s:vendor>Gulfstream</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Cirus-2-Styling-Salon-Chair_Sept2017_1.jpg?v=1523660431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gulfstream<br>
+        <strong>Type: </strong>Spa Furniture<br>
+        <strong>Price: </strong>
+            632.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Gs9058-02<span> </span>– Cirus 2 Styling Chair features elegant curves, comfortable seat cushion, and a graceful shaped hydraulic pump.<br>
+<div class="post_video youtube">
+<div>
+<div>It has a floating backrest for an easy clean and comes in two great colors with an optional footrest.</div>
+</div>
+<div>Please contact us for shipping charges and other details.</div>
+<div></div>
+<div></div>
+<div style="text-align: center;"><iframe width="397" height="223" src="https://www.youtube.com/embed/H09f5hPTbUs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cirus</s:tag>
+    <s:tag>Cirus 2</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Gulfstream</s:tag>
+    <s:tag>hair salon</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>Multi Purpose</s:tag>
+    <s:tag>Salon</s:tag>
+    <s:tag>Spa</s:tag>
+    <s:tag>Spa Chair</s:tag>
+    <s:tag>Styling.</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/746551967832</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">632.50</s:price>
+      <s:sku>Gs9058-02 - Cirus 2 Styling Salon Chair</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/746551115864</id>
+    <published>2018-04-13T15:28:59-07:00</published>
+    <updated>2018-04-13T15:28:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/gulfstream-paris-reception-desk-69-inch-salon-furniture"/>
+    <title>Gulfstream- Paris Reception Desk (69 Inch) -Salon Furniture</title>
+    <s:type>Spa Furniture</s:type>
+    <s:vendor>Gulfstream</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Paris-Reception-Desk-69-Inch_Jan2018_1.jpg?v=1523659862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gulfstream<br>
+        <strong>Type: </strong>Spa Furniture<br>
+        <strong>Price: </strong>
+            1863.00 - 2243.00
+            <a href="https://www.breizh.ca/products/gulfstream-paris-reception-desk-69-inch-salon-furniture">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span id="ctl00_main_LblProductSummary" class="TxtNormal">GREET CLIENTS IN STYLE WITH THE NEWEST RECEPTION DESK FROM GULFSTREAM.</span>
+<div>69 inch Paris reception desk features expand your reception area. Three rich wood choices, beautiful glass colors, open door storage compartments.</div>
+<div></div>
+<div>If you have any questions about this product, product information or orders, or if you need product dimensions, please contact us.</div>
+<div></div>
+<div>– Three Rich Wood Choices</div>
+<div>– Beautiful Glass Colors</div>
+<div>– Open Door Storage Compartments</div>
+<div>– Optional Waterfall Glass Upgrade</div>
+<div>– High Privacy Counter</div>
+<div>– Modern Hardware</div>
+<div>– Generous Storage and Working Space</div>
+<div>
+<div id="product_description" class="rte">
+<p>69 inch Paris reception desk measures at 22″ Length, 69″ Width, and 47″ Height; approx.</p>
+<p> </p>
+<p style="text-align: center;"><iframe width="397" height="223" src="https://www.youtube.com/embed/8O1U8Hq2B4Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Desk</s:tag>
+    <s:tag>Gulfstream</s:tag>
+    <s:tag>Paris</s:tag>
+    <s:tag>Reception Furniture. Tags: (69 Inch)</s:tag>
+    <s:tag>Reception.</s:tag>
+    <s:tag>Salon Furniture</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/746551115864</id>
+      <title>Prestige Maple</title>
+      <s:price currency="CAD">1863.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/746551115864</id>
+      <title>Caramel Maple</title>
+      <s:price currency="CAD">1863.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/746551115864</id>
+      <title>Truffle</title>
+      <s:price currency="CAD">1863.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/746551115864</id>
+      <title>White Gloss</title>
+      <s:price currency="CAD">2243.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/746551115864</id>
+      <title>Black Gloss</title>
+      <s:price currency="CAD">2243.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

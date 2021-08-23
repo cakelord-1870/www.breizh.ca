@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.breizh.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.breizh.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.breizh.ca/collections/epillyss.atom"/>
+  <title>Breizh Esthetics &amp; Salon Supply Co.</title>
+  <updated>2017-05-12T12:22:01-07:00</updated>
+  <author>
+    <name>Breizh Esthetics &amp; Salon Supply Co.</name>
+  </author>
+  <entry>
+    <id>https://www.breizh.ca/products/7823473797</id>
+    <published>2017-05-12T12:22:01-07:00</published>
+    <updated>2017-05-12T12:22:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/epillyss-supple-sugar-paste"/>
+    <title>Épillyss - Supple Sugar Paste</title>
+    <s:type>Depilatory</s:type>
+    <s:vendor>Épillyss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/bolero_sucre_tendre.png?v=1521756713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Épillyss<br>
+        <strong>Type: </strong>Depilatory<br>
+        <strong>Price: </strong>
+            16.00 - 180.00
+            <a href="https://www.breizh.ca/products/epillyss-supple-sugar-paste">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made of sugar, lemon juice and water, and does not contain chemical additives. Avoids the discomfort that might even cause tendonitis to the person who provides this service.</p>
+<p>The Épillyss sugar is applied at body temperature; it only adheres to the hair and not to the skin and ensures a comfortable application and gentle removal. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7823473797</id>
+      <title>560ml</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>EPILLYSS-00001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7823473797</id>
+      <title>Case of 15 x 560ml</title>
+      <s:price currency="CAD">180.00</s:price>
+      <s:sku>EPILLYSS-00002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7823222853</id>
+    <published>2017-05-12T11:52:26-07:00</published>
+    <updated>2017-05-12T11:52:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/epillyss-prohibit-post-depilatory-roll-on-serum"/>
+    <title>Épillyss -Prohibit Post-Depilatory Roll-On Serum</title>
+    <s:type>Depilatory</s:type>
+    <s:vendor>Épillyss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/prohitbit_115ml_web.jpg?v=1521756705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Épillyss<br>
+        <strong>Type: </strong>Depilatory<br>
+        <strong>Price: </strong>
+            15.00 - 39.90
+            <a href="https://www.breizh.ca/products/epillyss-prohibit-post-depilatory-roll-on-serum">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Slows hair regrowth ÉPILLYSS PROHIBIT serum is an effective product for fighting hair regrowth, acting over time to thin out and weaken hair by destroying the chemical bonds of hair follicle as it forms. At its base, the hair bulb contains an area where cells are divided, called the hair matrix.</span></p>
+<p><span> Each cell divides every 39 hours, creating a new cell which is pushed upwards as other cells are formed and gradually strengthened by keratin in the upper part of the hair bulb. Therefore, it’s recommended that ÉPILLYSS PROHIBIT serum be applied during these 39 hours following hair removal to prevent cellular division that produces hair. Results may be visible within 45 days, depending on the individual. ÉPILLYSS PROHIBIT serum also prevents undesirable skin reactions in sensitive areas and on men’s backs.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7823222853</id>
+      <title>115ml</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>EPILLYSS-00003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7823222853</id>
+      <title>Case of 3 x 115ml</title>
+      <s:price currency="CAD">39.90</s:price>
+      <s:sku>EPILLYSS-00004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7823175685</id>
+    <published>2017-05-12T11:45:31-07:00</published>
+    <updated>2017-05-12T11:45:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/epillyss-azulen-post-depilatory-oil"/>
+    <title>Épillyss - Azulen Post-Depilatory Oil</title>
+    <s:type>Depilatory</s:type>
+    <s:vendor>Épillyss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/azulene_500ml-web.jpg?v=1521756645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Épillyss<br>
+        <strong>Type: </strong>Depilatory<br>
+        <strong>Price: </strong>
+            12.00 - 99.75
+            <a href="https://www.breizh.ca/products/epillyss-azulen-post-depilatory-oil">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Available Sizes:</span></p>
+<ul>
+<li>518ml</li>
+<li>3L</li>
+</ul>
+<p><span>Superior moisturizing action Post‑depilatory AZULEN OIL has been formulated to gently cleanse, soothe and soften skin, while providing an anti‑inflammatory effect. Made of light, penetrating and refined oil, it calms irritated and sensitive skin after hair removal, while removing any wax residue.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7823175685</id>
+      <title>518ml</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>EPILLYSS-00007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7823175685</id>
+      <title>Case of 3 x 518ml</title>
+      <s:price currency="CAD">34.20</s:price>
+      <s:sku>EPILLYSS-00008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7823175685</id>
+      <title>3L</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>EPILLYSS-00009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7823175685</id>
+      <title>Case of 3 x 3L</title>
+      <s:price currency="CAD">99.75</s:price>
+      <s:sku>EPILLYSS-00010</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7823148421</id>
+    <published>2017-05-12T11:41:41-07:00</published>
+    <updated>2017-05-12T11:41:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/epillyss-vitamen-e-biological-cream"/>
+    <title>Épillyss - Vitamen E Biological Cream</title>
+    <s:type>Depilatory</s:type>
+    <s:vendor>Épillyss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/BIO_VE_M.jpg?v=1521756698"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Épillyss<br>
+        <strong>Type: </strong>Depilatory<br>
+        <strong>Price: </strong>
+            9.00 - 59.85
+            <a href="https://www.breizh.ca/products/epillyss-vitamen-e-biological-cream">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Available Sizes:</span></p>
+<ul>
+<li>115g</li>
+<li>500g</li>
+</ul>
+<p><span>For optimal regeneration of skin cells An organic skin‑softening vitamin E cream containing high‑quality natural ingredients that moisturize and calm skin. It will soften and sooth even the most sensitive or irritated skin. Daily use of VITAMINE E BIOLOGICAL CREAM is recommended between hair removal treatments to maintain skin health.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7823148421</id>
+      <title>115g</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>EPILLYSS-00011</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7823148421</id>
+      <title>Case of 3 x 115g</title>
+      <s:price currency="CAD">25.65</s:price>
+      <s:sku>EPILLYSS-00012</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7823148421</id>
+      <title>500g</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>EPILLYSS-00013</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7823148421</id>
+      <title>Case of 3 x 500g</title>
+      <s:price currency="CAD">59.85</s:price>
+      <s:sku>EPILLYSS-00014</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7823120837</id>
+    <published>2017-05-12T11:36:29-07:00</published>
+    <updated>2017-05-12T11:36:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/epillyss-aloe-gel"/>
+    <title>Épillyss - Aloe Gel</title>
+    <s:type>Depilatory</s:type>
+    <s:vendor>Épillyss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/GEL_ALOES_M.jpg?v=1521756645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Épillyss<br>
+        <strong>Type: </strong>Depilatory<br>
+        <strong>Price: </strong>
+            11.95 - 71.25
+            <a href="https://www.breizh.ca/products/epillyss-aloe-gel">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description_text">Available Sizes:</div>
+<div class="description_text">
+<ul>
+<li>115ml</li>
+<li>500ml</li>
+</ul>
+</div>
+<div class="description_text">For a soothing, refreshing effect Aloe Vera has been used by Arabic and African cultures since the Middle Ages for its ability to sooth and heal skin.</div>
+<div class="description_text">ÉPILLYSS ALOE POST‑DEPILATORY GEL was developed to disinfect and soothe the skin after hair removal. It’s particularly recommended for highly sensitive parts of the body. ÉPILLYSS ALOE POST‑DEPILATORY GEL leaves a cooling sensation on the skin, similar to the feeling of a cold compress. Its gel texture quickly penetrates the skin, producing an immediate and long‑lasting effect. We recommend storing it in a cold place to optimize its cooling aspect.</div>
+<div class="description_text">ÉPILLYSS ALOE POST‑DEPILATORY GEL gives you the opportunity to provide exceptional care that will set you apart from the competition. After application, you can also use our VITAMINE E BIOLOGICAL CREAM for maximum hydration. ÉPILLYSS ALOE POST‑DEPILATORY GEL can also be used after laser hair removal, exfoliation and injection treatments, or after an irritating treatment such as microdermabrasion. The gel can also be used during galvanic electrotherapy treatments to soothe skin and allow the esthetician to provide a unique, personalized experience.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7823120837</id>
+      <title>115ml</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>EPILLYSS-00015</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7823120837</id>
+      <title>Case of 3 x 115ml</title>
+      <s:price currency="CAD">25.65</s:price>
+      <s:sku>EPILLYSS-00016</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7823120837</id>
+      <title>500ml</title>
+      <s:price currency="CAD">25.95</s:price>
+      <s:sku>EPILLYSS-00017</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7823120837</id>
+      <title>Case of 3 x 500ml</title>
+      <s:price currency="CAD">71.25</s:price>
+      <s:sku>EPILLYSS-00018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7823074757</id>
+    <published>2017-05-12T11:32:40-07:00</published>
+    <updated>2017-05-12T11:32:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/epillyss-pre-depilatory-microtalc"/>
+    <title>Épillyss - Pre-Depilatory Microtalc</title>
+    <s:type>Depilatory</s:type>
+    <s:vendor>Épillyss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/MICROTALC_nouvelle-bouteille.jpg?v=1521756680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Épillyss<br>
+        <strong>Type: </strong>Depilatory<br>
+        <strong>Price: </strong>
+            9.00 - 28.50
+            <a href="https://www.breizh.ca/products/epillyss-pre-depilatory-microtalc">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>For the optimal preparation of clammy or damp skin. Made with pure natural minerals, MICROTALC is fragrance and additive free and has an extremely fine texture—nothing like the coarse, heavily‑scented powders currently on the market. MICROTALC is specifically designed to trap sweat molecules often present in the bikini and underarm areas. It can also be used to create a protective barrier on sensitive areas of the face before hair removal.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7823074757</id>
+      <title>115g</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>EPILLYSS-00019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7823074757</id>
+      <title>Case of 3 x 115g</title>
+      <s:price currency="CAD">25.65</s:price>
+      <s:sku>EPILLYSS-00020</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7823074757</id>
+      <title>240g</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>EPILLYSS-00021</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7823074757</id>
+      <title>Case of 3 x 240g</title>
+      <s:price currency="CAD">28.50</s:price>
+      <s:sku>EPILLYSS-00022</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7823037381</id>
+    <published>2017-05-12T11:26:15-07:00</published>
+    <updated>2017-05-12T11:26:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/epillyss-pre-depilatory-lotion"/>
+    <title>Épillyss - Pre-Depilatory Lotion</title>
+    <s:type>Depilatory</s:type>
+    <s:vendor>Épillyss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/PPRE_EPILATOIRE_M.jpg?v=1521756676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Épillyss<br>
+        <strong>Type: </strong>Depilatory<br>
+        <strong>Price: </strong>
+            9.95 - 57.00
+            <a href="https://www.breizh.ca/products/epillyss-pre-depilatory-lotion">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Available sizes:</span></p>
+<ul>
+<li>115ml</li>
+<li>518ml</li>
+<li>3L</li>
+</ul>
+<p><span>Disinfects skin without drying it. Ideal before or after waxing or for electrolysis. ÉPILLYSS pre‑depilatory lotion is the ideal product for disinfecting skin before and after hair removal treatments, such as waxing or electrolysis.</span></p>
+<p><span> It contains benzalkonium chloride, which is a powerful antiseptic that is extremely effective against germs, bacteria and yeast. </span></p>
+<p><span>This lotion does not contain any alcohol or alcohol derivatives which could irritate or dry skin. Furthermore, it does not cause skin follicles to constrict resulting in less discomfort during waxing session and making the insertion of electrolysis needle an easier task.  We recommend that you offer clients the option of applying the lotion to intimate parts themselves prior to the treatment.</span></p>
+<p><span> ÉPILLYSS pre‑depilatory lotion can also be used to disinfect feet and is highly effective in eliminating undesirable odors. As you can see, ÉPILLYSS pre‑depilatory lotion is an essential part of the hair removal process.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7823037381</id>
+      <title>115ml</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>EPILLYSS-00023</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7823037381</id>
+      <title>Case of 3 x 115ml</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>EPILLYSS-00024</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7823037381</id>
+      <title>518ml</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>EPILLYSS-00025</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7823037381</id>
+      <title>Case of 3 x 518ml</title>
+      <s:price currency="CAD">25.65</s:price>
+      <s:sku>EPILLYSS-00026</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7823037381</id>
+      <title>3L</title>
+      <s:price currency="CAD">21.95</s:price>
+      <s:sku>EPILLYSS-00027</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7823037381</id>
+      <title>Case of 3 x 3L</title>
+      <s:price currency="CAD">57.00</s:price>
+      <s:sku>EPILLYSS-00028</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7822907717</id>
+    <published>2017-05-12T11:20:40-07:00</published>
+    <updated>2017-05-12T11:20:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/epillyss-honey-wax"/>
+    <title>Épillyss - Honey Strip Wax</title>
+    <s:type>Waxing</s:type>
+    <s:vendor>Épillyss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Miel_M-1024x1024.jpg?v=1530569920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Épillyss<br>
+        <strong>Type: </strong>Waxing<br>
+        <strong>Price: </strong>
+            16.00 - 180.00
+            <a href="https://www.breizh.ca/products/epillyss-honey-wax">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The virtues of honey have been known and appreciated for over 4,000 years. The Egyptians used it for its antiseptic properties, and only the advent of antibiotics replaced it.</span></p>
+<p><span> NATURAL HONEY hair removal wax has a liquid consistency and an inviting honey color. It is also very easy to apply. It’s recommended for all types of hair and skin.</span></p>
+<p>It is a traditional wax made for more than thirty years to which we have added coconut oil. This oil is now widely used in the composition of new products because it’s rich in essential fatty acids, it brings soothing properties, reduces redness and is just as recommended as aloe on irritated skin. This wax is the very first of our line and still popular with fans of these original products. It is heated in the microwave oven.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7822907717</id>
+      <title>560ml</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>EPILLYSS-00029</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7822907717</id>
+      <title>Case of 15</title>
+      <s:price currency="CAD">180.00</s:price>
+      <s:sku>EPILLYSS-00030</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7812245637</id>
+    <published>2017-05-11T12:56:06-07:00</published>
+    <updated>2017-05-11T12:56:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/epillyss-azulen-wax"/>
+    <title>Épillyss - Azulen Strip Wax</title>
+    <s:type>Waxing</s:type>
+    <s:vendor>Épillyss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Azulene_M-1024x1024.jpg?v=1530569842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Épillyss<br>
+        <strong>Type: </strong>Waxing<br>
+        <strong>Price: </strong>
+            16.00 - 180.00
+            <a href="https://www.breizh.ca/products/epillyss-azulen-wax">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description_text">Hair removal wax for a gentle treatment.</div>
+<div class="description_text"> Azulen is a powerful anti‑inflammatory agent derived from German chamomile flowers, also called Matricaria. It has a dark color and strong scent as well as healing and anti‑inflammatory properties.</div>
+<div class="description_text">Numerous studies have demonstrated its remarkable effectiveness in treating various skin conditions including eczema and urticaria. AZULEN hair removal wax is apple‑green in color and has a liquid consistency. It’s easy to apply and recommended for all types of hair and skin.</div>
+<div class="description_text"></div>
+<div class="description_text"></div>
+<div class="description_text">﻿It is the second creation of the line, the goal being to soften depilatory treatments. It is a traditional wax also made for over thirty years with the original honey recipe to which we added an azulene extract. Azulene is known for its anti‑inflammatory, soothing and appealing properties. It is heated in the microwave oven. </div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7812245637</id>
+      <title>560ml</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>EPILLYSS-00031</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7812245637</id>
+      <title>Case of 15</title>
+      <s:price currency="CAD">180.00</s:price>
+      <s:sku>EPILLYSS-00032</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7812199557</id>
+    <published>2017-05-11T12:50:43-07:00</published>
+    <updated>2017-05-11T12:50:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/epillyss-sensitive-wax"/>
+    <title>Épillyss - Cocooning Strip Wax</title>
+    <s:type>Waxing</s:type>
+    <s:vendor>Épillyss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Cocooning_M-1024x1024.jpg?v=1530570170"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Épillyss<br>
+        <strong>Type: </strong>Waxing<br>
+        <strong>Price: </strong>
+            19.00 - 213.75
+            <a href="https://www.breizh.ca/products/epillyss-sensitive-wax">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description_text">A hair removal wax specially designed for sensitive skin.</div>
+<div class="description_text">Marine collagen, with its hydrating, softening and mineral‑replenishing properties, gives this hair removal wax a unique feel. This completely natural product is rich in vitamins, proteins, mineral salts and trace elements, making it a stimulating and firming addition to any hair removal treatment. With a milky texture and an inviting caramel color, SENSITIVE SKIN hair removal wax slides smoothly onto the skin and is recommended for all hair and skin types. However, it’s particularly recommended for the more sensitive skin.</div>
+<div class="description_text"></div>
+<div class="description_text"><span>This wax, formerly named Sensitive Skin due to its gentle properties, is renowned for its unique texture. It contains cottonseed oil, an oil classified "fine" for its extreme lightness giving a fluid appearance to the wax which makes it easy to apply due to its exceptionally comforting effect and texture. It is heated in the microwave oven.</span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7812199557</id>
+      <title>560ml</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku>EPILLYSS-00033</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7812199557</id>
+      <title>Case of 15</title>
+      <s:price currency="CAD">213.75</s:price>
+      <s:sku>EPILLYSS-00034</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7812161925</id>
+    <published>2017-05-11T12:48:38-07:00</published>
+    <updated>2017-05-11T12:48:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/epillyss-white-queen-wax"/>
+    <title>Épillyss - White Queen Strip Wax</title>
+    <s:type>Waxing</s:type>
+    <s:vendor>Épillyss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/ReineBlanche_M-1024x1024.jpg?v=1530570274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Épillyss<br>
+        <strong>Type: </strong>Waxing<br>
+        <strong>Price: </strong>
+            19.00 - 213.75
+            <a href="https://www.breizh.ca/products/epillyss-white-queen-wax">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our biggest seller ever, White and creamy it spreads easily and contains a special touch of Jojoba oil known for its emollient properties. This oil softens and preserves skin's moisture. Easy to apply thanks to its creamy consistency, this wax is very popular with beginners. It is heated in the microwave oven.</span></p>
+<p><span>This wax is a milky white color, thanks to a special touch of zinc oxide which has recognized antiseptic and purifying properties. It’s easy to apply and often used on acne‑ or eczema‑prone skin. Zinc oxide also protects against UV rays. </span></p>
+<p>This product, with its creamy texture, is appropriate for all hair and skin types— even the most sensitive skin.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7812161925</id>
+      <title>560ml</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku>EPILLYSS-00035</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7812161925</id>
+      <title>Case of 15</title>
+      <s:price currency="CAD">213.75</s:price>
+      <s:sku>EPILLYSS-00036</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7812136325</id>
+    <published>2017-05-11T12:44:47-07:00</published>
+    <updated>2017-05-11T12:44:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/epillyss-sensor-wax"/>
+    <title>Épillyss - Sensor Strip Wax</title>
+    <s:type>Waxing</s:type>
+    <s:vendor>Épillyss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Sensor_M-1024x1024.jpg?v=1530570403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Épillyss<br>
+        <strong>Type: </strong>Waxing<br>
+        <strong>Price: </strong>
+            19.00 - 213.75
+            <a href="https://www.breizh.ca/products/epillyss-sensor-wax">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description_text">An ultra‑comfortable wax. The use of trace elements increases adherence to hair while reducing adherence to skin. SENSOR hair removal wax has a silky texture, and its turquoise color comes from lavender, lemon and mineral extracts.</div>
+<div class="description_text">SENSOR hair removal wax has an extremely liquid consistency and can be easily applied in an ultra‑thin layer, meaning that you will use less wax per treatment. Its ease of application makes it the ideal wax for the entire bikini area.</div>
+<div class="description_text"></div>
+<div class="description_text"><span></span></div>
+<div class="description_text"><span>The presence of apricot kernel oil delivers a light texture, this wax has a gel texture and is easily applied to all skin types, its color is vibrant and its apricot scent is refreshing! It is heated in the microwave oven.</span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7812136325</id>
+      <title>560ml</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku>EPILLYSS-00037</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7812136325</id>
+      <title>Case of 15</title>
+      <s:price currency="CAD">213.75</s:price>
+      <s:sku>EPILLYSS-00038</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7812023429</id>
+    <published>2017-05-11T12:33:14-07:00</published>
+    <updated>2017-05-11T12:33:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/epillyss-freelyss-wax"/>
+    <title>Épillyss - Freelyss Strip Wax</title>
+    <s:type>Waxing</s:type>
+    <s:vendor>Épillyss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Freelyss_M-1024x1024.jpg?v=1530569735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Épillyss<br>
+        <strong>Type: </strong>Waxing<br>
+        <strong>Price: </strong>
+            23.00 - 258.75
+            <a href="https://www.breizh.ca/products/epillyss-freelyss-wax">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Environmentally‑friendly wax. </span></p>
+<p><span>FREELYSS cream answers the market demand for an environmentally‑friendly product. It’s completely natural and specifically formulated to provide hair removal treatments that don’t leave any residue on the skin. Composed of natural resin that is free of dyes, parabens and artificial fragrances, it’s the answer to increasing environmental concerns.</span></p>
+<p><span> FREELYSS cream does not create a barrier between the hair follicle and the post‑treatment product applied within 3 minutes of hair removal. This maximizes antibacterial properties of the treatment. When combined with PROHIBIT serum, it can even slow hair regrowth</span></p>
+<p><span>This wax follows current trends and meets the expectations of today's demands. It contains coconut oil, this nourishing and protective oil, soothes irritation. Freelyss is the only wax in the line that is opaque which is an asset because it adds visibility on what needs to be removed. However, it cools fast and must be used on small areas or removed quickly. It is heated in the microwave oven.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7812023429</id>
+      <title>560ml</title>
+      <s:price currency="CAD">23.00</s:price>
+      <s:sku>EPILLYSS-00039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7812023429</id>
+      <title>Case of 15</title>
+      <s:price currency="CAD">258.75</s:price>
+      <s:sku>EPILLYSS-00040</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7811969029</id>
+    <published>2017-05-11T12:30:05-07:00</published>
+    <updated>2017-05-11T12:30:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/epillyss-millenia-wax"/>
+    <title>Épillyss - Millenia Strip Wax</title>
+    <s:type>Waxing</s:type>
+    <s:vendor>Épillyss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Millenia_M-1024x1024.jpg?v=1530570500"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Épillyss<br>
+        <strong>Type: </strong>Waxing<br>
+        <strong>Price: </strong>
+            23.00 - 258.75
+            <a href="https://www.breizh.ca/products/epillyss-millenia-wax">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>In a vibrant color with captivating aromas of pineapple this wax is really different, it cools fast and must be used on small areas or removed quickly. It is loved by experts and is used on sensitive areas. It is heated in the microwave oven.</span></p>
+<p>Thanks to Bioresin C3, MILLÉNIA hair removal wax has follicle‑dilating properties that reduce discomfort and skin irritation and redness. The deep purple color of this exceptionally rich hair removal wax is due to the presence of lavender in its formula. MILLÉNIA hair removal wax is easy to apply and cools very quickly. It’s frequently used on coarse hair and on more sensitive areas such as the bikini line and underarm area.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7811969029</id>
+      <title>560ml</title>
+      <s:price currency="CAD">23.00</s:price>
+      <s:sku>EPILLYSS-00041</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7811969029</id>
+      <title>Case of 15</title>
+      <s:price currency="CAD">258.75</s:price>
+      <s:sku>EPILLYSS-00042</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7811872709</id>
+    <published>2017-05-11T12:18:47-07:00</published>
+    <updated>2017-05-11T12:18:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/epillyss-novathem-wax"/>
+    <title>Épillyss - Novathem Strip Wax</title>
+    <s:type>Waxing</s:type>
+    <s:vendor>Épillyss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Novatherm_M-1024x1024.jpg?v=1530570615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Épillyss<br>
+        <strong>Type: </strong>Waxing<br>
+        <strong>Price: </strong>
+            23.00 - 258.75
+            <a href="https://www.breizh.ca/products/epillyss-novathem-wax">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description_text">A hair removal gel with superior adherence Its unique formula rich in trace elements gives NOVATHERM hair removal gel a shiny and sparkly appearance.</div>
+<div class="description_text">NOVATHERM hair removal gel has superior adherence, allowing for hair removal just 3 days after shaving.</div>
+<div class="description_text">
+<div class="description_text">A wax gel texture, flamboyant and sparkling! With a pleasant fluidity, it is very visible at application thanks to the presence of small pearlescent and iridescent pigments, moreover its aroma of watermelon appeals especially to young people. It is an allergen‑free depilatory wax because it does not contain natural pine resin, perfect for the most sensitive skin. </div>
+<div class="description_text">
+<strong>CAUTION:</strong><span> </span>This wax does not heat up in the microwave</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7811872709</id>
+      <title>Case of 15</title>
+      <s:price currency="CAD">258.75</s:price>
+      <s:sku>EPILLYSS-00043</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7811872709</id>
+      <title>560ml</title>
+      <s:price currency="CAD">23.00</s:price>
+      <s:sku>EPILLYSS-00044</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7811789317</id>
+    <published>2017-05-11T12:08:32-07:00</published>
+    <updated>2017-05-11T12:08:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/epillyss-chocolat-wax"/>
+    <title>Épillyss - Chocolate Strip Wax</title>
+    <s:type>Waxing</s:type>
+    <s:vendor>Épillyss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/CHOCOLAT_M-1024x1024-1.jpg?v=1530570699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Épillyss<br>
+        <strong>Type: </strong>Waxing<br>
+        <strong>Price: </strong>
+            23.00 - 258.75
+            <a href="https://www.breizh.ca/products/epillyss-chocolat-wax">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A gourmet and enveloping wax with chocolate aromas. It contains Shea butter rich in essential fatty acids and vitamins that nourish, soften and protect dry skin. This wax contains no allergens and its application is very gentle and comforting.</p>
+<p><strong>CAUTION</strong>: This wax does not heat up in the microwave</p>
+<p><span>This hair removal gel is formulated with Bioresin C3 which constricts blood vessels, thus reducing discomfort, redness, and irritation. </span><span>The antioxidant effects of cocoa—due to its high concentration of vitamin E—are well known.</span></p>
+<p>CHOCOLATE hair removal gel encourages the regeneration of skin and prevents dehydration while rendering it supple, soft and toned. It has an appealing, comforting fragrance. CHOCOLATE hair removal gel has a creamy texture the color of chocolate milk. It can cover a larger surface than most waxes and is often used for more sensitive areas of the body. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7811789317</id>
+      <title>Case of 15</title>
+      <s:price currency="CAD">258.75</s:price>
+      <s:sku>EPILLYSS-00045</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7811789317</id>
+      <title>560ml</title>
+      <s:price currency="CAD">23.00</s:price>
+      <s:sku>EPILLYSS-00046</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.breizh.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.breizh.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.breizh.ca/collections/depilatory-products.atom"/>
+  <title>Breizh Esthetics &amp; Salon Supply Co.</title>
+  <updated>2019-06-19T10:04:10-07:00</updated>
+  <author>
+    <name>Breizh Esthetics &amp; Salon Supply Co.</name>
+  </author>
+  <entry>
+    <id>https://www.breizh.ca/products/3849849864280</id>
+    <published>2019-06-19T10:04:10-07:00</published>
+    <updated>2019-06-19T10:04:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/cotton-waxing-strips-50yards"/>
+    <title>Cotton Waxing strips - 50yards</title>
+    <s:type></s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">3" cotton waxing strip</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/3849849864280</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/1337760186456</id>
+    <published>2018-08-07T14:10:26-07:00</published>
+    <updated>2018-08-07T14:10:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/equipro-table-wax-paper-holder-aesthetic-and-massage-table-options"/>
+    <title>Equipro - TABLE WAX PAPER HOLDER - Aesthetic and massage table options</title>
+    <s:type>Spa Equipment</s:type>
+    <s:vendor>Equipro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/26200-600.jpg?v=1533676344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Equipro<br>
+        <strong>Type: </strong>Spa Equipment<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="product-spec-list">
+<li>Very sturdy</li>
+<li>Ideal to maximize cabin space</li>
+<li>For all models</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>massage bed</s:tag>
+    <s:tag>spa</s:tag>
+    <s:tag>Spa Chair</s:tag>
+    <s:tag>wax</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/1337760186456</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku>26200</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/1337759432792</id>
+    <published>2018-08-07T14:08:27-07:00</published>
+    <updated>2018-08-07T14:08:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/equipro-floor-wax-paper-holder-aesthetic-and-massage-table-options"/>
+    <title>Equipro - FLOOR WAX PAPER HOLDER - Aesthetic and massage table options</title>
+    <s:type>Spa Equipment</s:type>
+    <s:vendor>Equipro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/26100-600.jpg?v=1533676207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Equipro<br>
+        <strong>Type: </strong>Spa Equipment<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="product-spec-list">
+<li>Very sturdy</li>
+<li>Can hold wax paper up to 24" wide</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spa</s:tag>
+    <s:tag>wax</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/1337759432792</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>26100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/1325545193560</id>
+    <published>2018-07-27T14:18:04-07:00</published>
+    <updated>2018-07-27T14:18:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/equipro-therabath-tub-ii-wax-heaters"/>
+    <title>Equipro - THERABATH TUB II - Wax heaters</title>
+    <s:type>Spa Equipment</s:type>
+    <s:vendor>Equipro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/65100-Therabath-TubeII-1024x739.jpg?v=1532726405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Equipro<br>
+        <strong>Type: </strong>Spa Equipment<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="product-spec-list">
+<li>Heated tub for paraffin</li>
+<li>Ideal to soften the skin</li>
+<li>Included: 6 lbs of paraffin wax</li>
+<li>Choice of: peach, wintergreen, scent free</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spa</s:tag>
+    <s:tag>wax heater</s:tag>
+    <s:tag>wax warmer</s:tag>
+    <s:tag>waxing</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/1325545193560</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>65100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/1325542473816</id>
+    <published>2018-07-27T14:06:37-07:00</published>
+    <updated>2018-07-27T14:06:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/equipro-maxi-container-wax-heaters"/>
+    <title>Equipro - MAXI CONTAINER - Wax heaters</title>
+    <s:type>Spa Equipment</s:type>
+    <s:vendor>Equipro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/41200-Cas42101-1024x624.jpg?v=1532726249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Equipro<br>
+        <strong>Type: </strong>Spa Equipment<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="product-spec-list">
+<li>for hot wax</li>
+<li>aluminum container with 2 heatproof handles for duo-pil maxi only</li>
+<li>capacity of 42 oz /1200 gr</li>
+<li>wax heater not included</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spa</s:tag>
+    <s:tag>wax heater</s:tag>
+    <s:tag>waxing</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/1325542473816</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>42101</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/1325511999576</id>
+    <published>2018-07-27T13:46:11-07:00</published>
+    <updated>2018-07-27T13:46:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/equipro-duo-pil-precision-wax-heaters"/>
+    <title>Equipro - DUO-PIL PRECISION - Wax heaters</title>
+    <s:type>Spa Equipment</s:type>
+    <s:vendor>Equipro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/41202-600.jpg?v=1532724503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Equipro<br>
+        <strong>Type: </strong>Spa Equipment<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="product-spec-list">
+<li>for lukewarm and hot wax</li>
+<li>2 precise thermostats for independent temperature control</li>
+<li>2 tanks (both 4" diameter)</li>
+<li>standard hot wax tank</li>
+<li>250 watts</li>
+<li>rapid heating</li>
+<li>container not included</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spa</s:tag>
+    <s:tag>wax</s:tag>
+    <s:tag>wax heater</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/1325511999576</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>41202</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/1325504626776</id>
+    <published>2018-07-27T13:41:16-07:00</published>
+    <updated>2018-07-27T13:41:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/equipro-duo-pil-standard-wax-heaters"/>
+    <title>Equipro - DUO-PIL STANDARD - Wax heaters</title>
+    <s:type>Spa Equipment</s:type>
+    <s:vendor>Equipro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/41201-600-200x200-1.jpg?v=1532724292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Equipro<br>
+        <strong>Type: </strong>Spa Equipment<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="product-spec-list">
+<li>for lukewarm and hot wax</li>
+<li>2 precise thermostats for independent temperature control</li>
+<li>2 tanks (3 5/8" and 6" diameter)</li>
+<li>larger hot wax tank</li>
+<li>250 watts</li>
+<li>rapid heating</li>
+<li>container not included</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spa</s:tag>
+    <s:tag>wax heater</s:tag>
+    <s:tag>waxing</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/1325504626776</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>41201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/1325497024600</id>
+    <published>2018-07-27T13:36:41-07:00</published>
+    <updated>2018-07-27T13:36:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/equipro-solo-pil-maxi-4-diam-wax-heaters"/>
+    <title>Equipro - SOLO-PIL MAXI (4″ DIAM) - Wax heaters</title>
+    <s:type>Equipment</s:type>
+    <s:vendor>Equipro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/41100-1024x801.jpg?v=1532724013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Equipro<br>
+        <strong>Type: </strong>Equipment<br>
+        <strong>Price: </strong>
+            195.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="product-spec-list">
+<li>For lukewarm or hot wax</li>
+<li>Precise thermostat for temperature control</li>
+<li>125 watts</li>
+<li>Rapid heating</li>
+<li>Tank dimension 4" diameter</li>
+<li>Container not included</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spa</s:tag>
+    <s:tag>waxing</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/1325497024600</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">195.00</s:price>
+      <s:sku>41101</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/1322403627096</id>
+    <published>2018-07-25T15:27:59-07:00</published>
+    <updated>2018-07-25T15:27:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/equipro-modular-column-essential-basic-functions"/>
+    <title>Equipro - MODULAR COLUMN - Multi-functions</title>
+    <s:type>Equipment</s:type>
+    <s:vendor>Equipro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/11902-Colonne-modulaire-472x1024.jpg?v=1532557807"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Equipro<br>
+        <strong>Type: </strong>Equipment<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="product-spec-list">
+<li>column with support and plastic trays for accessories</li>
+<li>conceived to hold 2 to 4 apparatus</li>
+<li>adjustable height</li>
+<li>electric power bar 6 sockets included</li>
+<li>apparatus and base not included</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spa</s:tag>
+    <s:tag>waxing</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/1322403627096</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>11902</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/1322402349144</id>
+    <published>2018-07-25T15:22:43-07:00</published>
+    <updated>2018-07-25T15:22:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/equipro-multiderm-5-in-1-essential-basic-functions"/>
+    <title>Equipro - MULTIDERM (5 IN 1) - Multi-functions</title>
+    <s:type>Equipment</s:type>
+    <s:vendor>Equipro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/11800-600_0-300x300.jpg?v=1532557589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Equipro<br>
+        <strong>Type: </strong>Equipment<br>
+        <strong>Price: </strong>
+            3295.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="product-spec-list">
+<li>ultra modern equipment</li>
+<li>highly precise, user friendly digital modern interface</li>
+<li>5 functions in one compact unit: aeroderm, ioniderm, rotoderm, infraderm</li>
+<li>precise digital display with user friendly touch pad</li>
+<li>hf and rotary brush with retractable coil wire for easier mobility</li>
+<li>this equipment will allow you to offer a professional treatment while maximizing treatments with products</li>
+<li>includes all necessary accessories:</li>
+<li>infra: 1 large mushroom violet electrode, 1 small mushroom pink electrode, 1 indirect massage electrode</li>
+<li>ioni: 1 hand held electrode, 2 wires ( 1 red / 1 black), 1 disincrustor, 1 spontex sleeve for hand held electrode, 2 spontex sponges, 1 iontophores roller</li>
+<li>roto: 1 natural soft brush .75", 1 natural soft brush 1.5" and 1 firm brush 1.5"</li>
+<li>aero: 1 spray jet vaporizer bottle, 1 additional plastic bottle, 2 plastic tubes, 1 glass tube adapter, 3 glasses tubes: 1 anti- wrinkle , 1 blackhead and 1 facial masage</li>
+<li>ul approved</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spa</s:tag>
+    <s:tag>waxing</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/1322402349144</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3295.00</s:price>
+      <s:sku>11800</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/1322394583128</id>
+    <published>2018-07-25T15:03:51-07:00</published>
+    <updated>2018-07-25T15:03:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/equipro-ioniderm-accessories-essential-basic-functions"/>
+    <title>Equipro - IONIDERM ACCESSORIES - Essential basic functions</title>
+    <s:type>Equipment</s:type>
+    <s:vendor>Equipro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/674BF1199C6DA26DB54FDE3AF155752DD92AA838051A109FA6-pimgpsh_fullsize_distr.jpg?v=1532556657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Equipro<br>
+        <strong>Type: </strong>Equipment<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="product-spec-list" style="text-align: left;">
+<li>Ioniderm Accessories</li>
+</ul>
+1. 585251<br>2. 585211<br>3. 585631<br>4. 585291<br>5. 585221<br>6. 586391<br>7. 585331<br>8. 585181<br>9. 585240<br>10. 585230<br>11. 585231<br>12. 585241</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spa</s:tag>
+    <s:tag>waxing</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/1322394583128</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>711400</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/1322389799000</id>
+    <published>2018-07-25T15:00:37-07:00</published>
+    <updated>2018-07-25T15:00:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/equipro-ioniderm-essential-basic-functions"/>
+    <title>Equipro - IONIDERM - Essential basic functions</title>
+    <s:type>Equipment</s:type>
+    <s:vendor>Equipro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/11400-300x250.jpg?v=1532556228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Equipro<br>
+        <strong>Type: </strong>Equipment<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="product-spec-list">
+<li>compact model</li>
+<li>integrated storage space for accessories</li>
+<li>1 hand held electrode</li>
+<li>2 wires (1 red, 1 black)</li>
+<li>1 disincruster</li>
+<li>2 spontex sponges</li>
+<li>1 spontex sleeve for electrode</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spa</s:tag>
+    <s:tag>waxing</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/1322389799000</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>11400</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/1322387243096</id>
+    <published>2018-07-25T14:45:52-07:00</published>
+    <updated>2018-07-25T14:45:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/equipro-infraderm-essential-basic-functions"/>
+    <title>Equipro - INFRADERM - Essential basic functions</title>
+    <s:type>Equipment</s:type>
+    <s:vendor>Equipro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/11300-300x264.jpg?v=1532556029"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Equipro<br>
+        <strong>Type: </strong>Equipment<br>
+        <strong>Price: </strong>
+            495.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="product-spec-list">
+<li>compact model</li>
+<li>precise intensity adjustment control</li>
+<li>3 electrodes included: 1 large mushroom violet, 1 small mushroom pink, 1 indirect massage</li>
+<li>integrated holes for electrodes</li>
+<li>handle with retractable and coiled wire for better mobility</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spa</s:tag>
+    <s:tag>waxing</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/1322387243096</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">495.00</s:price>
+      <s:sku>11300</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/1322379214936</id>
+    <published>2018-07-25T14:38:56-07:00</published>
+    <updated>2018-07-25T14:38:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/equipro-portable-hf-essential-basic-functions"/>
+    <title>Equipro - PORTABLE-HF - Essential basic functions</title>
+    <s:type>Equipment</s:type>
+    <s:vendor>Equipro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/EI-113-P-HF-Portable-138x300.jpg?v=1532555146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Equipro<br>
+        <strong>Type: </strong>Equipment<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="product-spec-list">
+<li>ultra compact model</li>
+<li>precise intensity adjustment control</li>
+<li>3 electrodes included: 1 small mushroom pink, 1 small mushroom purple, 1 round tip</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spa</s:tag>
+    <s:tag>waxing</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/1322379214936</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>EI-113P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/1322368335960</id>
+    <published>2018-07-25T14:18:01-07:00</published>
+    <updated>2018-07-25T14:18:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/equipro-hf-3000-essential-basic-functions"/>
+    <title>Equipro - HF-3000 - Essential basic functions</title>
+    <s:type>Equipment</s:type>
+    <s:vendor>Equipro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/EI-113-HF3000-1024x760.jpg?v=1532553808"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Equipro<br>
+        <strong>Type: </strong>Equipment<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="product-spec-list">
+<li>compact model</li>
+<li>precise intensity adjustment control</li>
+<li>3 electrodes included: 1 mushroom, 1 spatula, 1 sparkling (glass point)</li>
+<li>integrated holes for electrodes</li>
+<li>handle with retractable and coiled wire for better mobility</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spa</s:tag>
+    <s:tag>wax heater</s:tag>
+    <s:tag>waxing</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/1322368335960</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>EI-113</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/756201095256</id>
+    <published>2018-05-09T12:11:58-07:00</published>
+    <updated>2018-05-09T12:11:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/sugar-of-the-nile-training-manual"/>
+    <title>Sugar of the Nile Training Manual</title>
+    <s:type></s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Only available with Sugarist Starter Kit.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/756201095256</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>BREIZHES-00119</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/747002822744</id>
+    <published>2018-04-16T12:44:27-07:00</published>
+    <updated>2018-04-16T12:44:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/gulfstream-la-messina-salon-furniture"/>
+    <title>Gulfstream- La Messina -Salon Furniture</title>
+    <s:type>Spa Furniture</s:type>
+    <s:vendor>Gulfstream</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/La-Messina_1-min.jpg?v=1523908212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gulfstream<br>
+        <strong>Type: </strong>Spa Furniture<br>
+        <strong>Price: </strong>
+            1033.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ADJUSTABLE CHAIR OPTIONS PROVIDE YOUR CLIENT’S COMFORT AND FOR YOU TO WORK EASIER.
+<div class="post_video youtube">
+<div>
+<div>Adjustable chair positions provide comfort for both your clients and technicians.</div>
+<div>Back and Front levers allow you to recline the back to various comfort levels- from straight to 180-degrees flat.</div>
+</div>
+<div>
+<p>Mini Lavender measures at 74″ Length, 30″ Width, 32″ Height; approx. 100 lbs. (without the jet 18 lbs.)</p>
+<p><span>• One Chair - Multi-Purpose Services</span><br><span>• Facial and Body Massage</span><br><span>• Eyelash and Eyebrow Treatments</span><br><span>• Waxing</span> </p>
+<p style="text-align: center;"><span><iframe width="397" height="223" src="https://www.youtube.com/embed/H09f5hPTbUs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></span></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyebrow</s:tag>
+    <s:tag>Eyelash</s:tag>
+    <s:tag>Facial</s:tag>
+    <s:tag>Gulfstream</s:tag>
+    <s:tag>La Messina</s:tag>
+    <s:tag>Massage</s:tag>
+    <s:tag>Multi Purpose</s:tag>
+    <s:tag>Spa</s:tag>
+    <s:tag>Waxing</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747002822744</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1033.85</s:price>
+      <s:sku>La Messina</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/747000299608</id>
+    <published>2018-04-16T12:34:38-07:00</published>
+    <updated>2018-04-16T12:34:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/gulfstream-ez-back-zero-gravity-chair-salon-furniture"/>
+    <title>Gulfstream- Ez Back Zero Gravity Chair -Salon Furniture</title>
+    <s:type>Spa Furniture</s:type>
+    <s:vendor>Gulfstream</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Ez-Back-Zero-Gravity-Chair_1-min.jpg?v=1523907695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gulfstream<br>
+        <strong>Type: </strong>Spa Furniture<br>
+        <strong>Price: </strong>
+            1148.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LUXURIOUS, RELIABLE, COMFORTABLE. GREAT FOR MANICURE, PEDICURE, WAXING, FACIAL, AND EYELASH EXTENSIONS.
+<div>• Luxurious, Reliable, Comfortable</div>
+<div>• Great for manicures, pedicures, waxing, facials, and eyelash extensions</div>
+<div>• Vibrating massage and roller massage options</div>
+<div>• Two separate remote controls, one for the customer and one for the technician</div>
+<div>• Elevate customer’s feet to a comfortable position for technicians</div>
+<div>• Not just for nail salons,  Zero Gravity Chairs have been used and loved by many in the last 10 years, for watching TV, reading, relaxing or sleeping.</div>
+<div>
+<span>• One Chair - Multi-Purpose Services</span><br><span>• Facial and Body Massage</span><br><span>• Eyelash and Eyebrow Treatments</span><br><span>• Waxing</span><br><span>• Invented by NASA engineers</span><br><span>• Virtually no pressure on the lower back</span><br><span>• May eliminates back pain</span><br><span>• May ease pressure on the heart and expand lung capacity</span><br><span>• May lower blood pressure and heart rate</span><br><span>• May increase blood circulation and oxygen flow</span><br><span>• May reduce swelling in the legs</span><br><span>• Assists in deeper, more relaxed breathing</span><br><span>• May relieve muscle tension and helps to relax the whole body</span><br><span>• Helps to improve the sleep quality</span><br><span>• Recommended by many Chiropractors and Doctors specialized in pain management</span>
+</div>
+<div><span></span></div>
+<div><span></span></div>
+<div style="text-align: center;"><span><iframe width="397" height="223" src="https://www.youtube.com/embed/H09f5hPTbUs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyebrow</s:tag>
+    <s:tag>Eyelash</s:tag>
+    <s:tag>Ez Back Zero Gravity Chair</s:tag>
+    <s:tag>Facial</s:tag>
+    <s:tag>Gulfstream</s:tag>
+    <s:tag>Massage</s:tag>
+    <s:tag>Multi Purpose</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:tag>Spa</s:tag>
+    <s:tag>Waxing</s:tag>
+    <s:tag>Zero Gravity</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/747000299608</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1148.85</s:price>
+      <s:sku>Ez Back Zero Gravity Chair</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/556870565929</id>
+    <published>2018-03-26T12:01:32-07:00</published>
+    <updated>2018-03-26T12:01:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/cirepil-empty-tin-for-hard-wax"/>
+    <title>Cirepil - Empty Tin for Hard Wax</title>
+    <s:type>Waxing</s:type>
+    <s:vendor>Cirepil by Perron Rigot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/NS9lKgQ.jpeg?v=1530657529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cirepil by Perron Rigot<br>
+        <strong>Type: </strong>Waxing<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>400g tin for Cirepil hard wax beads to be melted in.</p>
+<p>Wax is sold separately.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/556870565929</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku>CIREPILB-00026</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/300563824681</id>
+    <published>2017-11-28T16:11:06-08:00</published>
+    <updated>2017-11-28T16:11:06-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/cirepil-euroblonde-hard-wax"/>
+    <title>Cirepil Euroblonde Hard Wax</title>
+    <s:type></s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Euroblond_Gold.jpg?v=1530651038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/RtS_erNbYpw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></p>
+<p> Gold colored hard wax from Cirepil! Monoi scented to add an extra layer of luxury to your waxing sessions.</p>
+<p><span>Essential wax products available only at Breizh Esthetics &amp; Salon Supply Co. in Vancouver, BC.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/300563824681</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7822907717</id>
+    <published>2017-05-12T11:20:40-07:00</published>
+    <updated>2017-05-12T11:20:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/epillyss-honey-wax"/>
+    <title>Épillyss - Honey Strip Wax</title>
+    <s:type>Waxing</s:type>
+    <s:vendor>Épillyss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Miel_M-1024x1024.jpg?v=1530569920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Épillyss<br>
+        <strong>Type: </strong>Waxing<br>
+        <strong>Price: </strong>
+            16.00 - 180.00
+            <a href="https://www.breizh.ca/products/epillyss-honey-wax">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The virtues of honey have been known and appreciated for over 4,000 years. The Egyptians used it for its antiseptic properties, and only the advent of antibiotics replaced it.</span></p>
+<p><span> NATURAL HONEY hair removal wax has a liquid consistency and an inviting honey color. It is also very easy to apply. It’s recommended for all types of hair and skin.</span></p>
+<p>It is a traditional wax made for more than thirty years to which we have added coconut oil. This oil is now widely used in the composition of new products because it’s rich in essential fatty acids, it brings soothing properties, reduces redness and is just as recommended as aloe on irritated skin. This wax is the very first of our line and still popular with fans of these original products. It is heated in the microwave oven.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7822907717</id>
+      <title>560ml</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>EPILLYSS-00029</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7822907717</id>
+      <title>Case of 15</title>
+      <s:price currency="CAD">180.00</s:price>
+      <s:sku>EPILLYSS-00030</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7812245637</id>
+    <published>2017-05-11T12:56:06-07:00</published>
+    <updated>2017-05-11T12:56:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/epillyss-azulen-wax"/>
+    <title>Épillyss - Azulen Strip Wax</title>
+    <s:type>Waxing</s:type>
+    <s:vendor>Épillyss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Azulene_M-1024x1024.jpg?v=1530569842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Épillyss<br>
+        <strong>Type: </strong>Waxing<br>
+        <strong>Price: </strong>
+            16.00 - 180.00
+            <a href="https://www.breizh.ca/products/epillyss-azulen-wax">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description_text">Hair removal wax for a gentle treatment.</div>
+<div class="description_text"> Azulen is a powerful anti‑inflammatory agent derived from German chamomile flowers, also called Matricaria. It has a dark color and strong scent as well as healing and anti‑inflammatory properties.</div>
+<div class="description_text">Numerous studies have demonstrated its remarkable effectiveness in treating various skin conditions including eczema and urticaria. AZULEN hair removal wax is apple‑green in color and has a liquid consistency. It’s easy to apply and recommended for all types of hair and skin.</div>
+<div class="description_text"></div>
+<div class="description_text"></div>
+<div class="description_text">﻿It is the second creation of the line, the goal being to soften depilatory treatments. It is a traditional wax also made for over thirty years with the original honey recipe to which we added an azulene extract. Azulene is known for its anti‑inflammatory, soothing and appealing properties. It is heated in the microwave oven. </div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7812245637</id>
+      <title>560ml</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>EPILLYSS-00031</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7812245637</id>
+      <title>Case of 15</title>
+      <s:price currency="CAD">180.00</s:price>
+      <s:sku>EPILLYSS-00032</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7812199557</id>
+    <published>2017-05-11T12:50:43-07:00</published>
+    <updated>2017-05-11T12:50:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/epillyss-sensitive-wax"/>
+    <title>Épillyss - Cocooning Strip Wax</title>
+    <s:type>Waxing</s:type>
+    <s:vendor>Épillyss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Cocooning_M-1024x1024.jpg?v=1530570170"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Épillyss<br>
+        <strong>Type: </strong>Waxing<br>
+        <strong>Price: </strong>
+            19.00 - 213.75
+            <a href="https://www.breizh.ca/products/epillyss-sensitive-wax">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description_text">A hair removal wax specially designed for sensitive skin.</div>
+<div class="description_text">Marine collagen, with its hydrating, softening and mineral‑replenishing properties, gives this hair removal wax a unique feel. This completely natural product is rich in vitamins, proteins, mineral salts and trace elements, making it a stimulating and firming addition to any hair removal treatment. With a milky texture and an inviting caramel color, SENSITIVE SKIN hair removal wax slides smoothly onto the skin and is recommended for all hair and skin types. However, it’s particularly recommended for the more sensitive skin.</div>
+<div class="description_text"></div>
+<div class="description_text"><span>This wax, formerly named Sensitive Skin due to its gentle properties, is renowned for its unique texture. It contains cottonseed oil, an oil classified "fine" for its extreme lightness giving a fluid appearance to the wax which makes it easy to apply due to its exceptionally comforting effect and texture. It is heated in the microwave oven.</span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7812199557</id>
+      <title>560ml</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku>EPILLYSS-00033</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7812199557</id>
+      <title>Case of 15</title>
+      <s:price currency="CAD">213.75</s:price>
+      <s:sku>EPILLYSS-00034</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7812161925</id>
+    <published>2017-05-11T12:48:38-07:00</published>
+    <updated>2017-05-11T12:48:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/epillyss-white-queen-wax"/>
+    <title>Épillyss - White Queen Strip Wax</title>
+    <s:type>Waxing</s:type>
+    <s:vendor>Épillyss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/ReineBlanche_M-1024x1024.jpg?v=1530570274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Épillyss<br>
+        <strong>Type: </strong>Waxing<br>
+        <strong>Price: </strong>
+            19.00 - 213.75
+            <a href="https://www.breizh.ca/products/epillyss-white-queen-wax">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our biggest seller ever, White and creamy it spreads easily and contains a special touch of Jojoba oil known for its emollient properties. This oil softens and preserves skin's moisture. Easy to apply thanks to its creamy consistency, this wax is very popular with beginners. It is heated in the microwave oven.</span></p>
+<p><span>This wax is a milky white color, thanks to a special touch of zinc oxide which has recognized antiseptic and purifying properties. It’s easy to apply and often used on acne‑ or eczema‑prone skin. Zinc oxide also protects against UV rays. </span></p>
+<p>This product, with its creamy texture, is appropriate for all hair and skin types— even the most sensitive skin.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7812161925</id>
+      <title>560ml</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku>EPILLYSS-00035</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7812161925</id>
+      <title>Case of 15</title>
+      <s:price currency="CAD">213.75</s:price>
+      <s:sku>EPILLYSS-00036</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7812136325</id>
+    <published>2017-05-11T12:44:47-07:00</published>
+    <updated>2017-05-11T12:44:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/epillyss-sensor-wax"/>
+    <title>Épillyss - Sensor Strip Wax</title>
+    <s:type>Waxing</s:type>
+    <s:vendor>Épillyss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Sensor_M-1024x1024.jpg?v=1530570403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Épillyss<br>
+        <strong>Type: </strong>Waxing<br>
+        <strong>Price: </strong>
+            19.00 - 213.75
+            <a href="https://www.breizh.ca/products/epillyss-sensor-wax">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description_text">An ultra‑comfortable wax. The use of trace elements increases adherence to hair while reducing adherence to skin. SENSOR hair removal wax has a silky texture, and its turquoise color comes from lavender, lemon and mineral extracts.</div>
+<div class="description_text">SENSOR hair removal wax has an extremely liquid consistency and can be easily applied in an ultra‑thin layer, meaning that you will use less wax per treatment. Its ease of application makes it the ideal wax for the entire bikini area.</div>
+<div class="description_text"></div>
+<div class="description_text"><span></span></div>
+<div class="description_text"><span>The presence of apricot kernel oil delivers a light texture, this wax has a gel texture and is easily applied to all skin types, its color is vibrant and its apricot scent is refreshing! It is heated in the microwave oven.</span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7812136325</id>
+      <title>560ml</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku>EPILLYSS-00037</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7812136325</id>
+      <title>Case of 15</title>
+      <s:price currency="CAD">213.75</s:price>
+      <s:sku>EPILLYSS-00038</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

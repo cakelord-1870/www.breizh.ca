@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.breizh.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.breizh.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.breizh.ca/collections/permanent-makeup-microblading-products.atom"/>
+  <title>Breizh Esthetics &amp; Salon Supply Co.</title>
+  <updated>2017-09-26T12:10:12-07:00</updated>
+  <author>
+    <name>Breizh Esthetics &amp; Salon Supply Co.</name>
+  </author>
+  <entry>
+    <id>https://www.breizh.ca/products/9076680645</id>
+    <published>2017-09-26T12:10:12-07:00</published>
+    <updated>2017-09-26T12:10:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/lipskin-ct12-point-straight-tip"/>
+    <title>LipSkin - ct12 Point Straight Tip</title>
+    <s:type>Permanent Makeup</s:type>
+    <s:vendor>LipSkin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/ct12.JPG?v=1521757828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LipSkin<br>
+        <strong>Type: </strong>Permanent Makeup<br>
+        <strong>Price: </strong>
+            4.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The most popular configuration of the SofTapo needle collection! 12 prong needles are commonly used for hair strokes and solid fills in eyebrows, thin eyeliner, and thin lip lines.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/9076680645</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.13</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/9076588229</id>
+    <published>2017-09-26T11:22:36-07:00</published>
+    <updated>2017-09-26T11:22:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/lipskin-ct114-fine-point-straight-tip"/>
+    <title>LipSkin - ct114 Fine Point Straight Tip</title>
+    <s:type>Permanent Makeup</s:type>
+    <s:vendor>LipSkin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/n1.JPG?v=1521757824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LipSkin<br>
+        <strong>Type: </strong>Permanent Makeup<br>
+        <strong>Price: </strong>
+            22.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This is the big one! The 114 i used exclusively on lips and scar camouflage treatments. This needle is the surest way to implant color gently in larger areas.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/9076588229</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.55</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/9076460549</id>
+    <published>2017-09-26T11:17:29-07:00</published>
+    <updated>2017-09-26T11:17:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/lipskin-cafe-ole-warm-browns-softap-permanent-cosmetics"/>
+    <title>LipSkin - Café Ole Warm Browns SofTap Permanent Cosmetics</title>
+    <s:type>Permanent Makeup</s:type>
+    <s:vendor>LipSkin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/cafe.JPG?v=1521757805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LipSkin<br>
+        <strong>Type: </strong>Permanent Makeup<br>
+        <strong>Price: </strong>
+            29.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This is the darkest warm color for eyes. It looks fantastic on people with blue, amber, honey brown, or dark brown eyes. Café Ole also heals as a soft black on Asian and Hispanic skin types.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/9076460549</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/9076441797</id>
+    <published>2017-09-26T11:16:22-07:00</published>
+    <updated>2017-09-26T11:16:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/lipskin-surgical-micropore-tape"/>
+    <title>LipSkin - Surgical Micropore Tape</title>
+    <s:type>Permanent Makeup</s:type>
+    <s:vendor>LipSkin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LipSkin<br>
+        <strong>Type: </strong>Permanent Makeup<br>
+        <strong>Price: </strong>
+            4.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2 Rolls of  Surgical Micropore Tape</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/9076441797</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/9076425477</id>
+    <published>2017-09-26T11:10:55-07:00</published>
+    <updated>2017-09-26T11:10:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/lipskin-victorian-rose-red-pinks-lip-colours-softap-permanent-cosmetics"/>
+    <title>LipSkin - Victorian Rose Red Pinks Lip Colours SofTap Permanent Cosmetics</title>
+    <s:type>Permanent Makeup</s:type>
+    <s:vendor>LipSkin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/rose.JPG?v=1521757952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LipSkin<br>
+        <strong>Type: </strong>Permanent Makeup<br>
+        <strong>Price: </strong>
+            27.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sweet and classy, Victorian Rose is a natural looking red/pink and part of the Imposter Collection, guaranteed to match anyone´s natural lip color. Victorian Rose heals up the color of babie's lips.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/9076425477</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/9076415493</id>
+    <published>2017-09-26T11:04:35-07:00</published>
+    <updated>2017-09-26T11:04:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/lipskin-valentine-red-pinks-lip-colours-softap-permanent-cosmetics"/>
+    <title>LipSkin - Valentine Red Pinks Lip Colours SofTap Permanent Cosmetics</title>
+    <s:type>Permanent Makeup</s:type>
+    <s:vendor>LipSkin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/valen.JPG?v=1521757952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LipSkin<br>
+        <strong>Type: </strong>Permanent Makeup<br>
+        <strong>Price: </strong>
+            29.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Valentine is the reddest of the reds and heals as a medium to bright pink depending on the skin tone. You can create a burgundy red by adding just a dot or two of blue lagoon.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/9076415493</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/9076391045</id>
+    <published>2017-09-26T10:30:14-07:00</published>
+    <updated>2017-09-26T10:30:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/lipskin-blushed-petals-orange-pinks-lip-colours-softap-permanent-cosmetics"/>
+    <title>LipSkin - Blushed Petals Orange Pinks Lip Colours SofTap Permanent Cosmetics</title>
+    <s:type>Permanent Makeup</s:type>
+    <s:vendor>LipSkin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/petals.JPG?v=1521757800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LipSkin<br>
+        <strong>Type: </strong>Permanent Makeup<br>
+        <strong>Price: </strong>
+            29.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This color heals to a beautiful pink/orange. If the lips are cool, you will have more pink in th healed result than ornage, and in paler lips, more hints of orange. Because lips require more than one application, Blushed Petals is a grat base to use the firt time for finding out the kinds of undertones present in the lips.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/9076391045</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/9076239621</id>
+    <published>2017-09-26T10:25:48-07:00</published>
+    <updated>2017-09-26T10:25:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/lipskin-mahogany-neutral-browns-softap-permanent-cosmetics"/>
+    <title>LipSkin - Mahogany Neutral Browns SofTap Permanent Cosmetics</title>
+    <s:type>Permanent Makeup</s:type>
+    <s:vendor>LipSkin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/moh.JPG?v=1521757873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LipSkin<br>
+        <strong>Type: </strong>Permanent Makeup<br>
+        <strong>Price: </strong>
+            29.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dark, rich, and lively, Mahogany is the perfect neutral for Asian and Hispanic skin types who desire a true dark brown. It is also one of the most versatile brown eyeliners, and can be applied beautifully on blue, steel blue or gray, green, light brown, amber, or dark brown eyes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/9076239621</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/9076114181</id>
+    <published>2017-09-26T09:53:47-07:00</published>
+    <updated>2017-09-26T09:53:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/lipskin-cupids-kiss-mauve-pink-lip-colours-softap-permanent-cosmetics"/>
+    <title>LipSkin - Cupid&apos;s Kiss Mauve Pink Lip Colours SofTap Permanent Cosmetics</title>
+    <s:type>Permanent Makeup</s:type>
+    <s:vendor>LipSkin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/cupid.JPG?v=1521757840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LipSkin<br>
+        <strong>Type: </strong>Permanent Makeup<br>
+        <strong>Price: </strong>
+            29.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cupid's kiss has the most mauve of the mauve/pinks and heals to an earthy pink. If the lips have strong blue undertones, don't forget to add Mango Obsession to this color to neutralize the blue and get your desired look. This color is part of the Imposter Collection, guaranteed to match anyone's natural lip color.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/9076114181</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/9076073541</id>
+    <published>2017-09-26T09:45:27-07:00</published>
+    <updated>2017-09-26T09:45:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/lipskin-minnerva-softap-permanent-cosmetics"/>
+    <title>LipSkin - Minnerva Numbing Cream SofTap Permanent Cosmetics</title>
+    <s:type>Permanent Makeup</s:type>
+    <s:vendor>LipSkin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Minnerva.jpg?v=1521757897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LipSkin<br>
+        <strong>Type: </strong>Permanent Makeup<br>
+        <strong>Price: </strong>
+            30.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>10g with 4% lidocaine USP and .04% mg Epinephrine HC.  This anesthetic is for use on broken skin and works on contact.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/9076073541</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/9076069829</id>
+    <published>2017-09-26T09:44:08-07:00</published>
+    <updated>2017-09-26T09:44:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/lipskin-micro-brushes"/>
+    <title>LipSkin - Micro Brushes</title>
+    <s:type>Permanent Makeup</s:type>
+    <s:vendor>LipSkin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/Lipskin_MicroBrushes.png?v=1521757881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LipSkin<br>
+        <strong>Type: </strong>Permanent Makeup<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/9076069829</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/9076065157</id>
+    <published>2017-09-26T09:41:31-07:00</published>
+    <updated>2017-09-26T09:41:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/lipskin-lightning-softap-permanent-cosmetics"/>
+    <title>LipSkin - Lightning SofTap Permanent Cosmetics</title>
+    <s:type>Permanent Makeup</s:type>
+    <s:vendor>LipSkin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/light.JPG?v=1521757867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LipSkin<br>
+        <strong>Type: </strong>Permanent Makeup<br>
+        <strong>Price: </strong>
+            29.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="post-content woocommerce-product-details__short-description">
+<p class="p1"><span class="s1">A superficial skin exfoliator. This product has successfully lightened small areas of unwanted pigment when used correctly.</span></p>
+</div>
+<form class="cart" method="post" enctype="multipart/form-data"></form></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/9076065157</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/9071991749</id>
+    <published>2017-09-25T13:55:13-07:00</published>
+    <updated>2017-09-25T13:55:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/lipskin-fish-stick-softap-permanent-cosmetics"/>
+    <title>LipSkin - Fish Stick SofTap Permanent Cosmetics</title>
+    <s:type>Permanent Makeup</s:type>
+    <s:vendor>LipSkin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/fish.JPG?v=1521757844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LipSkin<br>
+        <strong>Type: </strong>Permanent Makeup<br>
+        <strong>Price: </strong>
+            2.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fish Stick</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/9071991749</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/9071984837</id>
+    <published>2017-09-25T13:52:27-07:00</published>
+    <updated>2017-09-25T13:52:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/lipskin-click-stick-softap-permanent-cosmetics"/>
+    <title>LipSkin - Click Stick SofTap Permanent Cosmetics</title>
+    <s:type>Permanent Makeup</s:type>
+    <s:vendor>LipSkin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/sn.JPG?v=1521757821"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LipSkin<br>
+        <strong>Type: </strong>Permanent Makeup<br>
+        <strong>Price: </strong>
+            1.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Click Stick</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/9071984837</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/9071450117</id>
+    <published>2017-09-25T11:36:54-07:00</published>
+    <updated>2017-09-25T11:36:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/lipskin-irish-moss-eyeliner-softap-permanent-cosmetics"/>
+    <title>LipSkin - Irish Moss Eyeliner SofTap Permanent Cosmetics</title>
+    <s:type>Permanent Makeup</s:type>
+    <s:vendor>LipSkin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/irish.JPG?v=1521757867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LipSkin<br>
+        <strong>Type: </strong>Permanent Makeup<br>
+        <strong>Price: </strong>
+            29.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This is a brown-based eyeliner with some green tomes. Great as a medium liner for women with dark brown eyes, olive green eyes, or green eyes with brown flecks. This color will heal as a cool brown and really bring out those green eyes. You may also add Irish Moss to any warm color to cut some red.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/9071450117</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/9071426117</id>
+    <published>2017-09-25T11:34:31-07:00</published>
+    <updated>2017-09-25T11:34:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/lipskin-cool-browns-softap-permanent-cosmetics"/>
+    <title>LipSkin - Charcoal Cool Browns SofTap Permanent Cosmetics</title>
+    <s:type>Permanent Makeup</s:type>
+    <s:vendor>LipSkin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/char.JPG?v=1521757814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LipSkin<br>
+        <strong>Type: </strong>Permanent Makeup<br>
+        <strong>Price: </strong>
+            29.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A cool liner that heals as a soft black on women with warm skin tones. Charcoal is great on blue, steel blue and gray eyes.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/9071426117</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/9071419589</id>
+    <published>2017-09-25T11:32:20-07:00</published>
+    <updated>2017-09-25T11:32:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/lipskin-camouflage-softap-permanent-cosmetics"/>
+    <title>LipSkin - Tropicana Camouflage SofTap Permanent Cosmetics</title>
+    <s:type>Permanent Makeup</s:type>
+    <s:vendor>LipSkin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/trop.JPG?v=1521757948"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LipSkin<br>
+        <strong>Type: </strong>Permanent Makeup<br>
+        <strong>Price: </strong>
+            29.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Darker than Seashell, Tropicana is great for transparent and translucent skin types.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/9071419589</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/9071409541</id>
+    <published>2017-09-25T11:22:37-07:00</published>
+    <updated>2017-09-25T11:22:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/lipskin-brown-pinks-lip-colours-softap-permanent-cosmetics"/>
+    <title>LipSkin - Secret Passion Brown Pinks Lip Colours SofTap Permanent Cosmetics</title>
+    <s:type>Permanent Makeup</s:type>
+    <s:vendor>LipSkin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/sp.JPG?v=1521757920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LipSkin<br>
+        <strong>Type: </strong>Permanent Makeup<br>
+        <strong>Price: </strong>
+            29.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A beautiful earthy color without too much pink, Secret Passion heals up a little browner than it appears.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/9071409541</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/9071211525</id>
+    <published>2017-09-25T10:32:02-07:00</published>
+    <updated>2017-09-25T10:32:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/lipskin-brown-pink-lip-colours-softap-permanent-cosmetics"/>
+    <title>LipSkin - Havana Girl Brown Pink Lip Colours SofTap Permanent Cosmetics</title>
+    <s:type>Permanent Makeup</s:type>
+    <s:vendor>LipSkin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/hg.JPG?v=1521757856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LipSkin<br>
+        <strong>Type: </strong>Permanent Makeup<br>
+        <strong>Price: </strong>
+            29.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Havana Girl is the brownest of the brown/pink and looks wonderful on all skin types. You may add some Caramel if the client wants it a little browner.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/9071211525</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/9071196485</id>
+    <published>2017-09-25T10:25:20-07:00</published>
+    <updated>2017-09-25T10:25:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/lipskin-breast-areola-colours-softap-permanent-cosmetics"/>
+    <title>LipSkin - Cherries Jubilee Breast/Areola Colours SofTap Permanent Cosmetics</title>
+    <s:type>Permanent Makeup</s:type>
+    <s:vendor>LipSkin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/nip.JPG?v=1521757814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LipSkin<br>
+        <strong>Type: </strong>Permanent Makeup<br>
+        <strong>Price: </strong>
+            29.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Cherries Jubilee is a rich, medium/mauve pink for areola re-pigmentation. This is a great color for tanned skin tones and central areas of the nipple.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/9071196485</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/9071177093</id>
+    <published>2017-09-25T10:22:42-07:00</published>
+    <updated>2017-09-25T10:22:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/lipskin-blockaid-softap-permanent-cosmetics"/>
+    <title>LipSkin - Blockaid Numbing Cream SofTap Permanent Cosmetics</title>
+    <s:type>Permanent Makeup</s:type>
+    <s:vendor>LipSkin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/BlockAid.jpg?v=1521757800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LipSkin<br>
+        <strong>Type: </strong>Permanent Makeup<br>
+        <strong>Price: </strong>
+            30.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>10g with 3% lidocaine USP and 2% Tetracaine USP.  For use on unbroken skin.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/9071177093</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

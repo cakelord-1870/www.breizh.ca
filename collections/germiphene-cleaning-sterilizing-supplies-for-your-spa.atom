@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.breizh.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.breizh.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.breizh.ca/collections/germiphene-cleaning-sterilizing-supplies-for-your-spa.atom"/>
+  <title>Breizh Esthetics &amp; Salon Supply Co.</title>
+  <updated>2018-03-13T11:43:14-07:00</updated>
+  <author>
+    <name>Breizh Esthetics &amp; Salon Supply Co.</name>
+  </author>
+  <entry>
+    <id>https://www.breizh.ca/products/535077716009</id>
+    <published>2018-03-13T11:43:14-07:00</published>
+    <updated>2018-03-13T11:43:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/germiphene-ic-gel-anti-septic-handwash"/>
+    <title>Germiphene - IC Gel Anti-Septic Handwash</title>
+    <s:type></s:type>
+    <s:vendor>Germiphene</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Germiphene<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            63.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Medical grade anti-septic handwash by Germiphene.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>disinfectant</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/535077716009</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">63.95</s:price>
+      <s:sku>GERMIPHE-00009</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6075972485</id>
+    <published>2016-08-10T15:52:00-07:00</published>
+    <updated>2016-08-10T15:52:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/germiphene-ultra-swipes-plus"/>
+    <title>Germiphene - Ultra Swipes Plus</title>
+    <s:type>Disinfectant Products</s:type>
+    <s:vendor>Germiphene</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/germiphene-swipes.JPG?v=1515429000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Germiphene<br>
+        <strong>Type: </strong>Disinfectant Products<br>
+        <strong>Price: </strong>
+            24.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A ready-to-use Disinfectant Disposable Cloth.</p>
+<p>3-minute Broad Spectrum Kill.  Durable cloth - will not bunch up during use and will not leave lint behind, Non-staining, no sticky residue or streaking.</p>
+<p>Available in Canisters and Refills (160 cloths)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6075972485</id>
+      <title>$24.50 / $17.95</title>
+      <s:price currency="CAD">24.50</s:price>
+      <s:sku>GERMIPHE-00001</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6073841285</id>
+    <published>2016-08-10T10:03:00-07:00</published>
+    <updated>2016-08-10T10:03:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/germiphene-botanical-sensations-soothing-skin-cleanser"/>
+    <title>Germiphene - Botanical Sensations Soothing Skin Cleanser</title>
+    <s:type>Disinfectant Products</s:type>
+    <s:vendor>Germiphene</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/germiphene-soothing-skin-cleaner.JPG?v=1521757721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Germiphene<br>
+        <strong>Type: </strong>Disinfectant Products<br>
+        <strong>Price: </strong>
+            58.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soothing Skin is an extremely gentle Antimicrobial Hand Cleanser that replenishes moisture while killing germs.  Enriched with Skin Emollients and Chamomile, Soothing Skin is a hypo-allergenic cleanser with a light scent, and soft lather.  Specially formulated for use in a clinical setting where hand washing is frequent and dry skin is common.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6073841285</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">58.95</s:price>
+      <s:sku>GERMIPHE-00002</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6073766853</id>
+    <published>2016-08-10T09:51:00-07:00</published>
+    <updated>2016-08-10T09:51:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/germiphene-genie-plus"/>
+    <title>Germiphene - Genie Plus 4L</title>
+    <s:type>Disinfectant Products</s:type>
+    <s:vendor>Germiphene</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/germiphene-genie-plus.JPG?v=1521757731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Germiphene<br>
+        <strong>Type: </strong>Disinfectant Products<br>
+        <strong>Price: </strong>
+            47.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Genie Plus is a Chair Cleaner, Safe for Naugahyde and all Vinyl surfaces.  Genie Plus makes it an effective part of proper infection control in the health care industry.  Disinfects, Cleans and Revitalizes.</p>
+<p>Genie Plus scored 3.5 out of 4 in CRA clinical field trials with 84% of evaluations rating good or excellent.  </p>
+<p>Genie Plus cleans and polishes Naugahyde, Vinyl, Plastic Laminate and Leather with no sticky or slippery residue.  Removes dirt other solutions leave behind.  Genie plus is Alcohol free, means will not dry or crack the upholstery.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6073766853</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.95</s:price>
+      <s:sku>GERMIPHE-00003</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6070203269</id>
+    <published>2016-08-09T16:43:00-07:00</published>
+    <updated>2016-08-09T16:43:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/germiphene-gluterate-and-gluteneut"/>
+    <title>Germiphene - Gluterate and GluteNeut</title>
+    <s:type>Disinfectant Products</s:type>
+    <s:vendor>Germiphene</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/germiphene-gluterate.JPG?v=1521757746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Germiphene<br>
+        <strong>Type: </strong>Disinfectant Products<br>
+        <strong>Price: </strong>
+            82.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gluterate - High Level Disinfectant/Sterilant.  Kills TB in 10 minutes, Sterilization in 10 hours.  Ready to use solution no activation required, clean, fresh mint scent masks the aldehyde odour, Chemically stable - no degradation at high temperatures.  Reusable up to 30 days, 2-year shelf life on unused portions.</p>
+<p>GluteNeut - Active Glutaraldehyde and OPA Solution Neutralizer.  Environmentally friendly, one-step solution for the disposal of Gluterate, ensures a safe disposal, eliminates eye and skin irritants, and eliminates vapours caused by agitation.  One pouch of GluteNeut oxidizes and neutralizes up to 1 litre Gluterate. </p>
+<p> Price included 1 x 4 litre Gluterate and 4 pouches GluteNeut.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6070203269</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">82.95</s:price>
+      <s:sku>GERMIPHE-00004</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6070165189</id>
+    <published>2016-08-09T16:29:00-07:00</published>
+    <updated>2016-08-09T16:29:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/germiphene-germicide3"/>
+    <title>Germiphene - Germicide3</title>
+    <s:type>Disinfectant Products</s:type>
+    <s:vendor>Germiphene</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/germiphen-germicide3.JPG?v=1515429000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Germiphene<br>
+        <strong>Type: </strong>Disinfectant Products<br>
+        <strong>Price: </strong>
+            45.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It is a ready-to-use, highly effective cleaner and disinfectant for use in health care facilities.  Germicide3 is safe for use on hard surfaces as well as on leather and vinyl chairs, it leaves no hazardous chemical residue when used as directed and does not contain phenols, chlorine, artificial dyes or perfumes. </p>
+<p>3-minutes broad spectrum kill, non-flammable, leaves no hazardous chemical residue, Formulated for all Health Care Environments, Special spray head reduces "aerosol mists" and Biodegradable.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6070165189</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.95</s:price>
+      <s:sku>GERMIPHE-00005</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6070134469</id>
+    <published>2016-08-09T16:22:00-07:00</published>
+    <updated>2016-08-09T16:22:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/germiphene-germxtra"/>
+    <title>Germiphene - Germxtra</title>
+    <s:type>Disinfectant Products</s:type>
+    <s:vendor>Germiphene</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/germiphene-germxtra.JPG?v=1521757736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Germiphene<br>
+        <strong>Type: </strong>Disinfectant Products<br>
+        <strong>Price: </strong>
+            54.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For Hard surface Disinfectant Cleaner.</p>
+<p>Complete Tuberculocidal disinfectant containing a combination of ethanol and surfactants.  Bactericidal, Fungicidal, Virucidal and 1 minute TB kill.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6070134469</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.95</s:price>
+      <s:sku>GERMIPHE-00006</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6070119621</id>
+    <published>2016-08-09T15:58:00-07:00</published>
+    <updated>2016-08-09T15:58:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/germiphene-gamut-plus"/>
+    <title>Germiphene - Gamut Plus</title>
+    <s:type>Disinfectant Products</s:type>
+    <s:vendor>Germiphene</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/germiphene-gamut.JPG?v=1515429001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Germiphene<br>
+        <strong>Type: </strong>Disinfectant Products<br>
+        <strong>Price: </strong>
+            43.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Intermediate-Level multi-purpose Disinfectant/Cleaner. </p>
+<p>Biodegradable, 1-minute TB kill, Destroys mildew, mould and fungi, effectively cleans blood and all types of organic soils.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6070119621</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.95</s:price>
+      <s:sku>GERMIPHE-00007</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/6070030405</id>
+    <published>2016-08-09T15:37:00-07:00</published>
+    <updated>2016-08-09T15:37:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/germiphene-super-germiphene-concentrated-germicidal-detergent-deodorant"/>
+    <title>Germiphene - Super Germiphene Concentrated Germicidal Detergent &amp; Deodorant</title>
+    <s:type>Disinfectant Products</s:type>
+    <s:vendor>Germiphene</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/germiphene-super-germiphene-concentrate.JPG?v=1521757749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Germiphene<br>
+        <strong>Type: </strong>Disinfectant Products<br>
+        <strong>Price: </strong>
+            35.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A concentrated, non-rusting, multi-purpose Germicidal detergent and Deodorant.  Bactericidal, Fungicidal, and Virucidal.</p>
+<p>For use on hard, non-porous surfaces, such as floors, walls, metal surfaces, stainless steel surfaces, porcelain and plastic surfaces.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/6070030405</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.95</s:price>
+      <s:sku>GERMIPHE-00008</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

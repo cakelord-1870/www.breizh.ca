@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.breizh.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.breizh.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.breizh.ca/collections/continuum-pedicure-equipment.atom"/>
+  <title>Breizh Esthetics &amp; Salon Supply Co.</title>
+  <updated>2017-04-12T11:22:01-07:00</updated>
+  <author>
+    <name>Breizh Esthetics &amp; Salon Supply Co.</name>
+  </author>
+  <entry>
+    <id>https://www.breizh.ca/products/7496923269</id>
+    <published>2017-04-12T11:22:01-07:00</published>
+    <updated>2017-04-12T11:22:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/continuum-extra-wet-end-jet-cover-assembly"/>
+    <title>Continuum - Extra &quot;Wet-End&quot; Jet Cover Assembly</title>
+    <s:type>Spa Equipment</s:type>
+    <s:vendor>Continuum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Continuum<br>
+        <strong>Type: </strong>Spa Equipment<br>
+        <strong>Price: </strong>
+            149.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Extra "Wet-End" Jet Cover Assembly</p>
+<p>*Available only for Continuum products</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7496923269</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7496914501</id>
+    <published>2017-04-12T11:19:49-07:00</published>
+    <updated>2017-04-12T11:19:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/continuum-high-capacity-discharge-pump-upgrade"/>
+    <title>Continuum - High Capacity Discharge Pump Upgrade</title>
+    <s:type>Spa Equipment</s:type>
+    <s:vendor>Continuum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Continuum<br>
+        <strong>Type: </strong>Spa Equipment<br>
+        <strong>Price: </strong>
+            895.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>High Capacity Discharge Pump (factory installed).</p>
+<p>*Available upgrade for Continuum products: Maestro, Echo SE/LE, Bravo VE/LE, Vantage VE &amp; Signature. Incl. Alternate Side Panel</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7496914501</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">895.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7496908869</id>
+    <published>2017-04-12T11:18:11-07:00</published>
+    <updated>2017-04-12T11:18:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/continuum-discharge-pump-upgrade"/>
+    <title>Continuum - Discharge Pump Upgrade</title>
+    <s:type>Spa Equipment</s:type>
+    <s:vendor>Continuum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Continuum<br>
+        <strong>Type: </strong>Spa Equipment<br>
+        <strong>Price: </strong>
+            395.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Discharge Pump (factory installed)</p>
+<p>*Upgrade available for Continuum products: Maestro, Echo SE/LE, Bravo VE/LE, Vantage VE &amp; Signature.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7496908869</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">395.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7496895045</id>
+    <published>2017-04-12T11:13:05-07:00</published>
+    <updated>2017-04-12T11:13:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/continuum-pedicute-standard-package"/>
+    <title>Continuum - Pedicute Standard Package</title>
+    <s:type>Spa Equipment</s:type>
+    <s:vendor>Continuum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/standard.PNG?v=1521756576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Continuum<br>
+        <strong>Type: </strong>Spa Equipment<br>
+        <strong>Price: </strong>
+            1779.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Includes:</p>
+<ul>
+<li>
+<span>Pedicute Portable Spa: </span>A welded steel frame, industrial grade casters and  professional finishes ensure this spa is as tough as it is ‘cute.’ Just plug the Pedicute in and start giving pedicures. It’s truly the world’s most simple, functional and eco-friendly portable spa.</li>
+<li><span>Standard Tech Chair: Ergonomically designed with an extra firm padded back support and seat cushion to provide total comfort. Cast aluminum base ensures strength and durability. This stylish tech chair is low to the ground and compliments the look of any Continuum pedicure spa.</span></li>
+<li><span>Accessory Cart: A perfectly positioned back tray holds up to three 32oz bottles within arm’s reach. Top of the line rubber skate casters allow the cart to easily glide across any surface for shared use between services. Other features include:  two sliding drawers, sliding front panel and front/back top bar supports.</span></li>
+<li><span>300 Disposable Liners: Spend less time cleaning and sanitizing and more time with your next client. </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7496895045</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1779.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7496871557</id>
+    <published>2017-04-12T11:03:17-07:00</published>
+    <updated>2017-04-12T11:03:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/continuum-deluxe-pedicute-package"/>
+    <title>Continuum - Deluxe Pedicute Package</title>
+    <s:type>Spa Equipment</s:type>
+    <s:vendor>Continuum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/package1.PNG?v=1521756549"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Continuum<br>
+        <strong>Type: </strong>Spa Equipment<br>
+        <strong>Price: </strong>
+            1995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Includes:</p>
+<ul>
+<li>
+<span>Pedicute Portable Spa: </span>A welded steel frame, industrial grade casters and  professional finishes ensure this spa is as tough as it is ‘cute.’  Just plug the Pedicute in and start giving pedicures. It’s truly the world’s most simple, functional and eco-friendly portable spa.</li>
+<li><span>Deluxe Tech Chair with black cushion: This beautifully crafted adjustable chair is made of curved cherry veneer. The technician’s chair is extremely comfortable and low to the ground (telescoping range of 12-1/4” to 15”). </span></li>
+<li><span>Accessory Cart: A perfectly positioned back tray holds up to three 32oz bottles within arm’s reach. Top of the line rubber skate casters allow the cart to easily glide across any surface for shared use between services. Other features include:  two sliding drawers, sliding front panel and front/back top bar supports.</span></li>
+<li><span>300 Disposable Liners: Spend less time cleaning and sanitizing and more time with your next client. </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7496871557</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1995.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7492412037</id>
+    <published>2017-04-11T16:47:00-07:00</published>
+    <updated>2017-04-11T16:47:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/continuum-side-panels-upgrade"/>
+    <title>Continuum - Side Panels Upgrade</title>
+    <s:type>Spa Equipment</s:type>
+    <s:vendor>Continuum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/timthumb_dbd2b7be-48f2-4d5c-b004-d6ede4e5240f.jpg?v=1521756582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Continuum<br>
+        <strong>Type: </strong>Spa Equipment<br>
+        <strong>Price: </strong>
+            225.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Full side panels may be required to conceal existing plumbing that is visible outside of the standard arched panels. Full side panels can also be ordered if you simply prefer the look over the standard panels.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7492412037</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">225.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7492329157</id>
+    <published>2017-04-11T16:33:00-07:00</published>
+    <updated>2017-04-11T16:33:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/continuum-removable-pedicure-tub"/>
+    <title>Continuum - Removable Pedicure Tub</title>
+    <s:type>Spa Equipment</s:type>
+    <s:vendor>Continuum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/timthumb_bb196343-2a5a-4ba3-88ea-d59325e8ebb7.jpg?v=1521756581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Continuum<br>
+        <strong>Type: </strong>Spa Equipment<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Upgrade for Continuum products, Simplicity Spa Chair and Pedicute Portable Spa</span></p>
+<p><span>You have the choice of a lightweight cream or black colored tub. Additional tubs are available upon request for $30.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7492329157</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7492310533</id>
+    <published>2017-04-11T16:28:00-07:00</published>
+    <updated>2017-04-11T16:28:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/continuum-manicure-trays-upgrade"/>
+    <title>Continuum - Manicure Trays Upgrade</title>
+    <s:type>Spa Equipment</s:type>
+    <s:vendor>Continuum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/timthumb_51b81b87-8ac3-4d65-b975-01d36dad1cdc.jpg?v=1521756570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Continuum<br>
+        <strong>Type: </strong>Spa Equipment<br>
+        <strong>Price: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stylish manicure trays have an integrated cup holder and fold down for added convenience.</p>
+<p>High quality, acetone resistant finish.</p>
+<p>*Upgrade available for Continuum products: Maestro, Echo SE and Simplicity SE.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>upgrade</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7492310533</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">350.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7492291141</id>
+    <published>2017-04-11T16:27:00-07:00</published>
+    <updated>2017-04-11T16:27:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/continuum-dual-vented-air-system-upgrade"/>
+    <title>Continuum - Dual Vented-Air System Upgrade</title>
+    <s:type>Spa Equipment</s:type>
+    <s:vendor>Continuum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/timthumb_c9161841-78f6-475a-8167-4979582b50fe.jpg?v=1521756557"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Continuum<br>
+        <strong>Type: </strong>Spa Equipment<br>
+        <strong>Price: </strong>
+            425.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>If pedicure spa ventilation is required in your area, the Echo LE, Echo SE or Vantage VE may be ordered with a vented-air option. Two (2) vents are located within inches of the pedicure footrest area.  When connected to an external HVAC system (not included), toxins and odors are vented outside of the building. Provide a safe and relaxing environment by improving the air quality in your salon.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7492291141</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">425.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7492256133</id>
+    <published>2017-04-11T16:16:00-07:00</published>
+    <updated>2017-04-11T16:16:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/continuum-auto-fill-magnetic-jet-upgrade"/>
+    <title>Continuum -  Auto-fill + Magnetic Jet Upgrade</title>
+    <s:type>Spa Equipment</s:type>
+    <s:vendor>Continuum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/timthumb_6b3d77a3-3c9b-4dea-9d6c-5fca8583fc85.jpg?v=1521756522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Continuum<br>
+        <strong>Type: </strong>Spa Equipment<br>
+        <strong>Price: </strong>
+            630.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Clients enjoy an invigorating foot massage from a powerful dual stream pipe-less magnetic jet. Continuum’s pipe-less system ensures a safe and sanitary pedicure by eliminating internal pipes that recirculate water. The magnetic jet is exceptionally easy to remove. Simply remove the wet-end of the jet after each pedicure to clean and sanitize. AutoFill conveniently stops filling the basin once the proper water level is reached, giving you peace of mind with overflow protection.</span></p>
+<p><span>*Available for Continuum products: Bravo VE/LE &amp; Signature</span></p>
+<p><span>*Standard on Maestro &amp; Echo SE/LE</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>upgrade</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7492256133</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">630.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7492151493</id>
+    <published>2017-04-11T16:01:00-07:00</published>
+    <updated>2017-04-11T16:01:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/continuum-disposable-tub-liners"/>
+    <title>Continuum -  Disposable Tub Liners</title>
+    <s:type>Spa Equipment</s:type>
+    <s:vendor>Continuum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/timthumb_570475d2-a9b5-4077-aad7-8268f3640a37.jpg?v=1521756530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Continuum<br>
+        <strong>Type: </strong>Spa Equipment<br>
+        <strong>Price: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Make sanitation your biggest priority. The Pedicute and Spa Chair Basins offer a safe, worry-free solution to minimizing cross contamination by utilizing disposable liners in the removable tub. Spend less time cleaning and sanitizing and more time with your next client. </span></p>
+<p><span>Liners sold 300 per box.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7492151493</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">350.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7492135685</id>
+    <published>2017-04-11T15:57:00-07:00</published>
+    <updated>2017-04-11T15:57:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/continuum-accessory-cart"/>
+    <title>Continuum - Accessory Cart</title>
+    <s:type>Spa Equipment</s:type>
+    <s:vendor>Continuum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/timthumb_7fa29ef4-9ec7-400d-aff0-2ed714669e66.png?v=1521756542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Continuum<br>
+        <strong>Type: </strong>Spa Equipment<br>
+        <strong>Price: </strong>
+            395.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Constructed with an all steel frame and a tempered glass top, it is the most durable and functional pedicure cart available.</span></p>
+<p>A perfectly positioned back tray holds up to three (3) 32oz bottles within arm’s reach. Top of the line rubber skate casters allow the cart to easily glide across any surface for shared use between services. Other features include:  two (2) sliding drawers, sliding front panel and front/back top bar supports.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7492135685</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">395.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7492125957</id>
+    <published>2017-04-11T15:54:00-07:00</published>
+    <updated>2017-04-11T15:54:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/continuum-standard-technician-chair"/>
+    <title>Continuum - Standard Technician Chair</title>
+    <s:type>Spa Equipment</s:type>
+    <s:vendor>Continuum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/timthumb_c6c9255d-c091-4ae1-86dc-60446c5c00db.png?v=1521756607"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Continuum<br>
+        <strong>Type: </strong>Spa Equipment<br>
+        <strong>Price: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Ergonomically designed with an extra firm padded back support and seat cushion the Standard Tech Chair provides total comfort. Available in a variety of colors to match your pedicure chair (Black, Chocolate, Almond and Cappuccino). Continuum logo delicately embossed on the lower front corner of the chair-back cushion. Cast aluminum base ensures strength and durability. This stylish tech chair is low to the ground and compliments the look of any Continuum pedicure spa.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7492125957</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7492116549</id>
+    <published>2017-04-11T15:53:00-07:00</published>
+    <updated>2017-04-11T15:53:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/continuum-deluxe-wood-technician-chair"/>
+    <title>Continuum - Deluxe Wood Technician Chair</title>
+    <s:type>Spa Equipment</s:type>
+    <s:vendor>Continuum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/timthumb.png?v=1521756558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Continuum<br>
+        <strong>Type: </strong>Spa Equipment<br>
+        <strong>Price: </strong>
+            475.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A Continuum pedicure spa wouldn’t be complete without a technician’s chair designed to complement our product line. This beautifully crafted adjustable chair is made of curved cherry veneer and includes a matching cushion. The technician’s chair is extremely comfortable and low to the ground (telescoping range of 12-1/4” to 15”). Available in dark or light wood finish. Specs: Range from ground with standard cylinder is 14” to 16” (without 2” cushion). Range with optional high cylinder is 19” to 24.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7492116549</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">475.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7491992709</id>
+    <published>2017-04-11T15:11:00-07:00</published>
+    <updated>2017-04-11T15:11:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/continuum-pedicute-portable-spa"/>
+    <title>Continuum -  Pedicute Portable Spa</title>
+    <s:type>Spa Equipment</s:type>
+    <s:vendor>Continuum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/pedicute.PNG?v=1521756536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Continuum<br>
+        <strong>Type: </strong>Spa Equipment<br>
+        <strong>Price: </strong>
+            1195.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A truly portable and hassle free pedicure experience! The easy-lift tub fills at any sink without hoses, pumps or connectors. The Pedicute’s compact design and easy glide locking casters ensure total portability. Start giving pedicures in minutes with the Pedicute Portable Footspa.</span></p>
+<p><span>The Pedicute was designed and manufactured for many years of trouble-free service. Quality features include a sturdy welded steel frame, industrial grade components, and  genuine cherry wood veneers protected with a durable acetone-resistant finish. Four (4) heavy-duty easy glide casters; front casters lock.</span></p>
+<ul>
+<li><span>Its lightweight removable tub fills from any sink without hoses or connectors. The tub holds the perfect amount of water (1.5 gallons) and comfortably fits up to a size thirteen foot. Enjoy all the features and benefits of a regular pedicure spa without all the cleaning, plumbing and water consumption.</span></li>
+<li><span>Make sanitation your biggest priority. The Pedicute offers a safe, worry-free solution to minimizing cross contamination by utilizing disposable liners in the removable tub. Spend less time cleaning and sanitizing and more time with your next client.</span></li>
+<li>
+<p>Two levels of vibrating aqua massage ensure a truly luxurious and invigorating foot soak. An additional two levels of soothing heat keeps the water temperature warm throughout the entire pedicure experience. Your customer’s will love this unique and sanitary pedicure experience.</p>
+</li>
+<li>
+<p> </p>
+<p><span>No more tired and sore arms from holding the clients leg up during the pedicure! Whether you are massaging the calf, working on the heel or paining toenails, the adjustable height center footpad coupled with fixed right and left pads, position the foot perfectly throughout the entire pedicure.</span></p>
+</li>
+<li>
+<p>Dark or Cherry Wood Stain. Cream or Black Lightweight Tub.</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7491992709</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1195.00</s:price>
+      <s:sku>1195</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7491966981</id>
+    <published>2017-04-11T15:09:00-07:00</published>
+    <updated>2017-04-11T15:09:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/continuum-signature-drop-in-basin"/>
+    <title>Continuum - Signature Drop-In Basin</title>
+    <s:type>Spa Equipment</s:type>
+    <s:vendor>Continuum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/signaturebasinINcabinetREV-2-437x234.png?v=1521756597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Continuum<br>
+        <strong>Type: </strong>Spa Equipment<br>
+        <strong>Price: </strong>
+            2595.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed to complement any salon décor, the Signature Drop-In Basin is Eco-friendly and holds approximately five gallons of water. Clients enjoy an invigorating massage by a powerful dual stream magnetic jet that’s exceptionally easy to clean and sanitize. The basin is made of a durable and chemical resistant acrylic-capped fiberglass featuring a river stone textured bottom for added comfort and sensation. It also incorporates a handheld sprayer, patented adjustable center leg support and comfortable foot rests.</p>
+<p>A recycled steel frame supports the entire basin, virtually eliminating the problem of cracking. The Signature Drop-In Basin is proudly made in Wisconsin.</p>
+<p>Available Options: Auto-Fill, Factory Installed Discharge Pump</p>
+<p><strong>Cabinet shown for display only, not available for sale.</strong></p>
+<p>Front Panel of Drop-in Basin Available in:</p>
+<p>Satin Stainless (Wilsonart 4830K-18)</p>
+<p>Espresso Pear (Formica 5489-NT)</p>
+<p>Select Cherry (Formica 7759-43)</p>
+<p>Neutral White (Formica 918 Matte)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7491966981</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2595.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7491959173</id>
+    <published>2017-04-11T15:05:00-07:00</published>
+    <updated>2017-04-11T15:05:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/continuum-simplicity-se-pedicure-chair"/>
+    <title>Continuum - Simplicity SE Pedicure Chair</title>
+    <s:type>Spa Equipment</s:type>
+    <s:vendor>Continuum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/SimplicitySE_Fade.jpg?v=1521756607"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Continuum<br>
+        <strong>Type: </strong>Spa Equipment<br>
+        <strong>Price: </strong>
+            4995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The SE (Spa Edition) chair features an ergonomically designed Vibra-Massage + Heat total relaxation system. Clients are massaged by four (4) whisper quiet, oscillating motors embedded into the incredibly comfortable seat back. Vibra-Massage and Heat are controlled independently by simply adjusting the intensity and location on the client’s remote. Vibration and Heat are embedded into the seat back providing a unique soothing sensation. SE chair includes a stationary cupholder.</span></p>
+<ul>
+<li>
+<span>Its lightweight removable tub fills from any sink without hoses or connectors. The tub holds the perfect amount of water (1.5 gallons) and comfortably fits up to a size thirteen foot. Enjoy the features and benefits of a regular pedicure spa </span><u>without</u><span> all the cleaning, plumbing and water consumption. Save water, time, money and the environment.</span>
+</li>
+<li>
+<p>Make sanitation your biggest priority with the only sensible alternative to a standard pedicure throne. The Simplicity is a safe, worry-free solution to minimizing cross contamination by utilizing disposable liners in the removable tub. Spend less time cleaning and sanitizing and more time with your next client.</p>
+</li>
+<li><span>Two levels of vibrating aqua massage ensure a truly luxurious and invigorating foot soak. An additional two levels of soothing heat keeps the water temperature warm throughout the entire pedicure experience. Your customers will love this unique and sanitary pedicure experience.</span></li>
+<li><span>No more tired and sore arms from holding the clients leg up during the pedicure! Whether you are massaging the calf, working on the heel or paining toenails, the adjustable height center footpad coupled with fixed right and left pads, position the foot perfectly throughout the entire pedicure.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7491959173</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4995.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7491950213</id>
+    <published>2017-04-11T14:59:00-07:00</published>
+    <updated>2017-04-11T14:59:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/continuum-simplicity-le-pedicure-spa"/>
+    <title>Continuum - Simplicity LE Pedicure Spa</title>
+    <s:type>Spa Equipment</s:type>
+    <s:vendor>Continuum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/SimplicityLE_FADE-e1481131839916.jpg?v=1521756599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Continuum<br>
+        <strong>Type: </strong>Spa Equipment<br>
+        <strong>Price: </strong>
+            5995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The LE (Luxury Edition) chair has a full (rolling, kneading, tapping and knocking) shiatsu back massage that provides the client with a ‘hands on’ deep-tissue massage. Fold-down acetone resistant manicure trays with cup holder and convenient dual pivoting arms add elements of quality and convenience. Premium ultra-leather, molded arms and commercial-grade massage mechanism are also some of the upgraded features of the LE chair.</span></p>
+<ul>
+<li>
+<span>Its lightweight removable tub fills from any sink without hoses or connectors. The tub holds the perfect amount of water (1.5 gallons) and comfortably fits up to a size thirteen foot. Enjoy the features and benefits of a regular pedicure spa </span><u>without</u><span> all the cleaning, plumbing and water consumption. Save water, time, money and the environment.</span>
+</li>
+<li>
+<p>Stylish manicure trays have an integrated cup holder and fold down for added convenience.</p>
+</li>
+<li>
+<p>Make sanitation your biggest priority with the only sensible alternative to a standard pedicure throne. The Simplicity is a safe, worry-free solution to minimizing cross contamination by utilizing disposable liners in the removable tub. Spend less time cleaning and sanitizing and more time with your next client.</p>
+</li>
+<li><span>Two levels of vibrating aqua massage ensure a truly luxurious and invigorating foot soak. An additional two levels of soothing heat keeps the water temperature warm throughout the entire pedicure experience. Your customers will love this unique and sanitary pedicure experience.</span></li>
+<li><span>No more tired and sore arms from holding the clients leg up during the pedicure! Whether you are massaging the calf, working on the heel or paining toenails, the adjustable height center footpad coupled with fixed right and left pads, position the foot perfectly throughout the entire pedicure.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chair</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7491950213</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5995.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7491931525</id>
+    <published>2017-04-11T14:55:00-07:00</published>
+    <updated>2017-04-11T14:55:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/continuum-upgrade-echo-se-le-solid-surface-basin"/>
+    <title>Continuum - Upgrade Echo SE/LE Solid Surface Basin</title>
+    <s:type>Spa Equipment</s:type>
+    <s:vendor>Continuum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/timthumb.jpg?v=1521756611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Continuum<br>
+        <strong>Type: </strong>Spa Equipment<br>
+        <strong>Price: </strong>
+            1120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Upgrade to the finest, most durable basin available. Handcrafted from a solid surface material similar to Corian, it is stain, chemical and crack resistant. This easy clean, 4.75 gallon solid surface basin will look brand new year after year and is backed by a five (5) year warranty.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7491931525</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7491912709</id>
+    <published>2017-04-11T14:44:00-07:00</published>
+    <updated>2017-04-11T14:44:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/continuum-vantage-pedicure-spa"/>
+    <title>Continuum - Vantage Pedicure Spa</title>
+    <s:type>Spa Equipment</s:type>
+    <s:vendor>Continuum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/van.PNG?v=1521756617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Continuum<br>
+        <strong>Type: </strong>Spa Equipment<br>
+        <strong>Price: </strong>
+            5995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The VE Chair is equipped with a full shiatsu back massage, fold-down manicure trays with cupholder, and pivoting arms for easy access in and out of the pedicure spa. The VE Chair has a completely different design than the more expensive LE (Luxury Edition) Chair. Black upholstered arms, different upholstery patterns and a slightly shorter back are some of the notable VE Chair features.</span></p>
+<p><span>An American made, welded steel frame provides its arch with maximum strength to support the entire pedicure spa. Continuum is the <em>only</em> pedicure spa manufacturer to use a steel frame design for extra support (up to 350 lbs.) on the entire base, chair and basin of the spa. Quality and attention to detail on every Continuum pedicure chair separate us from the competition and gives you total peace of mind.</span></p>
+<ul>
+<li><span>Clients enjoy an invigorating foot massage from a powerful dual stream pipe-less magnetic jet. Continuum’s pipe-less system ensures a safe and sanitary pedicure by eliminating internal pipes that recirculate water. The whisper quiet jet is compatible with tub liners, making it the convenient solution to pedicure spa sanitation. The magnetic jet is exceptionally easy to remove. </span></li>
+<li><span>A single adjustable footrest tilts for your customer’s ultimate comfort during the pedicure. This chemical resistant fiberglass footrest is easy to clean and will look new for years to come.</span></li>
+<li><span>Designed with eco-friendly materials such as recycled metal, Formica and wood, Continuum pedicure spas reduce environmental impact by using a minimal amount of plastic and less water consumption. Continuum is the ONLY pedicure spa company to be recommended by the National Association of Eco-Friendly Salons and Spas (NAEFSS) for our commitment to environmentally friendly practices.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chair</s:tag>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7491912709</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5995.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7350424965</id>
+    <published>2017-03-22T12:18:00-07:00</published>
+    <updated>2017-03-22T12:18:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/continuum-echo-se-pedicure-spa"/>
+    <title>Continuum - Echo SE Pedicure Spa</title>
+    <s:type>Spa Equipment</s:type>
+    <s:vendor>Continuum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/EchoB_FADE.jpg?v=1521756563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Continuum<br>
+        <strong>Type: </strong>Spa Equipment<br>
+        <strong>Price: </strong>
+            6995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The SE (Spa Edition) chair features an ergonomically designed Vibra-Massage + Heat total relaxation system. Clients are massaged by four (4) whisper quiet, oscillating motors embedded into the incredibly comfortable seat back. Vibra-Massage and Heat are controlled independently by simply adjusting the intensity and location on the client’s remote. Vibration and Heat are embedded into the seat back providing a unique soothing sensation. SE chair includes a stationary cupholder.</span></p>
+<ul>
+<li>
+<span>An American made, welded steel frame provides each Maestro, Echo, Vantage and Simplicity arch with maximum strength to support the entire pedicure spa. Continuum is the </span><em>only</em><span> pedicure spa manufacturer to use a steel frame design for extra support (up to 350 lbs.) on the entire base, chair and basin of the spa. Quality and attention to detail on every Continuum pedicure chair separate us from the competition and gives you total peace of mind.</span>
+</li>
+<li><span>Clients enjoy an invigorating foot massage from a powerful dual stream pipe-less magnetic jet. Continuum’s pipe-less jet system ensures a safe and sanitary pedicure by eliminating internal pipes that recirculate water. This whisper quiet jet is compatible with tub liners, making it the convenient solution to pedicure spa sanitation. The magnetic jet is exceptionally easy to remove. Simply remove the wet-end of the jet after each pedicure to clean and sanitize.  AutoFill conveniently stops filling the basin once the proper water level is reached, giving you peace of mind with overflow protection.</span></li>
+<li><span>No more tired and sore arms from holding the clients leg up during the pedicure! Whether you are massaging the calf, working on the heel or paining toenails, the adjustable height center footpad coupled with fixed right and left pads, position the foot perfectly throughout the entire pedicure.</span></li>
+<li><span>Continuum’s unique acrylic-capped fiberglass basin is extremely durable and produced to resemble the color and look of a classic porcelain tub. A river stone textured bottom provides additional sensation, enhancing your customers pedicure experience. This stain, chemical and crack resistant basin is also backed by a two (2) year warranty.</span></li>
+<li><span>It’s instantly recognizable as “Continuum.” And it looks like nothing else. Created by the renowned designers at Brooks Stevens, the Echo Series is the ultimate combination of luxury and affordability. Set your salon/spa above with the one-of-a-kind Echo pedicure chair.</span></li>
+<li><span>Continuum pedicure spas are designed, engineered, assembled and quality tested exclusively in the United States. All major components are produced domestically resulting in superior quality and increased longevity. When you purchase a Continuum pedicure chair you’re assured a high quality pedicure chair built to last.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7350424965</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6995.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7350409925</id>
+    <published>2017-03-22T11:57:00-07:00</published>
+    <updated>2017-03-22T11:57:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/continuum-echo-le-pedicure-spa"/>
+    <title>Continuum - Echo LE Pedicure Spa</title>
+    <s:type>Spa Equipment</s:type>
+    <s:vendor>Continuum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/EchoLE_FADE-e1481051161205.jpg?v=1521756560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Continuum<br>
+        <strong>Type: </strong>Spa Equipment<br>
+        <strong>Price: </strong>
+            7850.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The LE (Luxury Edition) chair has a full (rolling, kneading, tapping and knocking) shiatsu back massage that provides the client with a ‘hands on’ deep-tissue massage. Fold-down acetone resistant manicure trays with cup holder and convenient dual pivoting arms add elements of quality and convenience. Premium ultra-leather, molded arms and commercial-grade massage mechanism are also some of the upgraded features of the LE chair.</span></p>
+<ul>
+<li>
+<span>An American made, welded steel frame provides each Maestro, Echo, Vantage and Simplicity arch with maximum strength to support the entire pedicure spa. Continuum is the </span><em>only</em><span> pedicure spa manufacturer to use a steel frame design for extra support (up to 350 lbs.) on the entire base, chair and basin of the spa. Quality and attention to detail on every Continuum pedicure chair separate us from the competition and gives you total peace of mind.</span>
+</li>
+<li><span>Clients enjoy an invigorating foot massage from a powerful dual stream pipe-less magnetic jet. Continuum’s pipe-less jet system ensures a safe and sanitary pedicure by eliminating internal pipes that recirculate water. This whisper quiet jet is compatible with tub liners, making it the convenient solution to pedicure spa sanitation. The magnetic jet is exceptionally easy to remove. Simply remove the wet-end of the jet after each pedicure to clean and sanitize.  AutoFill conveniently stops filling the basin once the proper water level is reached, giving you peace of mind with overflow protection.</span></li>
+<li><span>No more tired and sore arms from holding the clients leg up during the pedicure! Whether you are massaging the calf, working on the heel or paining toenails, the adjustable height center footpad coupled with fixed right and left pads, position the foot perfectly throughout the entire pedicure.</span></li>
+<li><span>Continuum’s unique acrylic-capped fiberglass basin is extremely durable and produced to resemble the color and look of a classic porcelain tub. A river stone textured bottom provides additional sensation, enhancing your customers pedicure experience. This stain, chemical and crack resistant basin is also backed by a two (2) year warranty.</span></li>
+<li><span>It’s instantly recognizable as “Continuum.” And it looks like nothing else. Created by the renowned designers at Brooks Stevens, the Echo Series is the ultimate combination of luxury and affordability. Set your salon/spa above with the one-of-a-kind Echo pedicure chair.</span></li>
+<li><span>Continuum pedicure spas are designed, engineered, assembled and quality tested exclusively in the United States. All major components are produced domestically resulting in superior quality and increased longevity. When you purchase a Continuum pedicure chair you’re assured a high quality pedicure chair built to last.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7350409925</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7850.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7350288325</id>
+    <published>2017-03-22T11:53:00-07:00</published>
+    <updated>2017-03-22T11:53:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/continuum-bravo-ve-pedicure-spa"/>
+    <title>Continuum -  Bravo VE Pedicure Spa</title>
+    <s:type>Spa Equipment</s:type>
+    <s:vendor>Continuum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/ve.png?v=1521756531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Continuum<br>
+        <strong>Type: </strong>Spa Equipment<br>
+        <strong>Price: </strong>
+            5795.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The VE (Value Edition) chair is also equipped with a full shiatsu massage, manicure trays and dual pivoting arms but has a completely different design than the more expensive LE (Luxury Edition) chair. Black upholstered arms, different upholstery patterns and a slightly shorter back are some of the notable VE chair features.</span></p>
+<p><span>This unique one-piece design pivots to 30 and 90 degrees ensuring total comfort for client and tech. Whether you are massaging the calf, working on the heel or paining toenails, the foot is perfectly positioned throughout the entire pedicure.</span></p>
+<ul>
+<li>Available in several eye-catching colors, the tempered glass basin is ¾” thick and resistant to cracks and stains. A heat-treating process gives the glass bowls a special reflective/glimmering appearance…A built-in multi-colored LED light further enhances the aesthetic look.</li>
+<li>A LED light automatically cycles through a variety of color combinations, adding a soothing and enjoyable ambiance to your client’s pedicure experience.  </li>
+<li>Pamper your clients with an invigorating foot massage from a powerful dual stream pipe-less magnetic jet. Continuum’s pipe-less system ensures a safe and sanitary pedicure by eliminating internal pipes that recirculate water. This whisper-quiet jet is compatible with tub liners, making it the convenient solution to pedicure spa sanitation. The magnetic jet is exceptionally easy to remove; simply remove the wet-end of the jet after each pedicure to clean and sanitize.</li>
+<li>Continuum pedicure spas are designed, engineered and assembled exclusively in the United States. Each pedicure chair is inspected and tested by a certified master plumber prior to packaging. When you purchase a Continuum pedicure chair you’re assured a high-quality pedicure chair built to last.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7350288325</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5795.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7350267845</id>
+    <published>2017-03-22T11:47:00-07:00</published>
+    <updated>2017-03-22T11:47:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/continuum-bravo-le-pedicure-spa"/>
+    <title>Continuum - Bravo LE Pedicure Spa</title>
+    <s:type>Spa Equipment</s:type>
+    <s:vendor>Continuum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/brabole.png?v=1521756543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Continuum<br>
+        <strong>Type: </strong>Spa Equipment<br>
+        <strong>Price: </strong>
+            6500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The LE (Luxury Edition) chair has a full (rolling, kneading, tapping and knocking) deep-tissue shiatsu back massage that clients can personalize with its easily operated hand control.  Acetone resistant manicure trays and convenient dual pivoting arms add elements of quality and convenience.  Premium ultra-leather, molded arms and commercial-grade massage mechanism are also some of the upgraded features of the LE chair.</span></p>
+<p><span>This unique one-piece design pivots to 30 and 90 degrees ensuring total comfort for client and tech. Whether you are massaging the calf, working on the heel or paining toenails, the foot is perfectly positioned throughout the entire pedicure.</span></p>
+<ul>
+<li>Available in several eye-catching colors, the tempered glass basin is ¾” thick and resistant to cracks and stains. A heat-treating process gives the glass bowls a special reflective/glimmering appearance…A built-in multi-colored LED light further enhances the aesthetic look.</li>
+<li>A LED light automatically cycles through a variety of color combinations, adding a soothing and enjoyable ambiance to your client’s pedicure experience.  </li>
+<li>Pamper your clients with an invigorating foot massage from a powerful dual stream pipe-less magnetic jet. Continuum’s pipe-less system ensures a safe and sanitary pedicure by eliminating internal pipes that recirculate water. This whisper-quiet jet is compatible with tub liners, making it the convenient solution to pedicure spa sanitation. The magnetic jet is exceptionally easy to remove; simply remove the wet-end of the jet after each pedicure to clean and sanitize.</li>
+<li>Continuum pedicure spas are designed, engineered and assembled exclusively in the United States. Each pedicure chair is inspected and tested by a certified master plumber prior to packaging. When you purchase a Continuum pedicure chair you’re assured a high-quality pedicure chair built to last.</li>
+<li>Auto-fill This convenient feature automatically stops filling the basin once the proper water level is reached. This greatly reduces the chance of overflow and allows the technician to continue working while the pedicure spa fills with water. Simply set the water temperature, close the drain and the whisper quite jet will start once the fill sprayer automatically turns off.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7350267845</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/7350199173</id>
+    <published>2017-03-22T11:36:00-07:00</published>
+    <updated>2017-03-22T11:36:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/continuum-maestro-pedicure-spa"/>
+    <title>Continuum - Maestro Pedicure Spa</title>
+    <s:type>Spa Equipment</s:type>
+    <s:vendor>Continuum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/maestro.jpeg?v=1521756567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Continuum<br>
+        <strong>Type: </strong>Spa Equipment<br>
+        <strong>Price: </strong>
+            13800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed without compromise and built to an ever higher standard, the Maestro was created with the desire to build the best pedicure spa available.</p>
+<p><strong>Standard Features</strong></p>
+<ul>
+<li>Two pipeless jets are sanitary &amp; quiet Handcrafted solid surface basin</li>
+<li>Hand cut and sewn upholstery</li>
+<li>Rolling &amp; kneading chair massage</li>
+<li>Swivel chair with integrated lumbar support</li>
+<li>Genuine wood veneers protected by industrial grade finishes</li>
+<li>iFill™ system automatically fills the basin</li>
+<li>Dual pivoting leg supports</li>
+<li>Dual client/tech seat controls</li>
+<li>Manufactured in the USA</li>
+</ul>
+<p><strong>Optional Features</strong></p>
+<ul>
+<li>Acetone resistant manicure trays</li>
+<li>Drain pump kit (factory installed)</li>
+<li>Full side cover panels</li>
+<li>Custom upholstery</li>
+</ul>
+<p><strong>Dimensions</strong></p>
+<p>69.875" long (177.5cm); 36.5" wide (92.7cm) with cup holder; 44.5" wide (113cm) with manicure trays</p>
+<p>*Upholstery Upgrade Maestro (NO Charge on 4 or more units) $ 1495</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/7350199173</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

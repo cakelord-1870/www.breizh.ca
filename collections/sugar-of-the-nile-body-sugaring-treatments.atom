@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.breizh.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.breizh.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.breizh.ca/collections/sugar-of-the-nile-body-sugaring-treatments.atom"/>
+  <title>Breizh Esthetics &amp; Salon Supply Co.</title>
+  <updated>2018-05-09T12:11:58-07:00</updated>
+  <author>
+    <name>Breizh Esthetics &amp; Salon Supply Co.</name>
+  </author>
+  <entry>
+    <id>https://www.breizh.ca/products/756201095256</id>
+    <published>2018-05-09T12:11:58-07:00</published>
+    <updated>2018-05-09T12:11:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/sugar-of-the-nile-training-manual"/>
+    <title>Sugar of the Nile Training Manual</title>
+    <s:type></s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Only available with Sugarist Starter Kit.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/756201095256</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>BREIZHES-00119</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/5330437317</id>
+    <published>2016-03-18T11:15:00-07:00</published>
+    <updated>2016-03-18T11:15:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/sugar-of-the-nile-poster"/>
+    <title>Sugar of the Nile - Poster</title>
+    <s:type>Waxing</s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/sugarofthenile-poster.jpg?v=1521759399"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong>Waxing<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/FhfP2MJT4IY" frameborder="0" allowfullscreen=""></iframe></p>
+<p><span>Sugar of the Nile sugar paste and sugaring techniques are rapidly becoming a global phenomenon! If you haven't been certified to work with this amazing depilatory solution yet, give us a call and we'll be sure to connect you a sugaring educator! A perfectly natural and more comfortable alternative to waxing!</span></p>
+<p>Promote your sugaring business with this beautifully designed 12x18 inch semi gloss Sugar of the Nile poster! Get more customers for your esthetics business today!</p>
+<p><strong>Sugar of the Nile is a brand exclusive to Breizh in BC! Contact us today to learn more about how this can add to your business or replace Alexandria Sugar Paste!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5330437317</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>BREIZHES-00087</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/5330398725</id>
+    <published>2016-03-18T11:10:00-07:00</published>
+    <updated>2016-03-18T11:10:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/sugar-of-the-nile-apron"/>
+    <title>Sugar of the Nile - Sugaring Apron</title>
+    <s:type>Waxing</s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/sugarofthenile-apron.jpg?v=1521759416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong>Waxing<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/FhfP2MJT4IY" frameborder="0" allowfullscreen=""></iframe></p>
+<p><span>Sugar of the Nile sugar paste and sugaring techniques are rapidly becoming a global phenomenon! If you haven't been certified to work with this amazing depilatory solution yet, give us a call and we'll be sure to connect you a sugaring educator! A perfectly natural and more comfortable alternative to waxing!</span></p>
+<p>Protect your clothes and promote your favorite sugaring line with this beautiful Sugar Of The Nile apron! It has two pockets and ties up at the back.</p>
+<p>Only available at Breizh Esthetics &amp; Salon Supply Co. based out of Vancouver, BC! Sugar of the Nile is a brand exclusive to Breizh in BC! Contact us today to learn more about how this can add to your business or replace Alexandria Sugar Paste!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5330398725</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>BREIZHES-00088</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/5320993349</id>
+    <published>2016-03-16T15:27:00-07:00</published>
+    <updated>2016-03-16T15:27:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/sugar-of-the-nile-single-paste-warmer"/>
+    <title>Sugar of the Nile - Sugar Warmer for Body Sugaring</title>
+    <s:type>Waxing</s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/sugarofthenile-paste-warmer.jpg?v=1521759410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong>Waxing<br>
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/FhfP2MJT4IY" frameborder="0" allowfullscreen=""></iframe></p>
+<p><span>Sugar of the Nile sugar paste and sugaring techniques are rapidly becoming a global phenomenon! If you haven't been certified to work with this amazing depilatory solution yet, give us a call and we'll be sure to connect you a sugaring educator! A perfectly natural and more comfortable alternative to waxing!</span></p>
+<p>This is a high quality and professional grade sugar paste warmer which is reliable and effective. Two year warranty. CSA Approved.</p>
+<p><strong>Sugar of the Nile is a brand exclusive to Breizh in BC! Contact us today to learn more about how this can add to your business or replace Alexandria Sugar Paste!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5320993349</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">150.00</s:price>
+      <s:sku>BREIZHES-00089</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/5320791173</id>
+    <published>2016-03-16T15:04:00-07:00</published>
+    <updated>2016-03-16T15:04:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/sugar-of-the-nile-in-b-gone"/>
+    <title>Sugar of the Nile - In-B-Gone Ingrown Hair Solution</title>
+    <s:type>Waxing</s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/sugarofthenile-b-gone.jpg?v=1521759388"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong>Waxing<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/FhfP2MJT4IY" frameborder="0" allowfullscreen=""></iframe></p>
+<p><span>Sugar of the Nile sugar paste and sugaring techniques are rapidly becoming a global phenomenon! If you haven't been certified to work with this amazing depilatory solution yet, give us a call and we'll be sure to connect you a sugaring educator! A perfectly natural and more comfortable alternative to waxing!</span></p>
+<p>A formula used to reduce the effects of ingrown hair and irritations. Apply immediately after sugaring and continue to use until hair reappears. For external use only.<br><br>Paraben free and not tested on animals! Sugar of the Nile is a brand exclusive to Breizh in BC! Contact us today to learn more about how this can add to your business or replace Alexandria Sugar Paste!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5320791173</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>BREIZHES-00090</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/5320738181</id>
+    <published>2016-03-16T15:01:00-07:00</published>
+    <updated>2016-03-16T15:01:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/sugar-of-the-nile-startup-kit"/>
+    <title>Sugar of the Nile - Sugarist Starter Kit - Requires Course</title>
+    <s:type>Waxing</s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/sugarofthenile-startup-kit.jpg?v=1521759416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong>Waxing<br>
+        <strong>Price: </strong>
+            339.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/FhfP2MJT4IY" frameborder="0" allowfullscreen=""></iframe></p>
+<p><span>Sugar of the Nile sugar paste and sugaring techniques are rapidly becoming a global phenomenon! If you haven't been certified to work with this amazing depilatory solution yet, give us a call and we'll be sure to connect you a sugaring educator! A perfectly natural and more comfortable alternative to waxing!</span></p>
+<p>The sugarist starter kit contains the following items:<br><br>- Warmer<br> - Towelettes<br> - Nitrile Gloves<br> - Body Mist<br> - Drying Powder<br> - 2 Island Sugar Paste<br> - 1 Traditional Sugar Paste<br> - Skin Cleanser<br> - Re-Vitalizing Creme<br> - Spa Massage Glove<br> - Manual<br><br>This kit is only available for a one time purchase for students when taking the Sugar of the Nile training program.  Reg. Price: $360</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5320738181</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">339.00</s:price>
+      <s:sku>BREIZHES-00091</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/5320034245</id>
+    <published>2016-03-16T12:59:00-07:00</published>
+    <updated>2016-03-16T12:59:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/sugar-of-the-nile-highly-purified-powder"/>
+    <title>Sugar of the Nile - Natural Powder Refill Bags</title>
+    <s:type>Waxing</s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/sugarofthenile-purifiedpowder.jpg?v=1521759390"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong>Waxing<br>
+        <strong>Price: </strong>
+            24.00 - 46.00
+            <a href="https://www.breizh.ca/products/sugar-of-the-nile-highly-purified-powder">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/FhfP2MJT4IY" frameborder="0" allowfullscreen=""></iframe></p>
+<p><span>Sugar of the Nile sugar paste and sugaring techniques are rapidly becoming a global phenomenon! If you haven't been certified to work with this amazing depilatory solution yet, give us a call and we'll be sure to connect you a sugaring educator! A perfectly natural and more comfortable alternative to waxing!</span></p>
+<p>Our highly purified, unscented powder come in 3 sizes.  The bags of powder are used to refill 8 oz. container.  The powder is applied to dry the skin prior to applying the sugar paste to treatment area.</p>
+<p>Ingredients: Arrowroot Powder, Zea Mays (Corn) Starch, Camellia Leaf (Green Tea) Extract</p>
+<p><strong>Sugar of the Nile is a brand exclusive to Breizh in BC! Contact us today to learn more about how this can add to your business or replace Alexandria Sugar Paste!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5320034245</id>
+      <title>2lb</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>BREIZHES-00067</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5320034245</id>
+      <title>5lb</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku>BREIZHES-00066</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/5320017797</id>
+    <published>2016-03-16T12:56:00-07:00</published>
+    <updated>2016-03-16T12:56:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/sugar-of-the-nile-natural-powder"/>
+    <title>Sugar of the Nile - Natural Powder Shaker 135g</title>
+    <s:type>Waxing</s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/sugarofthenile-natural-powder.jpg?v=1521759392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong>Waxing<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/FhfP2MJT4IY" frameborder="0" allowfullscreen=""></iframe></p>
+<p><span>Sugar of the Nile sugar paste and sugaring techniques are rapidly becoming a global phenomenon! If you haven't been certified to work with this amazing depilatory solution yet, give us a call and we'll be sure to connect you a sugaring educator! A perfectly natural and more comfortable alternative to waxing!</span></p>
+<p>The powder is applied to dry the skin prior to applying the sugar paste to the treatment areas</p>
+<p>Ingredients: Arrowroot Powder, Zea Mays (Corn) Starch, Camellia Leaf (Green Tea) Extract</p>
+<p><strong>Sugar of the Nile is a brand exclusive to Breizh in BC! Contact us today to learn more about how this can add to your business or replace Alexandria Sugar Paste!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5320017797</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>BREIZHES-00009</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/5320007685</id>
+    <published>2016-03-16T12:51:00-07:00</published>
+    <updated>2016-03-16T12:51:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/sugar-of-the-nile-skin-cleanser"/>
+    <title>Sugar of the Nile - Natural Pre-Depilatory Skin Cleanser</title>
+    <s:type>Waxing</s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/sugarofthenile-skin-cleanser.jpg?v=1521759396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong>Waxing<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/FhfP2MJT4IY" frameborder="0" allowfullscreen=""></iframe></p>
+<p><span>Sugar of the Nile sugar paste and sugaring techniques are rapidly becoming a global phenomenon! If you haven't been certified to work with this amazing depilatory solution yet, give us a call and we'll be sure to connect you a sugaring educator! A perfectly natural and more comfortable alternative to waxing!</span></p>
+<p>This cleanser is rinse-free formula designed to cleanse and prepare skin for sugaring treatment.<br><br>Paraben free and not tested on animals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5320007685</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>BREIZHES-00094</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/5320000709</id>
+    <published>2016-03-16T12:39:00-07:00</published>
+    <updated>2016-03-16T12:39:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/sugar-of-the-nile-body-mist"/>
+    <title>Sugar of the Nile - Calming Body Mist</title>
+    <s:type>Waxing</s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/sugarofthenile-body-mist.jpg?v=1521759369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong>Waxing<br>
+        <strong>Price: </strong>
+            7.00 - 15.00
+            <a href="https://www.breizh.ca/products/sugar-of-the-nile-body-mist">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/FhfP2MJT4IY" frameborder="0" allowfullscreen=""></iframe></p>
+<p><span>Sugar of the Nile sugar paste and sugaring techniques are rapidly becoming a global phenomenon! If you haven't been certified to work with this amazing depilatory solution yet, give us a call and we'll be sure to connect you a sugaring educator! A perfectly natural and more comfortable alternative to waxing!</span></p>
+<p>A unique formula to be sprayed on cleansed skin before and after sugar treatment. A calming body mist must be applied after the sugaring treatment is complete to prevent redness. <br> Paraben free and not tested on animals.</p>
+<p>Sugar of the Nile is a brand exclusive to Breizh in BC! Contact us today to learn more about how this can add to your business or replace Alexandria Sugar Paste!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5320000709</id>
+      <title>250ml</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>BREIZHES-00095</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5320000709</id>
+      <title>120ml</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>BREIZHES-00115</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/5319965957</id>
+    <published>2016-03-16T12:35:00-07:00</published>
+    <updated>2016-03-16T12:35:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/sugar-of-the-nile-gentle-exfolitation"/>
+    <title>Sugar of the Nile - Gentle Vanilla Exfoliating Body Scrub</title>
+    <s:type>Waxing</s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/sugarofthenile-exfoliating-scrubs_44718b0a-0c38-4be5-9133-bef88e556b02.jpg?v=1521759387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong>Waxing<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/FhfP2MJT4IY" frameborder="0" allowfullscreen=""></iframe></p>
+<p><span>Sugar of the Nile sugar paste and sugaring techniques are rapidly becoming a global phenomenon! If you haven't been certified to work with this amazing depilatory solution yet, give us a call and we'll be sure to connect you a sugaring educator! A perfectly natural and more comfortable alternative to waxing!</span></p>
+<p>Exfoliating Scrubs for home care treatment of areas.</p>
+<p><strong>Vanilla Blend - Ingredients:</strong></p>
+<p>Sucrose, Saccharum officinalis ( Sugar Cane) Extract, Helianthus Annuus (Sunflower) Seed Oil, Cocos Nucifera (Coconut) Oil, Vitis Vinifera (Grape) Seed Oil, Prunus Armeniaca (Apricot) Kernel Oil, Tocopheryl Acetate (Vitamin E), Aloe Barbadensis Leaf Juice, Simmondsia Chinensis (Jojoba) Seed Oil, Myristyl Propionate, Camellia Sinensis Leaf (Green Tea) Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Natural Vanilla.</p>
+<p><strong>Sugar of the Nile is a brand exclusive to Breizh in BC! Contact us today to learn more about how this can add to your business or replace Alexandria Sugar Paste!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5319965957</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>BREIZHES-00096</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/5319956741</id>
+    <published>2016-03-16T12:29:00-07:00</published>
+    <updated>2016-03-16T12:29:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/sugar-of-the-nile-deep-exfoliating-scrub"/>
+    <title>Sugar of the Nile - Deep Exfoliating Sugar Scrub</title>
+    <s:type>Waxing</s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/sugarofthenile-exfoliating-scrubs.jpg?v=1521759370"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong>Waxing<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/FhfP2MJT4IY" frameborder="0" allowfullscreen=""></iframe></p>
+<p><span>Sugar of the Nile sugar paste and sugaring techniques are rapidly becoming a global phenomenon! If you haven't been certified to work with this amazing depilatory solution yet, give us a call and we'll be sure to connect you a sugaring educator! A perfectly natural and more comfortable alternative to waxing!</span></p>
+<p>Exfoliating Scrubs for home care treatment of areas.</p>
+<p>Citrus Blend - Ingredients:</p>
+<p>Magnesium Sulfate (Epsom Salt), Sucrose, Saccharum officinalis (Sugar Cane) Extract, Carthamus Tinctorius (Safflower) Seed Oil, Helianthus Annuus (Sunflower) Seed Oil, Olea Europaea (Olive) Oil, Vitis Vinifera (Grape) Seed Oil, Persea Gratissima (Avocado) Oil, Prunus Armeniaca (Apricot) Kernel Oil, Myristyl Propionate, Tocopheryl Acetate (Vitamin E), Cannabis Sativa Seed Oil, Rosmarinus Officinalis (Rosemary) Leaf Extract, Citris Paradisi (Grapefruit) Peel Oil.</p>
+<p><strong>Sugar of the Nile is a brand exclusive to Breizh in BC! Contact us today to learn more about how this can add to your business or replace Alexandria Sugar Paste!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5319956741</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>BREIZHES-00097</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/5319918533</id>
+    <published>2016-03-16T12:09:00-07:00</published>
+    <updated>2016-03-16T12:09:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/sugar-of-the-nile-re-vitalizing-cream"/>
+    <title>Sugar of the Nile - Revitalizing Body Cream</title>
+    <s:type>Waxing</s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/sugarofthenile-revitalizing_cream.jpg?v=1521759402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong>Waxing<br>
+        <strong>Price: </strong>
+            8.00 - 17.00
+            <a href="https://www.breizh.ca/products/sugar-of-the-nile-re-vitalizing-cream">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/FhfP2MJT4IY" frameborder="0" allowfullscreen=""></iframe></p>
+<p><span>Sugar of the Nile sugar paste and sugaring techniques are rapidly becoming a global phenomenon! If you haven't been certified to work with this amazing depilatory solution yet, give us a call and we'll be sure to connect you a sugaring educator! A perfectly natural and more comfortable alternative to waxing!</span></p>
+<p>A formula used to moisturize and protect all skin types. Massage cream into skin until absorbed. Paraben free and not tested on animals.</p>
+<p><strong>Sugar of the Nile is a brand exclusive to Breizh in BC! Contact us today to learn more about how this can add to your business or replace Alexandria Sugar Paste!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5319918533</id>
+      <title>Prof.- $17.00</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>BREIZHES-00063</s:sku>
+      <s:grams>485</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5319918533</id>
+      <title>Ret. - $8.00</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>BREIZHES-00098-1</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.breizh.ca/products/5319838405</id>
+    <published>2016-03-16T11:25:00-07:00</published>
+    <updated>2016-03-16T11:25:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.breizh.ca/products/sugar-of-the-nile"/>
+    <title>Sugar of the Nile - Depilatory Sugar Paste</title>
+    <s:type>Waxing</s:type>
+    <s:vendor>Breizh Esthetics &amp; Salon Supply Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1015/3607/products/sugarofthenile-sugar-paste.jpg?v=1521759387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Breizh Esthetics &amp; Salon Supply Co.<br>
+        <strong>Type: </strong>Waxing<br>
+        <strong>Price: </strong>
+            36.95 - 369.50
+            <a href="https://www.breizh.ca/products/sugar-of-the-nile">(15 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/FhfP2MJT4IY" frameborder="0" allowfullscreen=""></iframe></p>
+<p>Sugar of the Nile sugar paste and sugaring techniques are rapidly becoming a global phenomenon! If you haven't been certified to work with this amazing depilatory solution yet, give us a call and we'll be sure to connect you a sugaring educator! A perfect and more comfortable alternative to waxing!</p>
+<p>Our Sugar Paste is available in 5 different consistencies:</p>
+<p>1. Sugar of the Nile Strip Paste: a thinner paste used with cotton hair removal strips.<br>2. Sugar of the Nile Soft Paste: for the experienced sugar technician - for use on large areas of the body.<br>3. Sugar of the Nile Traditional Paste: a standard-consistency paste for most hair removing needs.</p>
+<p>4. Sugar of the Nile Island Paste: a firmer paste, for use in warmer temperatures and areas. Used for training.</p>
+<p>5. Sugar of the Nile Bikini Paste: our most dry paste used in warmer temperatures and areas such as the bikini.</p>
+<p>Our sugar paste is paraben free and not tested on animals.</p>
+<p><strong>Worried about getting the technique wrong? Watch this video and learn how to remove sugar paste with regular cotton strips:</strong></p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/2wO29FnV93w" frameborder="0" allowfullscreen=""></iframe></p>
+<p><strong>Sugar of the Nile is a brand exclusive to Breizh in BC! Contact us today to learn more about how this can add to your business or replace Alexandria Sugar Paste!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5319838405</id>
+      <title>Individual / Traditional</title>
+      <s:price currency="CAD">36.95</s:price>
+      <s:sku>BREIZHES-00099</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5319838405</id>
+      <title>Individual / Bikini</title>
+      <s:price currency="CAD">36.95</s:price>
+      <s:sku>BREIZHES-00100</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5319838405</id>
+      <title>Individual / Strip</title>
+      <s:price currency="CAD">36.95</s:price>
+      <s:sku>BREIZHES-00101</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5319838405</id>
+      <title>Individual / Island</title>
+      <s:price currency="CAD">36.95</s:price>
+      <s:sku>BREIZHES-00102</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5319838405</id>
+      <title>Individual / Soft</title>
+      <s:price currency="CAD">36.95</s:price>
+      <s:sku>BREIZHES-00103</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5319838405</id>
+      <title>Half Case (6) / Traditional</title>
+      <s:price currency="CAD">198.95</s:price>
+      <s:sku>BREIZHES-00104</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5319838405</id>
+      <title>Half Case (6) / Bikini</title>
+      <s:price currency="CAD">198.95</s:price>
+      <s:sku>BREIZHES-00105</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5319838405</id>
+      <title>Half Case (6) / Strip</title>
+      <s:price currency="CAD">198.95</s:price>
+      <s:sku>BREIZHES-00106</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5319838405</id>
+      <title>Half Case (6) / Island</title>
+      <s:price currency="CAD">198.95</s:price>
+      <s:sku>BREIZHES-00107</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5319838405</id>
+      <title>Half Case (6) / Soft</title>
+      <s:price currency="CAD">198.95</s:price>
+      <s:sku>BREIZHES-00108</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5319838405</id>
+      <title>Full Case (12) / Traditional</title>
+      <s:price currency="CAD">369.50</s:price>
+      <s:sku>BREIZHES-00109</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5319838405</id>
+      <title>Full Case (12) / Bikini</title>
+      <s:price currency="CAD">369.50</s:price>
+      <s:sku>BREIZHES-00110</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5319838405</id>
+      <title>Full Case (12) / Strip</title>
+      <s:price currency="CAD">369.50</s:price>
+      <s:sku>BREIZHES-00111</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5319838405</id>
+      <title>Full Case (12) / Island</title>
+      <s:price currency="CAD">369.50</s:price>
+      <s:sku>BREIZHES-00112</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.breizh.ca/products/5319838405</id>
+      <title>Full Case (12) / Soft</title>
+      <s:price currency="CAD">369.50</s:price>
+      <s:sku>BREIZHES-00113</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+</feed>
